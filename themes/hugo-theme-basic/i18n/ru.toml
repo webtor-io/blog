@@ -1,0 +1,53 @@
+[blog]
+other = "блог"
+
+[series]
+other = "серии"
+
+[relatedPostsStart]
+other = "Ещё статьи из серии"
+
+[relatedPostsEnd]
+other = " "
+
+[noFollowUpPosts]
+other = "В серии нет больше статей..."
+
+[lastMod]
+other = "последнее изменение от"
+
+[January]
+other = "Января"
+
+[February]
+other = "Февраля"
+
+[March]
+other = "Марта"
+
+[April]
+other = "Апреля"
+
+[May]
+other = "Мая"
+
+[June]
+other = "Июля"
+
+[July]
+other = "Июля"
+
+[August]
+other = "Августа"
+
+[September]
+other = "Сентября"
+
+[October]
+other = "Октября"
+
+[November]
+other = "Ноября"
+
+[December]
+other = "Декабря"

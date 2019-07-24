@@ -1,0 +1,29 @@
+baseURL = "https://blog.webtor.io"
+languageCode = "en-us"
+title = "webtor.io"
+theme = "hugo-theme-basic"
+googleAnalytics = "UA-109413633-1"
+enableEmoji = true
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[params]
+parentURL = "https://webtor.io"
+
+[taxonomies]
+  series = "series"
+  tag = "tags"
+
+[Permalinks]
+  post = "/post/:slug"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.ru]
+    contentDir = "content/ru"
+    languageName = "Русский"
+    weight = 2
+  

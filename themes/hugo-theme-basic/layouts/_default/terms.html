@@ -1,0 +1,44 @@
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+  class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
+>
+  <span class="b">/ </span>
+  <a
+    href="{{ .Site.Params.parentURL }}{{ .Site.LanguagePrefix }}/"
+    class="b bw1 bb pb1 no-underline black"
+    >{{ .Site.Title }}</a
+  >
+  <span class="b"> / </span>
+  <a href="{{ "/post" | relLangURL }}" class="b bb bw1 pb1 no-underline black">{{ i18n "blog" }}</a>
+  <span class="b"> / </span>
+  <!-- prettier-ignore -->
+  <span class="b pb1 no-underline black">{{ lower .Title | i18n }}</span>
+
+  <section id="main" class="mt5">
+    <div>
+      <ul id="list" class="pl0">
+        <!-- prettier-ignore -->
+        {{ range .Pages }}
+        {{ if ne .Title "" }}
+        <li class="list pl0 lh-copy hide-child">
+          <a
+            class="f4 b dib black no-underline"
+            href="{{ .Permalink}}"
+            >{{ .Title }}</a
+          >
+          <span class="f6 gray db dib-ns child"
+            ><em>{{ i18n "lastMod" }}</em> {{ partial (printf "date.%s.html" .Lang) .Lastmod }}</span
+          >
+        </li>
+        <!-- prettier-ignore -->
+        {{ end }}
+        <!-- prettier-ignore -->
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+</html>

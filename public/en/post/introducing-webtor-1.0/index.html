@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="en-us"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="keywords" content="">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Introducing Webtor 1.0" />
+<meta property="og:site_name" content="webtor.io" />
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="https://blog.webtor.io/en/post/introducing-webtor-1.0/" />
+<meta property="og:locale" content="en-us" />
+<meta property="article:published_time" content="2019-07-24
+" /> <meta property="article:modified_time" content="2019-07-24
+" />
+
+
+
+
+
+
+    <title>Introducing Webtor 1.0</title>
+    <link rel="canonical" href="https://blog.webtor.io/en/post/introducing-webtor-1.0/" />
+
+
+    <link
+  rel="stylesheet"
+  href="https://unpkg.com/tachyons@4.11.1/css/tachyons.min.css"
+/>
+
+<link rel="stylesheet" href="/css/style.css" />
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/highlightjs@9.12.0/styles/github-gist.css"
+/>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-109413633-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://static.webtor.io/icons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://static.webtor.io/icons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://static.webtor.io/icons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://static.webtor.io/icons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://static.webtor.io/icons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static.webtor.io/icons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://static.webtor.io/icons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://static.webtor.io/icons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://static.webtor.io/icons/apple-touch-icon-180x180.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="webtor.io"><link rel="icon" type="image/png" sizes="32x32" href="https://static.webtor.io/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="https://static.webtor.io/icons/favicon-16x16.png"><link rel="shortcut icon" href="https://static.webtor.io/icons/favicon.ico"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-320x460.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-640x920.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-640x1096.png"><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-750x1294.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="https://static.webtor.io/icons/apple-touch-startup-image-1182x2208.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="https://static.webtor.io/icons/apple-touch-startup-image-1242x2148.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-748x1024.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-768x1004.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-1496x2048.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-1536x2008.png">
+
+  
+    <link rel="alternate" hreflang="ru" href="https://blog.webtor.io/ru/post/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-webtor-1.0/" title="Русский">
+  
+
+  </head>
+
+
+<body
+  lang="en-us"
+  class="sans-serif w-90 w-80-m w-60-ns center mv2 mv5-ns"
+  itemscope
+  itemtype="http://schema.org/Article"
+>
+  
+  <span class="b">/ </span>
+  <a href="https://webtor.io/en/" class="b bb bw1 pb1 no-underline black">webtor.io</a>
+  <span class="b"> / </span>
+  <a href="/en/post" class="b bb bw1 pb1 no-underline black">blog</a>
+
+  <section id="main" class="mt5">
+    <h1 itemprop="name" id="title">Introducing Webtor 1.0 🎉</h1>
+    <span class="f6 gray">July 24, 2019</span>
+
+      <article itemprop="articleBody" id="content" class="w-90 lh-copy">
+        <p>There are a lot of improvements were done this year that make it possible to tag current version as 1.0. Hurrah! 🎉🎉🎉</p>
+<p>So here is a list of most major changes:</p>
+<ol>
+<li><strong>&ldquo;Seeking&rdquo; support for transcoded audio and video content</strong> - now you can play mkv-movies from the middle (not only from the beginning as it was before).</li>
+<li><strong>Access to transcoding settings for video content</strong> - now it is possible to choose specific audiotrack and subtitles.</li>
+<li><strong>&ldquo;Continue watching from&hellip;&quot;</strong> - player remembers last playback position and suggest to start from that position next time.</li>
+<li><strong>Open recent torrent</strong> - you can just click small arrow near &ldquo;Open torrent online&rdquo; button and the list of recently watched torrents appears.
+It also remembers last accessed folder as well.</li>
+<li><strong>Last watched content</strong> - all watched content is marked with ✔️ sign.</li>
+<li><strong>Social sharing</strong> - now you can share content link as you used to on the other sites. Just click on icon of your preferred social network and share content you are watching right now.</li>
+</ol>
+<p>And also I&rsquo;ve started this blog! That&rsquo;s why you know right now about all improvements!</p>
+
+      </article>
+
+      
+      <span class="f6 gray mv3" title="Lastmod: July 24, 2019. Published at: 2019-07-24.">
+        
+      </span>
+
+      
+        <section class="mt4">
+          
+          
+          <h3>👋 Related posts in the <a href="/en/series/whats-new" class="b bb bw1 pb1 no-underline black">What&#39;s new</a> series...</h3>
+      
+          
+         
+          
+            <ul class="list pl0">
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/"
+                    >New features in Webtor 1.14.0</a
+                  >
+                  <span class="f6 gray">December 22, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/"
+                    >New features in Webtor 1.13.0</a
+                  >
+                  <span class="f6 gray">December 11, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/"
+                    >New features in Webtor 1.12.0</a
+                  >
+                  <span class="f6 gray">November 4, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/"
+                    >New features in Webtor 1.11.0</a
+                  >
+                  <span class="f6 gray">June 29, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/"
+                    >New features in Webtor 1.10.0</a
+                  >
+                  <span class="f6 gray">May 1, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/"
+                    >New features in Webtor 1.9.0</a
+                  >
+                  <span class="f6 gray">March 28, 2021</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/"
+                    >New features in Webtor 1.8.0</a
+                  >
+                  <span class="f6 gray">December 24, 2020</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/"
+                    >New features in Webtor 1.7.0</a
+                  >
+                  <span class="f6 gray">May 27, 2020</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/"
+                    >New features in Webtor 1.6.0</a
+                  >
+                  <span class="f6 gray">December 14, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/"
+                    >New features in Webtor 1.5.0</a
+                  >
+                  <span class="f6 gray">November 24, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/"
+                    >New features in Webtor 1.4.0</a
+                  >
+                  <span class="f6 gray">October 16, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/"
+                    >New features in Webtor 1.3.0</a
+                  >
+                  <span class="f6 gray">September 23, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/"
+                    >New features in Webtor 1.2.0</a
+                  >
+                  <span class="f6 gray">September 4, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/"
+                    >New features in Webtor 1.1.0</a
+                  >
+                  <span class="f6 gray">August 6, 2019</span>
+                </li>
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/"
+                    >New extension for Google Chrome Webtor.io 0.1.10</a
+                  >
+                  <span class="f6 gray">August 3, 2019</span>
+                </li>
+              
+            </ul>  
+          
+        </section>
+      
+
+  </section>
+
+  <footer>
+    <div>
+      <p class="f6 gray mt6 lh-copy">
+        
+      </p>
+    </div>
+  </footer>
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>
+
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+
+
+  </body>
+</html>

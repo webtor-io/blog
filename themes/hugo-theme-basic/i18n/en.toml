@@ -1,0 +1,17 @@
+[blog]
+other = "blog"
+
+[series]
+other = "series"
+
+[relatedPostsStart]
+other = "Related posts in the"
+
+[relatedPostsEnd]
+other = "series..."
+
+[noFollowUpPosts]
+other = "No follow up posts yet. Check back soon!"
+
+[lastMod]
+other = "last modified at"

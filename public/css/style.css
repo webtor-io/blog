@@ -1,0 +1,56 @@
+body {
+  -webkit-font-smoothings: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  background-color: #eeeeee;
+  /* border-radius: 4px; */
+}
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  line-height: 1.4;
+  word-break: break-all;
+  word-wrap: break-word;
+  border: 1px solid #ccc;
+  /* border-radius: 4px; */
+}
+
+pre,
+code {
+  font-family: monocode, monospace;
+  -webkit-font-smoothings: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1:not([style*="color:"]), h2:not([style*="color:"]), h3:not([style*="color:"]), h4:not([style*="color:"]), h5:not([style*="color:"]), h6:not([style*="color:"]) {
+      color: rgb(247, 142, 102) !important;
+  }
+  html, body, :not([style*="background-color:"]) {
+      background-color: rgb(16, 20, 23) !important;
+  }
+
+  html, body, :not([style*="color:"]) {
+      color: rgb(167, 158, 139) !important;
+  }
+  a:not([style*="color:"]) {
+      color: rgb(128, 182, 204) !important;
+  }
+  input:not([style*="background-color:"]), textarea:not([style*="background-color:"]), button:not([style*="background-color:"]), [role="button"] {
+      background-color: rgb(32, 48, 64) !important;
+  }
+  :not([style*="border-color:"]), ::before, ::after {
+      border-color: rgb(80, 115, 134) !important;
+  }
+}
+
+figure img {
+  margin: 0 auto;
+}

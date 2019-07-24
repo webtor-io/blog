@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="en-us"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="keywords" content="">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Technologies inside Webtor.io" />
+<meta property="og:site_name" content="webtor.io" />
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="https://blog.webtor.io/en/post/technologies-inside-webtor.io/" />
+<meta property="og:locale" content="en-us" />
+<meta property="article:published_time" content="2019-10-30
+" /> <meta property="article:modified_time" content="2019-10-30
+" />
+
+
+
+
+
+
+    <title>Technologies inside Webtor.io</title>
+    <link rel="canonical" href="https://blog.webtor.io/en/post/technologies-inside-webtor.io/" />
+
+
+    <link
+  rel="stylesheet"
+  href="https://unpkg.com/tachyons@4.11.1/css/tachyons.min.css"
+/>
+
+<link rel="stylesheet" href="/css/style.css" />
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/highlightjs@9.12.0/styles/github-gist.css"
+/>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-109413633-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://static.webtor.io/icons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://static.webtor.io/icons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://static.webtor.io/icons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://static.webtor.io/icons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://static.webtor.io/icons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static.webtor.io/icons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://static.webtor.io/icons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://static.webtor.io/icons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://static.webtor.io/icons/apple-touch-icon-180x180.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="webtor.io"><link rel="icon" type="image/png" sizes="32x32" href="https://static.webtor.io/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="https://static.webtor.io/icons/favicon-16x16.png"><link rel="shortcut icon" href="https://static.webtor.io/icons/favicon.ico"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-320x460.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-640x920.png"><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-640x1096.png"><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-750x1294.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="https://static.webtor.io/icons/apple-touch-startup-image-1182x2208.png"><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="https://static.webtor.io/icons/apple-touch-startup-image-1242x2148.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-748x1024.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="https://static.webtor.io/icons/apple-touch-startup-image-768x1004.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-1496x2048.png"><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="https://static.webtor.io/icons/apple-touch-startup-image-1536x2008.png">
+
+  
+    <link rel="alternate" hreflang="ru" href="https://blog.webtor.io/ru/post/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-webtor.io/" title="Русский">
+  
+
+  </head>
+
+
+<body
+  lang="en-us"
+  class="sans-serif w-90 w-80-m w-60-ns center mv2 mv5-ns"
+  itemscope
+  itemtype="http://schema.org/Article"
+>
+  
+  <span class="b">/ </span>
+  <a href="https://webtor.io/en/" class="b bb bw1 pb1 no-underline black">webtor.io</a>
+  <span class="b"> / </span>
+  <a href="/en/post" class="b bb bw1 pb1 no-underline black">blog</a>
+
+  <section id="main" class="mt5">
+    <h1 itemprop="name" id="title">Technologies inside Webtor.io </h1>
+    <span class="f6 gray">October 30, 2019</span>
+
+      <article itemprop="articleBody" id="content" class="w-90 lh-copy">
+        <p><figure>
+    <img src="/images/technologies-inside-webtor/kittens.jpg"/> 
+</figure>
+
+Periodically, my users are interested in what technologies <strong>Webtor</strong> is based on,
+whether I use library A or tool B. This time I want to fully answer all questions.</p>
+<p>To begin with, <strong>Webtor</strong> has made a 3-year-long journey from a monolithic application living on a dedicated server
+to the introduction of microservices, containerization, and moving to the <a href="https://kubernetes.io/">Kubernetes (k8s)</a> cluster.
+Currently, about 10 different services are running in the cluster and 100+ simultaneous jobs are running
+for downloading torrents and transcoding content.</p>
+<p>Next, go through the frequently asked questions.</p>
+<h2 id="what-is-webtor-written-on">What is Webtor written on?</h2>
+<p>Almost the entire backend is built on <a href="https://golang.org/">Go</a>. In fairness, the first prototype was
+on <a href="https://nodejs.org">Node.js</a>, but this venture turned out to be a failure.
+Go allowed more efficient use of resources and withstand more users.
+It can be said, that the transition to Go and Kubernetes became the key technical solutions for the project.
+<a href="https://vuejs.org/">Vue.js</a> was selected for the frontend.</p>
+<h2 id="how-does-torrent-download-work-is-it-based-on-webtorrent">How does torrent download work? Is it based on WebTorrent?</h2>
+<p>Unlike many other services <strong>Webtor</strong> is built in such a way to
+provide instant access to content without waiting for the full download to finish.
+Content saved to disk for caching purpose only and deleted in 5 minutes after the last access.
+As the torrent client the go-library <a href="https://github.com/anacrolix/torrent">anacrolix/torrent</a> is used.
+It provides the ability of sequential download and streaming of still underloaded content.
+For each new torrent, a separate container in the cluster is launched, this allows
+achieve maximum process isolation and high scalability of the system.</p>
+<h2 id="ffmpeg-is-used-for-conversion-right">FFmpeg is used for conversion, right?</h2>
+<p>I&rsquo;ll start a little from afar.</p>
+<p>Probably the most difficult challenge awaited me here. It was necessary to give users
+the ability to play still underloaded avi/mkv/flac files as they used to
+do it earlier, with the ability to rewind to the desired position, with choice of subtitles and audio tracks.
+I did not find any ready-made solutions, so I had to reinvent the wheel.</p>
+<p>So how does it work. Transcoding begins with determining the duration of the content. Based on this duration
+a full HLS-playlist is generated with records of still non-existent 10 second fragments. When any of these fragments
+is accessed the new <a href="https://www.ffmpeg.org/">FFmpeg</a> process is launched to
+convert the necessary fragment (in this case, only the necessary part of the torrent is downloaded).
+As soon as the fragmnet is converted, it is sent to the user. If the user suddenly rewound to another section,
+then the current FFmpeg process &ldquo;falls asleep&rdquo;, and somewhere already starts a new one. If the user came back, then the old
+process located nearby &ldquo;wakes up&rdquo; and continues its work. In the end, you get a whole seamless video.
+And yes, each conversion also runs in a separate container.</p>
+<p>Under ideal conditions, video with a low resolution (720p) and a sufficient number of peers is converted
+without tangible delays.</p>
+<h2 id="i-want-to-install-webtor-on-my-server-how-do-i-do-this">I want to install Webtor on my server, how do I do this?</h2>
+<p>Slowly but surely, work is underway to opensource the project. At the end, everyone can
+install <strong>Webtor</strong> into their Kubernetes cluster.</p>
+<p>Thank you for using <a href="https://webtor.io/en/">webtor.io</a> and <a href="https://www.patreon.com/bePatron?u=24145874">sponsor it</a> if you wish!</p>
+
+      </article>
+
+      
+      <span class="f6 gray mv3" title="Lastmod: October 30, 2019. Published at: 2019-10-30.">
+        
+      </span>
+
+      
+        <section class="mt4">
+          
+          
+          <h3>👋 Related posts in the <a href="/en/series/whats-inside" class="b bb bw1 pb1 no-underline black">What&#39;s inside</a> series...</h3>
+      
+          
+         
+          
+            <ul class="list pl0">
+              
+                <li class="list pl0 lh-copy">
+                  <a
+                    class="f4 b dib black no-underline"
+                    href="https://blog.webtor.io/en/post/anonymous-and-secure/"
+                    >Anonymous and Secure</a
+                  >
+                  <span class="f6 gray">December 22, 2020</span>
+                </li>
+              
+            </ul>  
+          
+        </section>
+      
+
+  </section>
+
+  <footer>
+    <div>
+      <p class="f6 gray mt6 lh-copy">
+        
+      </p>
+    </div>
+  </footer>
+  
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>
+
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+
+
+  </body>
+</html>

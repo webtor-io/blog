@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What&#39;s inside on webtor.io</title>
+    <link>https://blog.webtor.io/en/series/whats-inside/</link>
+    <description>Recent content in What&#39;s inside on webtor.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 20:52:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/series/whats-inside/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anonymous and Secure</title>
+      <link>https://blog.webtor.io/en/post/anonymous-and-secure/</link>
+      <pubDate>Tue, 22 Dec 2020 20:52:00 +0300</pubDate>
+      
+      <guid>https://blog.webtor.io/en/post/anonymous-and-secure/</guid>
+      <description>Quite often I get asked questions about how secure it is to use Webtor and how does using Webtor differ from using a regular BitTorrent.
+It also turned out that in some countries the use of BitTorrent-networks for downloading this or that content can be potentially dangerous and lead to substantial fines (eg in Germany).
+To understand this issue, let&amp;rsquo;s understand the principles of the webtor.io service.
+ When visiting the webtor.</description>
+    </item>
+    
+    <item>
+      <title>Technologies inside Webtor.io</title>
+      <link>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</link>
+      <pubDate>Wed, 30 Oct 2019 21:47:00 +0300</pubDate>
+      
+      <guid>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</guid>
+      <description>Periodically, my users are interested in what technologies Webtor is based on, whether I use library A or tool B. This time I want to fully answer all questions.
+To begin with, Webtor has made a 3-year-long journey from a monolithic application living on a dedicated server to the introduction of microservices, containerization, and moving to the Kubernetes (k8s) cluster. Currently, about 10 different services are running in the cluster and 100+ simultaneous jobs are running for downloading torrents and transcoding content.</description>
+    </item>
+    
+  </channel>
+</rss>
