@@ -6,7 +6,19 @@
     <description>Recent content on webtor.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 19:23:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 19:17:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webtor API v1.0.0</title>
+      <link>https://blog.webtor.io/ru/post/webtor-api-v1.0.0/</link>
+      <pubDate>Fri, 08 Jul 2022 19:17:00 +0300</pubDate>
+      
+      <guid>https://blog.webtor.io/ru/post/webtor-api-v1.0.0/</guid>
+      <description>Представляю вашему вниманию Webtor API! 🎉🎉🎉
+Что оно умеет:
+ Загружать торренты без BitTorrent-клиента. Стримить торренты онлайн с транскодирование налету. Загружать субтитры c OpenSubtitles.org.  Здорово и как получить к нему доступ? Тут на выбор два варианта:
+ Разместить его на своём оборудовании в рамках self-hosted решения. Подключиться через RapidAPI.  Спасибо что используете webtor.io и поддержите проект!</description>
+    </item>
+    
     <item>
       <title>Новые улучшения в Webtor 1.15.0</title>
       <link>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.15.0/</link>

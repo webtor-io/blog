@@ -6,7 +6,19 @@
     <description>Recent content in What&#39;s new on webtor.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 19:23:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 19:17:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webtor API v1.0.0</title>
+      <link>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</link>
+      <pubDate>Fri, 08 Jul 2022 19:17:00 +0300</pubDate>
+      
+      <guid>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</guid>
+      <description>I present to your attention the Webtor API! 🎉🎉🎉
+Webtor API allows you to:
+ Download torrent content without usage of BitTorrent-client. Stream content instantly with on-the-fly transcoding. Webtor generates HLS-streams suitable for web-streaming. Fetch OpenSubtitles.org for torrent content.  Great and how to access it? There are two options to choose from here:
+ Host it on your hardware as part of a self-hosted solution. Connect via RapidAPI.  Thank you for using webtor.</description>
+    </item>
+    
     <item>
       <title>New features in Webtor 1.15.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/</link>
