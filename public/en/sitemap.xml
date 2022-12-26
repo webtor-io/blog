@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</loc>
+    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.16.0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/"
+                />
+  </url>
+  
+  <url>
     <loc>https://blog.webtor.io/en/post/</loc>
-    <lastmod>2022-07-08T19:17:00+03:00</lastmod>
+    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -19,7 +34,7 @@
   
   <url>
     <loc>https://blog.webtor.io/en/series/</loc>
-    <lastmod>2022-07-08T19:17:00+03:00</lastmod>
+    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -30,6 +45,26 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://blog.webtor.io/en/</loc>
+    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.webtor.io/en/series/whats-new/</loc>
+    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
   </url>
   
   <url>
@@ -45,26 +80,6 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/webtor-api-v1.0.0/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/</loc>
-    <lastmod>2022-07-08T19:17:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/series/whats-new/</loc>
-    <lastmod>2022-07-08T19:17:00+03:00</lastmod>
   </url>
   
   <url>

@@ -6,7 +6,19 @@
     <description>Recent content on webtor.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 19:17:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 21:34:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New features in Webtor 1.16.0</title>
+      <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</link>
+      <pubDate>Mon, 26 Dec 2022 21:34:00 +0300</pubDate>
+      
+      <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</guid>
+      <description>Last release of the year!
+The outgoing year was extremely difficult for the project. In addition to development, it was necessary resolve issues related to finding a new hosting and payment methods. But luckily, it&amp;rsquo;s over now! 😆😆😆
+So, the list of changes (as usual):
+ Shorter time to download - earlier, before the start of the download, a new torrent client was launched, which could take 5-10 seconds, and only after that the search for peers and the actual download itself began.</description>
+    </item>
+    
     <item>
       <title>Webtor API v1.0.0</title>
       <link>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</link>
