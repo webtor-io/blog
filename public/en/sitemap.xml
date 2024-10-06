@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.webtor.io/en/post/meet-web-ui-version-2/</loc>
+    <lastmod>2024-10-06T15:07:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/meet-web-ui-version-2/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/</loc>
+    <lastmod>2024-10-06T15:07:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/series/</loc>
+    <lastmod>2024-10-06T15:07:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/series/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/</loc>
+    <lastmod>2024-10-06T15:07:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/series/whats-new/</loc>
+    <lastmod>2024-10-06T15:07:00+03:00</lastmod>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</loc>
     <lastmod>2022-12-26T21:34:00+03:00</lastmod>
     <xhtml:link
@@ -15,59 +69,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/post/</loc>
-    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/series/</loc>
-    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/</loc>
-    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.webtor.io/en/series/whats-new/</loc>
-    <lastmod>2022-12-26T21:34:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</loc>
     <lastmod>2022-07-08T19:17:00+03:00</lastmod>
     <xhtml:link
@@ -80,9 +82,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/webtor-api-v1.0.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/</loc>
     <lastmod>2022-04-17T19:23:00+03:00</lastmod>
     <xhtml:link
@@ -95,9 +95,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/</loc>
     <lastmod>2021-12-22T22:48:00+03:00</lastmod>
     <xhtml:link
@@ -110,9 +108,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/</loc>
     <lastmod>2021-12-11T16:38:00+03:00</lastmod>
     <xhtml:link
@@ -125,9 +121,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/</loc>
     <lastmod>2021-11-04T00:05:00+03:00</lastmod>
     <xhtml:link
@@ -140,9 +134,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/</loc>
     <lastmod>2021-06-29T00:05:00+03:00</lastmod>
     <xhtml:link
@@ -155,9 +147,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/</loc>
     <lastmod>2021-05-01T21:00:00+03:00</lastmod>
     <xhtml:link
@@ -170,9 +160,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/</loc>
     <lastmod>2021-03-28T21:17:00+03:00</lastmod>
     <xhtml:link
@@ -185,9 +173,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/</loc>
     <lastmod>2020-12-24T00:20:00+03:00</lastmod>
     <xhtml:link
@@ -200,9 +186,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/anonymous-and-secure/</loc>
     <lastmod>2020-12-22T20:52:00+03:00</lastmod>
     <xhtml:link
@@ -215,14 +199,10 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/anonymous-and-secure/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/series/whats-inside/</loc>
     <lastmod>2020-12-22T20:52:00+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</loc>
     <lastmod>2020-10-18T18:09:00+03:00</lastmod>
     <xhtml:link
@@ -235,9 +215,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/</loc>
     <lastmod>2020-05-27T22:59:00+03:00</lastmod>
     <xhtml:link
@@ -250,9 +228,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/</loc>
     <lastmod>2019-12-14T16:52:00+03:00</lastmod>
     <xhtml:link
@@ -265,9 +241,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/</loc>
     <lastmod>2019-11-24T01:01:00+03:00</lastmod>
     <xhtml:link
@@ -280,9 +254,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</loc>
     <lastmod>2019-10-30T21:47:00+03:00</lastmod>
     <xhtml:link
@@ -295,9 +267,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/technologies-inside-webtor.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/</loc>
     <lastmod>2019-10-16T21:28:00+03:00</lastmod>
     <xhtml:link
@@ -310,9 +280,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/</loc>
     <lastmod>2019-09-23T15:24:00+03:00</lastmod>
     <xhtml:link
@@ -325,9 +293,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/</loc>
     <lastmod>2019-09-04T20:02:00+03:00</lastmod>
     <xhtml:link
@@ -340,9 +306,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/</loc>
     <lastmod>2019-08-06T23:27:00+03:00</lastmod>
     <xhtml:link
@@ -355,9 +319,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/</loc>
     <lastmod>2019-08-03T00:13:37+03:00</lastmod>
     <xhtml:link
@@ -370,9 +332,7 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/introducing-webtor-1.0/</loc>
     <lastmod>2019-07-24T00:15:00+03:00</lastmod>
     <xhtml:link
@@ -385,24 +345,16 @@
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/introducing-webtor-1.0/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/series/watch-movies-online-from-any-torrent-site/</loc>
     <lastmod>2019-07-23T22:26:03+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/watch-movies-online-from-nyaa.si/</loc>
     <lastmod>2019-07-23T22:26:03+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/post/watch-movies-online-from-yts.am/</loc>
     <lastmod>2019-07-23T14:30:02+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.webtor.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -415,5 +367,4 @@
                 href="https://blog.webtor.io/en/tags/"
                 />
   </url>
-  
 </urlset>

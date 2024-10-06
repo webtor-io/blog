@@ -30,9 +30,10 @@
         <section class="mt4">
           {{ $readMore := ":wave:" }}
           {{ $series := replace .Params.series "'" "" | anchorize}}
+          {{ $seriesKey := .Params.series | lower }}
           <h3>{{ $readMore | emojify }} {{ i18n "relatedPostsStart" }} <a href="{{ printf "/series/%s" $series | relLangURL }}" class="b bb bw1 pb1 no-underline black">{{ .Params.Series }}</a> {{ i18n "relatedPostsEnd" }}</h3>
       
-          {{ $posts := index .Site.Taxonomies.series $series }}
+          {{ $posts := index .Site.Taxonomies.series $seriesKey }}
          
           {{ if (gt ($posts | len) 1)}}
             <ul class="list pl0">

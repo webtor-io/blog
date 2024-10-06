@@ -4,7 +4,8 @@
     <title>Tags on webtor.io</title>
     <link>https://blog.webtor.io/ru/tags/</link>
     <description>Recent content in Tags on webtor.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.webtor.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="https://blog.webtor.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

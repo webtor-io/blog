@@ -1,217 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What&#39;s new on webtor.io</title>
+    <title>What&#39;s New on webtor.io</title>
     <link>https://blog.webtor.io/en/series/whats-new/</link>
-    <description>Recent content in What&#39;s new on webtor.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Dec 2022 21:34:00 +0300</lastBuildDate><atom:link href="https://blog.webtor.io/en/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in What&#39;s New on webtor.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Oct 2024 15:07:00 +0300</lastBuildDate>
+    <atom:link href="https://blog.webtor.io/en/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet web-ui version 2!</title>
+      <link>https://blog.webtor.io/en/post/meet-web-ui-version-2/</link>
+      <pubDate>Sun, 06 Oct 2024 15:07:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/meet-web-ui-version-2/</guid>
+      <description>&lt;p&gt;Meet web-ui version 2!&lt;/p&gt;&#xA;&lt;p&gt;The back was completely rewritten from Node.js to Golang, and the front became as lightweight as possible.&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s new?&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark and light themes&lt;/strong&gt; - now you can change the interface settings depending on your&#xA;preferences (the system color scheme will be used by default).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Authorization&lt;/strong&gt; - authorization used to be only through Patreon, now you can log in&#xA;simply using your email address.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Clear progress&lt;/strong&gt; - now you can see how the process of preparing the torrent for playback is going on&#xA;and the jump and at what specific stage the problem arose.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Improved download speed&lt;/strong&gt; - the volume of downloaded scripts and styles has been reduced by 5 times!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New features in Webtor 1.16.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</link>
       <pubDate>Mon, 26 Dec 2022 21:34:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</guid>
-      <description>Last release of the year!
-The outgoing year was extremely difficult for the project. In addition to development, it was necessary resolve issues related to finding a new hosting and payment methods. But luckily, it&amp;rsquo;s over now! 😆😆😆
-So, the list of changes (as usual):
- Shorter time to download - earlier, before the start of the download, a new torrent client was launched, which could take 5-10 seconds, and only after that the search for peers and the actual download itself began.</description>
+      <description>&lt;p&gt;Last release of the year!&lt;/p&gt;&#xA;&lt;p&gt;The outgoing year was extremely difficult for the project. In addition to development, it was necessary&#xA;resolve issues related to finding a new hosting and payment methods. But luckily, it&amp;rsquo;s over now! 😆😆😆&lt;/p&gt;&#xA;&lt;p&gt;So, the list of changes (as usual):&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shorter time to download&lt;/strong&gt; - earlier, before the start of the download, a new torrent client was launched, which could&#xA;take 5-10 seconds, and only after that the search for peers and the actual download itself began. Now, a certain number of&#xA;torrent clients are working in the cluster all the time, which can process several torrent downloads simultaneously, this&#xA;made it possible to remove just those 5-10 seconds necessary for a cold start.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Long-lasting cache&lt;/strong&gt; - earlier, if no one accessed the torrent client, then after 10 minutes it turned off and all&#xA;downloaded data disappeared with it. Now data is deleted only if there is no room left on the server and only the oldest&#xA;unused files are deleted. This allows to save the downloaded information for a longer period.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Work has begun on the next version of the web interface, more details can be found on&#xA;&lt;a href=&#34;https://github.com/webtor-io/web-ui-v2&#34;&gt;its repository page&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Webtor API v1.0.0</title>
       <link>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</link>
       <pubDate>Fri, 08 Jul 2022 19:17:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</guid>
-      <description>I present to your attention the Webtor API! 🎉🎉🎉
-Webtor API allows you to:
- Download torrent content without usage of BitTorrent-client. Stream content instantly with on-the-fly transcoding. Webtor generates HLS-streams suitable for web-streaming. Fetch OpenSubtitles.org for torrent content.  Great and how to access it? There are two options to choose from here:
- Host it on your hardware as part of a self-hosted solution. Connect via RapidAPI.  Thank you for using webtor.</description>
+      <description>&lt;p&gt;I present to your attention the Webtor API! &amp;#x1f389;&amp;#x1f389;&amp;#x1f389;&lt;/p&gt;&#xA;&lt;p&gt;Webtor API allows you to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Download torrent content without usage of BitTorrent-client.&lt;/li&gt;&#xA;&lt;li&gt;Stream content instantly with on-the-fly transcoding. Webtor generates HLS-streams suitable for web-streaming.&lt;/li&gt;&#xA;&lt;li&gt;Fetch &lt;a href=&#34;https://www.opensubtitles.org/&#34;&gt;OpenSubtitles.org&lt;/a&gt; for torrent content.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Great and how to access it? There are two options to choose from here:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Host it on your hardware as part of a &lt;a href=&#34;https://github.com/webtor-io/helm-charts&#34;&gt;self-hosted solution&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Connect via &lt;a href=&#34;https://rapidapi.com/paveltatarsky-Dx4aX7s_XBt/api/webtor/&#34;&gt;RapidAPI&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.15.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/</link>
       <pubDate>Sun, 17 Apr 2022 19:23:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/</guid>
-      <description>Webtor has finally moved completely to Open Source, what does this mean:
- All code for all project components is now publicly available on Github. Now it is possible to deploy Webtor at home. Installation script attached.  Future plans:
- Add REST-API, this should make it easier to programmatically use the service. Implement support for external HTTP links as a source.  Thank you for using webtor.io and sponsor it if you wish!</description>
+      <description>&lt;p&gt;&lt;strong&gt;Webtor&lt;/strong&gt; has finally moved completely to Open Source, what does this mean:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;All code for all project components is now &lt;a href=&#34;https://github.com/webtor-io&#34;&gt;publicly available on Github&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Now it is possible to deploy &lt;strong&gt;Webtor&lt;/strong&gt; at home. &lt;a href=&#34;https://github.com/webtor-io/helm-charts&#34;&gt;Installation script attached&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Future plans:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Add REST-API, this should make it easier to programmatically use the service.&lt;/li&gt;&#xA;&lt;li&gt;Implement support for external HTTP links as a source.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.14.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/</link>
       <pubDate>Wed, 22 Dec 2021 22:48:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/</guid>
-      <description>Latest release of this year!
-Before announcing the list of changes, I want to share with you great news!
-In anticipation of the upcoming holidays, the speed has been increased for all who support the project!
- Bronze Backer 15Mbit/s =&amp;gt; 20Mbit/s Silver Backer 25Mbit/s =&amp;gt; 50Mbit/s Gold Backer 50Mbit/s =&amp;gt; 100Mbit/s  And here is the list of changes itself:
- Support for Zip64 - now there is no limit on the size of files placed in a ZIP archive, previously there was a limit of 4GB.</description>
+      <description>&lt;p&gt;Latest release of this year!&lt;/p&gt;&#xA;&lt;p&gt;Before announcing the list of changes, I want to share with you great news!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;In anticipation of the upcoming holidays, the speed has been increased for all who support the project!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bronze Backer 15Mbit/s =&amp;gt; 20Mbit/s&lt;/li&gt;&#xA;&lt;li&gt;Silver Backer 25Mbit/s =&amp;gt; 50Mbit/s&lt;/li&gt;&#xA;&lt;li&gt;Gold Backer   50Mbit/s =&amp;gt; 100Mbit/s&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And here is the list of changes itself:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Support for Zip64&lt;/strong&gt; - now there is no limit on the size of files placed in a ZIP archive, previously there was a limit of 4GB.&#xA;(I&amp;rsquo;m also thinking about supporting the TAR format, write if someone else is also interested in this!)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Resumed support for Google Chromecast&lt;/strong&gt; - now you can immediately stream your content to any device with support of&#xA;Google Chromecast. During playback, the corresponding icon appears in the upper right corner of the player.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thanks to your support, &lt;a href=&#34;https://github.com/webtor-io/&#34;&gt;part of the project moved to Open Source&lt;/a&gt;, which allowed great projects to appear:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.13.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/</link>
       <pubDate>Sat, 11 Dec 2021 16:38:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/</guid>
-      <description>Here&amp;rsquo;s a list of the key changes:
-  ️Resume download bug fixed - now, in the case of a failure during downloading, resuming works correctly, this applies to downloads of both individual files and downloads in a ZIP archive.
-  Fewer drops and crashes - earlier, during component releases, all downloads were interrupted, now they just pause at the time of the update.
-  Torrent files live forever - previously torrent files were deleted after a certain time, now they are saved forever, this allows less frequent access to the BitTorrent network and improves response time.</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;️Resume download bug fixed&lt;/strong&gt; - now, in the case of a failure during downloading, resuming works correctly,&#xA;this applies to downloads of both individual files and downloads in a ZIP archive.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fewer drops and crashes&lt;/strong&gt; - earlier, during component releases, all downloads were interrupted, now they just pause&#xA;at the time of the update.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Torrent files live forever&lt;/strong&gt; - previously torrent files were deleted after a certain time, now they are saved forever, this&#xA;allows less frequent access to the BitTorrent network and improves response time. (this does not apply to downloadable content!)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.12.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/</link>
       <pubDate>Thu, 04 Nov 2021 00:05:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/</guid>
-      <description>Here&amp;rsquo;s a list of the key changes:
- ️Progressive enhancement for video formats - previously popular video-content was only cached to avoid the need of periodic trnasmitting from the BitTorrent-network. Now the video is deferredly converted to various formats for optimal mobile playback (adaptive bitrate streaming). Improved loading of cached HLS-fragments - now cached fragments are loaded with lookahead, thus on request the necessary fragment has already been preloaded to the edge-server from the main cache-storage.</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;️Progressive enhancement for video formats&lt;/strong&gt; - previously popular video-content was only cached to avoid the need of periodic&#xA;trnasmitting from the BitTorrent-network. Now the video is deferredly converted to various formats for optimal mobile playback&#xA;(adaptive bitrate streaming).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Improved loading of cached HLS-fragments&lt;/strong&gt; - now cached fragments are loaded with lookahead, thus on request&#xA;the necessary fragment has already been preloaded to the edge-server from the main cache-storage.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.11.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/</link>
       <pubDate>Tue, 29 Jun 2021 00:05:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/</guid>
-      <description>Here&amp;rsquo;s a list of the key changes:
- ️Download has become clearer and more convenient - now, when downloading, a separate form opens with the progress of the download, and the ability to copy the download link. It is also possible to generate a bash command to download via Wget. Player SDK has now been renamed to Embed SDK - at some point it became clear that webtor could be integrated not only in the form of a player and the &amp;ldquo;Player SDK&amp;rdquo; name would be misleading.</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;️Download has become clearer and more convenient&lt;/strong&gt; - now, when downloading, a separate form opens with the progress of the download, and the ability to copy the download link. It is also possible to generate a bash command to download via &lt;a href=&#34;https://www.gnu.org/software/wget/&#34;&gt;Wget&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Player SDK has now been renamed to Embed SDK&lt;/strong&gt; - at some point it became clear that &lt;strong&gt;webtor&lt;/strong&gt; could be integrated not only in the form of a player and the &amp;ldquo;Player SDK&amp;rdquo; name would be misleading.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;You can now download the torrent as an archive on your website&lt;/strong&gt; - &lt;a href=&#34;https://github.com/webtor-io/embed-sdk-js&#34;&gt;Embed SDK&lt;/a&gt; can now, in addition to the player, integrate a download form similar to download form at &lt;a href=&#34;https://webtor.io&#34;&gt;webtor.io&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Improved MP4 streaming at 1080p&lt;/strong&gt; - improved MP4 playback at 1080p, reduced latency during playback (on desktop).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fixed transcoding content errors&lt;/strong&gt; - there was an error with a delay in the start of playback.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.10.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/</link>
       <pubDate>Sat, 01 May 2021 21:00:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/</guid>
-      <description>Here&amp;rsquo;s a list of the key changes:
- Badge with heart ❤️ - now every backer can see their status in the top menu. Easier to share links - now you can generate direct links like https://webtor.io/%infohash% or https://webtor.io/%magnet-uri%. The ability to generate them from the interface has also been added, just click &amp;ldquo;Share link&amp;rdquo;. Player embed code generation - now the &amp;ldquo;&amp;lt;/&amp;gt;&amp;rdquo;, appears in the video player, which allows you to generate a code for inserting the player on your website or blog.</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Badge with heart ❤️&lt;/strong&gt; - now every backer can see their status in the top menu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Easier to share links&lt;/strong&gt; - now you can generate direct links like &lt;code&gt;https://webtor.io/%infohash%&lt;/code&gt; or &lt;code&gt;https://webtor.io/%magnet-uri%&lt;/code&gt;.&#xA;The ability to generate them from the interface has also been added, just click &amp;ldquo;Share link&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Player embed code generation&lt;/strong&gt; - now the &amp;ldquo;&lt;code&gt;&amp;lt;/&amp;gt;&lt;/code&gt;&amp;rdquo;, appears in the video player, which allows you to generate&#xA;a code for inserting the player on your website or blog.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Displaying the transcoding process&lt;/strong&gt; - now the player shows the progress of transcoding, and the time rail hightlights already transcoded fragment.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;External subtitles are also available for mobile devices&lt;/strong&gt; - previously, when selecting OpenSubtitles  they did not play on mobile devices,&#xA;but now it is working.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Transcoding errors are visible&lt;/strong&gt; - now if a transcoding error occurs, its cause is immediately displayed in the player window.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Also in the &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;player SDK&lt;/a&gt; an alternative method for initializing the player was added,&#xA;now you can simply embed the script and specify the Magnet-URI in the &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt; tag:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.9.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/</link>
       <pubDate>Sun, 28 Mar 2021 21:17:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/</guid>
-      <description>First release of this year!
-Here&amp;rsquo;s a list of the key changes:
- Expanded list of supported formats - added support for video files with .ts and .vob extensions. Instant switching between audio tracks - previously, when an alternative audio track was selected, playback started from the very beginning. Now all tracks are converted at the same time, allowing you to switch between them on the fly. The selection of audio tracks has been moved to the subtitles menu.</description>
+      <description>&lt;p&gt;First release of this year!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Expanded list of supported formats&lt;/strong&gt; - added support for video files with .ts and .vob extensions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instant switching between audio tracks&lt;/strong&gt; - previously, when an alternative audio track was selected,&#xA;playback started from the very beginning. Now all tracks are converted at the same time, allowing you&#xA;to switch between them on the fly. The selection of audio tracks has been moved to the subtitles menu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Content caching has been improved&lt;/strong&gt; - during playback, the following fragments are loaded in the background,&#xA;which makes smoother playback. Also, transcoded fragments began to be cached.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Minor interface improvements&lt;/strong&gt; - added an indication of the file size in the listing, rounded corners of elements.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.8.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/</link>
       <pubDate>Thu, 24 Dec 2020 00:20:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/</guid>
-      <description>Latest release of this year!
-Here&amp;rsquo;s a list of the key changes:
- The main page has been improved - now there is a field for entering a magnet-link (by the way, now you can use just infohash). Resuming the download of the ZIP-archive after break - now when downloading the ZIP-archive, the browser will display the full size of the downloaded archive, and you can also pause and resume downloading the archive from the same location.</description>
+      <description>&lt;p&gt;Latest release of this year!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a list of the key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;The main page has been improved&lt;/strong&gt; - now there is a field for entering a magnet-link (by the way, now you can use just infohash).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Resuming the download of the ZIP-archive after break&lt;/strong&gt; - now when downloading the ZIP-archive, the browser will display the full size of the downloaded archive, and you can also pause and resume downloading the archive from the same location.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;View video only via HLS&lt;/strong&gt; - now mp4 format is also converted to HLS on-the-fly. Thanks to this, it was possible&#xA;implement the ability to save bandwidth by sharing HLS-fragments via &lt;a href=&#34;https://webrtc.org/&#34;&gt;WebRTC&lt;/a&gt;&#xA;using the &lt;a href=&#34;https://github.com/Novage/p2p-media-loader&#34;&gt;p2p-media-loader&lt;/a&gt; library&#xA;(&lt;a href=&#34;https://github.com/webtorrent/webtorrent&#34;&gt;WebTorrent&lt;/a&gt; had to be abandoned due to large delays at the beginning of playback).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Added a lot of features to the player SDK&lt;/strong&gt; - now in the &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;SDK&lt;/a&gt; you can specify&#xA;which elements of the player should be disabled. It became possible to stretch the player simultaneously in width and height by 100%.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Switching between files in the player&lt;/strong&gt; - now you can switch between files within folder without leaving the player&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.7.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/</link>
       <pubDate>Wed, 27 May 2020 22:59:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/</guid>
-      <description>It has been quite a while since the previous release, but it was worth it!
-Here is a list of key changes:
- Player SDK is already available! - Now you can embed the playback of torrent content in any site without extra effort. SDK with an example usage published to Github. Interface for selecting and displaying subtitles improved - it became much easier to select subtitles from a large list, as well as the opportunity to change subtitle size on the fly.</description>
+      <description>&lt;p&gt;It has been quite a while since the previous release, but it was worth it!&lt;/p&gt;&#xA;&lt;p&gt;Here is a list of key changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Player SDK is already available!&lt;/strong&gt; - Now you can embed the playback of torrent content in any site without extra effort. SDK with an example&#xA;usage &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;published to Github&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interface for selecting and displaying subtitles improved&lt;/strong&gt; - it became much easier to select subtitles from a large list, as well as the opportunity&#xA;to change subtitle size on the fly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark mode by default&lt;/strong&gt; - now the main color scheme of the interface is solved in dark shades by default. They say it protects our eyes!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Caching of downloaded content improved&lt;/strong&gt; - now all downloaded content is saved for a day and does not require re-downloading from the BitTorrent network.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WebRTC support&lt;/strong&gt; - if several users watch the same movie, then they exchange fragments of it by the &lt;a href=&#34;https://webrtc.org/&#34;&gt;WebRTC&lt;/a&gt; protocol.&#xA;This uses a private tracker. Only MP4 is currently supported.&#xA;This was made possible thanks to the &lt;a href=&#34;https://github.com/webtorrent/webtorrent&#34;&gt;WebTorrent&lt;/a&gt; project.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Now all server components of the Webtor platform and SDK are available opensource:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.6.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/</link>
       <pubDate>Sat, 14 Dec 2019 16:52:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/</guid>
-      <description>This release was mainly focused on stability and fixing performance issues of the service.
-The most affected component was transcoding. Here is a short list of changes:
- Dropped HEVC-support - transcoding from HEVC(x265) to h264(x264) is a really heavy lifting that freezes work of whole service. Dropped &amp;ldquo;fast forward&amp;rdquo; functionality - now transcoding starts always from the beginning. It makes possible to just repack stream to HLS instead of &amp;ldquo;real transcoding&amp;rdquo;.</description>
+      <description>&lt;p&gt;This release was mainly focused on stability and fixing performance issues of the service.&lt;/p&gt;&#xA;&lt;p&gt;The most affected component was transcoding. Here is a short list of changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dropped HEVC-support&lt;/strong&gt; - transcoding from HEVC(x265) to h264(x264) is a really heavy lifting that freezes work of whole service.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dropped &amp;ldquo;fast forward&amp;rdquo; functionality&lt;/strong&gt; - now transcoding starts always from the beginning. It makes possible to just repack stream&#xA;to HLS instead of &amp;ldquo;real transcoding&amp;rdquo;. This change also dramatically insreases quality of h264-based video. Also &amp;ldquo;fast forward&amp;rdquo; freezes&#xA;sometimes and looks quite unreliable.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Here we see an example of reducing features in favor of image quality and service stability.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.5.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/</link>
       <pubDate>Sun, 24 Nov 2019 01:01:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/</guid>
-      <description>Here is a list of new November&amp;rsquo;s features:
- OpenSubtitles suppport - now Webtor automatically loads all available subtitles from OpenSubtitles.org for your preffered language. All subtitles are available under player&amp;rsquo;s CC button.  Thank you for using webtor.io and sponsor it if you wish!</description>
+      <description>&lt;p&gt;Here is a list of new November&amp;rsquo;s features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;OpenSubtitles suppport&lt;/strong&gt; - now &lt;strong&gt;Webtor&lt;/strong&gt; automatically loads all available subtitles from OpenSubtitles.org for your preffered language.&#xA;All subtitles are available under player&amp;rsquo;s &lt;strong&gt;CC&lt;/strong&gt; button.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.4.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/</link>
       <pubDate>Wed, 16 Oct 2019 21:28:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/</guid>
-      <description>Here is a list of new October&amp;rsquo;s features:
- Download ZIP-archive - now you can push &amp;ldquo;Download as ZIP-archive&amp;rdquo; button and downloading of the current folder will start immediately. But there might be some delay in case if there is no available peers. &amp;ldquo;Share&amp;rdquo; button - yes, you had share ability earlier as well, but now we have separate button. On click it will show dropdown with all available social networks.</description>
+      <description>&lt;p&gt;Here is a list of new October&amp;rsquo;s features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Download ZIP-archive&lt;/strong&gt; - now you can push &lt;strong&gt;&amp;ldquo;Download as ZIP-archive&amp;rdquo;&lt;/strong&gt; button and downloading of the current folder will start immediately.&#xA;But there might be some delay in case if there is no available peers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Share&amp;rdquo; button&lt;/strong&gt; - yes, you had share ability earlier as well, but now we have separate button. On click it will show dropdown with&#xA;all available social networks.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.3.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/</link>
       <pubDate>Mon, 23 Sep 2019 15:24:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/</guid>
-      <description>Here is a list of new features:
- Dark/Light mode - now webtor.io will automatically switch theme according to your system preferences. Also it is possible to switch between modes with &amp;ldquo;Dark/Light mode&amp;rdquo; button at the right top corner of the screen (near language selector). This blog gains this feature too (but without switch button). Sponsor access - if you become a sponsor somehow then you can access additional features with special sponsor access.</description>
+      <description>&lt;p&gt;Here is a list of new features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark/Light mode&lt;/strong&gt; - now &lt;strong&gt;webtor.io&lt;/strong&gt; will automatically switch theme according to your system preferences.&#xA;Also it is possible to switch between modes with &amp;ldquo;Dark/Light mode&amp;rdquo; button at the right top corner of the screen (near language selector).&#xA;This blog gains this feature too (but without switch button).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sponsor access&lt;/strong&gt; - if you &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;become a sponsor&lt;/a&gt; somehow then you can access additional features with special &lt;strong&gt;sponsor access&lt;/strong&gt;.&#xA;Just click &amp;ldquo;Already a Sponsor? Login here!&amp;rdquo; link near &amp;ldquo;Sponsor&amp;rdquo; button and you will be authorized through &lt;strong&gt;Patreon&lt;/strong&gt;.&#xA;If you have any active tiers then all connected offers will be activated. (&lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;Learn more about tiers&amp;hellip;&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open-sourcing&lt;/strong&gt; - here is one thing that people sometimes asking me. It is &amp;ldquo;How to run webtor at my own server?&amp;rdquo;.&#xA;I haven&amp;rsquo;t planned it before, but now I decided to start open-sourcing all parts of this project (backend, frontend and Google Chrome Extension).&#xA;This task is not simple and can take a lot of time and effort.&#xA;But something was already made right now. &lt;a href=&#34;https://github.com/webtor-io/&#34;&gt;Here it is!&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;webtor.io&lt;/a&gt; and &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;sponsor it&lt;/a&gt; if you wish!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.2.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/</link>
       <pubDate>Wed, 04 Sep 2019 20:02:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/</guid>
-      <description>Here is a list of new features:
- Open magnet-urls - now it is possible to open magnet-url with &amp;ldquo;Open torrent online&amp;rdquo; button. There&amp;rsquo;s a special arrow near the &amp;ldquo;Open torrent online&amp;rdquo; button. After a click on it you will find a list of recent torrents and also field for pasting magnet-url. After pasting of valid url there will open the a window with the torrent. File list may not appear right away, it takes time to fetch torrent-file from the peers.</description>
+      <description>&lt;p&gt;Here is a list of new features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open magnet-urls&lt;/strong&gt; - now it is possible to open magnet-url with &amp;ldquo;Open torrent online&amp;rdquo; button.&#xA;There&amp;rsquo;s a special arrow near the &amp;ldquo;Open torrent online&amp;rdquo; button. After a click on it you will find a list of recent torrents and also field for pasting magnet-url.&#xA;After pasting of valid url there will open the a window with the torrent.&#xA;File list may not appear right away, it takes time to fetch torrent-file from the peers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Real progress bar&lt;/strong&gt; - earlier progress bar shows only what portion of file was downloaded (downloaded bytes from total). But now it shows what specific pieces of file were downloaded (beginning, middle or end). It represents real status of the torrent pieces.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;External subtitles encoding detection&lt;/strong&gt; - earlier there was a problem with usage of SRT-subtitles with encoding that differs from UTF-8, part of the symbols (or whole of them) might be corrupted.&#xA;Now original subtitle encoding is detected automatically and subtitles are converted to WebVTT with UTF-8 encoding.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Feedback form&lt;/strong&gt; - now you have an opportunity to write feedback about any issue occurred, also you can just suggest any new feature with our new &lt;a href=&#34;https://webtor.io/en/support&#34;&gt;feedback form&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you for using &lt;a href=&#34;https://webtor.io/en/&#34;&gt;&lt;strong&gt;webtor.io&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New features in Webtor 1.1.0</title>
       <link>https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/</link>
       <pubDate>Tue, 06 Aug 2019 23:27:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/</guid>
-      <description>Here is a list of new features:
- In-place player - from this moment all video and images are opening just below selected file. There is no need to scroll up to find the player anymore! Copy stream url - now you can copy currently playing video stream url and place it to VLC or any other player. Just go to player settings page and find &amp;ldquo;Copy stream url&amp;rdquo; button. Current revision - at the top left corner here is a small revision number with the link to release notes (page like this).</description>
+      <description>&lt;p&gt;Here is a list of new features:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;In-place player&lt;/strong&gt; - from this moment all video and images are opening just below selected file. There is no need to scroll up to find the player anymore!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Copy stream url&lt;/strong&gt; - now you can copy currently playing video stream url and place it to VLC or any other player. Just go to player settings page and find &amp;ldquo;Copy stream url&amp;rdquo; button.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Current revision&lt;/strong&gt; - at the top left corner here is a small revision number with the link to release notes (page like this).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reduced script size&lt;/strong&gt; - there was a lot of work done to reduce size of all script bundles up to 3 times. Now &lt;strong&gt;Webtor&lt;/strong&gt; loads faster after updates.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;That&amp;rsquo;s all folks!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New extension for Google Chrome Webtor.io 0.1.10</title>
       <link>https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/</link>
       <pubDate>Sat, 03 Aug 2019 00:13:37 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/</guid>
-      <description>This minor update solves annoying problem with automatic opening of downloaded torrent-files on several sites (yts.am for example).
-To make it working we need to check that &amp;ldquo;Allow Access to file URLs&amp;rdquo; option is enabled. Follow these steps:
-We need to be sure that Webtor.io extension is already installed. Go to Google Chrome&amp;rsquo;s extensions page    Find Webtor.io extension and click &amp;ldquo;Details&amp;rdquo;    Option &amp;ldquo;Allow Access to file URLs&amp;rdquo; should be activated     After accomplishing these steps you should not meet any problems with opening of downloaded torrent-files.</description>
+      <description>&lt;p&gt;This minor update solves annoying problem with automatic opening of downloaded torrent-files on several sites (&lt;a href=&#34;https://blog.webtor.io/en/post/watch-movies-online-from-yts.am/&#34;&gt;yts.am&lt;/a&gt; for example).&lt;/p&gt;&#xA;&lt;p&gt;To make it working we need to check that &amp;ldquo;Allow Access to file URLs&amp;rdquo; option is enabled. Follow these steps:&lt;/p&gt;&#xA;&lt;ol start=&#34;0&#34;&gt;&#xA;&lt;li&gt;We need to be sure that &lt;a href=&#34;https://chrome.google.com/webstore/detail/webtorio-watch-torrents-o/ngkpdaefpmokglfnmienfiaioffjodam&#34;&gt;Webtor.io extension&lt;/a&gt; is already installed.&lt;/li&gt;&#xA;&lt;li&gt;Go to Google Chrome&amp;rsquo;s extensions page &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/step1.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Find Webtor.io extension and click &amp;ldquo;Details&amp;rdquo; &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/step2.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Option &amp;ldquo;Allow Access to file URLs&amp;rdquo; should be activated &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/step3.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;After accomplishing these steps you should not meet any problems with opening of downloaded torrent-files.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Introducing Webtor 1.0</title>
       <link>https://blog.webtor.io/en/post/introducing-webtor-1.0/</link>
       <pubDate>Wed, 24 Jul 2019 00:15:00 +0300</pubDate>
-      
       <guid>https://blog.webtor.io/en/post/introducing-webtor-1.0/</guid>
-      <description>There are a lot of improvements were done this year that make it possible to tag current version as 1.0. Hurrah! 🎉🎉🎉
-So here is a list of most major changes:
- &amp;ldquo;Seeking&amp;rdquo; support for transcoded audio and video content - now you can play mkv-movies from the middle (not only from the beginning as it was before). Access to transcoding settings for video content - now it is possible to choose specific audiotrack and subtitles.</description>
+      <description>&lt;p&gt;There are a lot of improvements were done this year that make it possible to tag current version as 1.0. Hurrah! &amp;#x1f389;&amp;#x1f389;&amp;#x1f389;&lt;/p&gt;&#xA;&lt;p&gt;So here is a list of most major changes:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Seeking&amp;rdquo; support for transcoded audio and video content&lt;/strong&gt; - now you can play mkv-movies from the middle (not only from the beginning as it was before).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Access to transcoding settings for video content&lt;/strong&gt; - now it is possible to choose specific audiotrack and subtitles.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Continue watching from&amp;hellip;&amp;rdquo;&lt;/strong&gt; - player remembers last playback position and suggest to start from that position next time.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Open recent torrent&lt;/strong&gt; - you can just click small arrow near &amp;ldquo;Open torrent online&amp;rdquo; button and the list of recently watched torrents appears.&#xA;It also remembers last accessed folder as well.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Last watched content&lt;/strong&gt; - all watched content is marked with &amp;#x2714;&amp;#xfe0f; sign.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Social sharing&lt;/strong&gt; - now you can share content link as you used to on the other sites. Just click on icon of your preferred social network and share content you are watching right now.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;And also I&amp;rsquo;ve started this blog! That&amp;rsquo;s why you know right now about all improvements!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
