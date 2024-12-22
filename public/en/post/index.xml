@@ -6,8 +6,15 @@
     <description>Recent content in Posts on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 15:07:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:32:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Transcoding System!</title>
+      <link>https://blog.webtor.io/en/post/new-transcoding-system/</link>
+      <pubDate>Sun, 22 Dec 2024 18:32:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/new-transcoding-system/</guid>
+      <description>&lt;p&gt;We’ve revamped the transcoding system and introduced some exciting new features:&lt;/p&gt;&#xA;&lt;h3 id=&#34;faster-transcoding-startup&#34;&gt;Faster Transcoding Startup&lt;/h3&gt;&#xA;&lt;p&gt;Previously, transcoding was initiated in a separate container, which took additional time to launch. Now, transcoding starts immediately without delays.&lt;/p&gt;&#xA;&lt;h3 id=&#34;efficient-caching&#34;&gt;Efficient Caching&lt;/h3&gt;&#xA;&lt;p&gt;Transcoding results are now cached more effectively. Content is only removed when it’s no longer in use, rather than based on a fixed time limit.&lt;/p&gt;&#xA;&lt;p&gt;In addition, the improved transcoding system has reduced our reliance on Kubernetes cluster components. This paves the way for us to release a single Docker image version of webtor.io early next year!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meet web-ui version 2!</title>
       <link>https://blog.webtor.io/en/post/meet-web-ui-version-2/</link>

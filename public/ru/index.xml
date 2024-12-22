@@ -6,8 +6,15 @@
     <description>Recent content on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Oct 2024 15:07:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:32:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новая система транскодирования!</title>
+      <link>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sun, 22 Dec 2024 18:32:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;Мы переработали систему транскодирования и добавили несколько впечатляющих новых функций:&lt;/p&gt;&#xA;&lt;h3 id=&#34;быстрый-запуск-транскодирования&#34;&gt;Быстрый запуск транскодирования&lt;/h3&gt;&#xA;&lt;p&gt;Ранее процесс транскодирования запускался в отдельном контейнере, что занимало дополнительное время. Теперь транскодирование начинается мгновенно, без задержек.&lt;/p&gt;&#xA;&lt;h3 id=&#34;эффективное-кэширование&#34;&gt;Эффективное кэширование&lt;/h3&gt;&#xA;&lt;p&gt;Результаты транскодирования теперь кэшируются более эффективно. Контент удаляется только в случае, если он долго не используется, а не по истечении фиксированного времени.&lt;/p&gt;&#xA;&lt;p&gt;Кроме того, улучшенная система транскодирования значительно снизила зависимость от компонентов кластера Kubernetes. Это открывает путь к выпуску версии &lt;strong&gt;webtor.io&lt;/strong&gt; в виде единого Docker-образа уже в начале следующего года!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Встречайте web-ui второй версии!</title>
       <link>https://blog.webtor.io/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/</link>
