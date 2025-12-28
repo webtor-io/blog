@@ -3,13 +3,15 @@
   lang="{{ .Site.LanguageCode }}"
   class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
 >
-  <span class="b">/ </span>
-  <a
-    href="{{ .Site.Params.parentURL }}"
-    class="b bw1 bb pb1 no-underline black"
-    >{{ .Site.Title  }}</a
-  >
-  <section id="main" class="mt5">
+  <span class="breadcrumbs">
+    <span class="b">/ </span>
+    <a
+      href="{{ .Site.Params.parentURL }}"
+      class="b bw1 bb pb1 no-underline black"
+      >{{ .Site.Title  }}</a
+    >
+  </span>
+  <section id="main" class="mt4">
     <div>
       <ul id="list" class="pl0">
         <!-- prettier-ignore -->

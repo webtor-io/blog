@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.webtor.io/en/post/new-transcoding-system/</loc>
-    <lastmod>2024-12-22T18:32:00+03:00</lastmod>
+    <loc>https://blog.webtor.io/en/post/merry-christmas-2025/</loc>
+    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
+                href="https://blog.webtor.io/ru/post/merry-christmas-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-transcoding-system/"
+                href="https://blog.webtor.io/en/post/merry-christmas-2025/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/post/</loc>
-    <lastmod>2024-12-22T18:32:00+03:00</lastmod>
+    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/series/</loc>
-    <lastmod>2024-12-22T18:32:00+03:00</lastmod>
+    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/</loc>
-    <lastmod>2024-12-22T18:32:00+03:00</lastmod>
+    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -55,7 +55,150 @@
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/series/whats-new/</loc>
+    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/black-friday-2025/</loc>
+    <lastmod>2025-11-26T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/black-friday-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/black-friday-2025/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/</loc>
+    <lastmod>2025-11-06T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/real-debrid-and-torbox-integration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/webtor-torrentio-stremio/</loc>
+    <lastmod>2025-09-21T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/webtor-torrentio-stremio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/webtor-torrentio-stremio/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/webdav-is-here/</loc>
+    <lastmod>2025-08-25T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/webdav-is-here/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/summer-updates/</loc>
+    <lastmod>2025-08-15T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/summer-updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/summer-updates/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/community-sharing-program/</loc>
+    <lastmod>2025-07-03T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/community-sharing-program/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/community-sharing-program/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/</loc>
+    <lastmod>2025-06-25T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B2%D0%BE%D0%B8-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D1%82%D0%B2-%D1%81%D0%BE-stremio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/library-major-upgrade/</loc>
+    <lastmod>2025-05-29T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/library-major-upgrade/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/library-major-upgrade/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/personal-library-and-big-plans/</loc>
+    <lastmod>2025-04-26T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/personal-library-and-big-plans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/personal-library-and-big-plans/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/happy-new-year-2024/</loc>
+    <lastmod>2024-12-28T12:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/happy-new-year-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/happy-new-year-2024/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/new-transcoding-system/</loc>
     <lastmod>2024-12-22T18:32:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/new-transcoding-system/"
+                />
   </url><url>
     <loc>https://blog.webtor.io/en/post/meet-web-ui-version-2/</loc>
     <lastmod>2024-10-06T15:07:00+03:00</lastmod>

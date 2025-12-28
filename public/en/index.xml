@@ -6,8 +6,85 @@
     <description>Recent content on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Dec 2024 18:32:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merry Christmas &amp; Happy New Year — thank you for this year</title>
+      <link>https://blog.webtor.io/en/post/merry-christmas-2025/</link>
+      <pubDate>Wed, 24 Dec 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/merry-christmas-2025/</guid>
+      <description>&lt;p&gt;Hey friends,&lt;/p&gt;&#xA;&lt;p&gt;Merry Christmas 🎄 and Happy New Year!&lt;/p&gt;&#xA;&lt;p&gt;Before the year ends, I want to sincerely thank everyone who supports Webtor.&lt;/p&gt;&#xA;&lt;p&gt;This year we didn’t just add features — we turned Webtor into a more complete and useful tool.&lt;/p&gt;&#xA;&lt;p&gt;What we built together this year:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;User Libraries&lt;/strong&gt; — your personal space for saved content&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WebDAV&lt;/strong&gt; — mount Webtor as a drive and work with files directly&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stremio integration&lt;/strong&gt; — including full support for Stremio addons&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Debrid service integration&lt;/strong&gt; — Real-Debrid, TorBox, and others&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Your support doesn’t just pay for servers — it buys time, focus, and the freedom to build things properly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Black Friday Sale — 37% Off on All Plans</title>
+      <link>https://blog.webtor.io/en/post/black-friday-2025/</link>
+      <pubDate>Wed, 26 Nov 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/black-friday-2025/</guid>
+      <description>&lt;p&gt;Hey folks!&#xA;Black Friday is here — and I’m rolling out the biggest discount of the year.&lt;/p&gt;&#xA;&lt;p&gt;Get 37% off on all Webtor plans until December 1.&lt;/p&gt;&#xA;&lt;p&gt;👉 &lt;a href=&#34;https://webtor.io/donate&#34;&gt;https://webtor.io/donate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Your support keeps the project growing, faster, and more fun to build. And with Vault on the way, this winter is going to be big.&lt;/p&gt;&#xA;&lt;p&gt;Thanks for being part of this journey — enjoy the deal while it lasts! 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Real-Debrid and Torbox as Streaming Backends</title>
+      <link>https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/</link>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/</guid>
+      <description>&lt;p&gt;You can now connect Real-Debrid and Torbox accounts in Webtor as custom streaming backends.&lt;/p&gt;&#xA;&lt;p&gt;They’ll act as additional caches for Stremio — giving you faster playback and more available streams.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-how-it-works&#34;&gt;🧩 How it works&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Go to Webtor Profile&lt;/li&gt;&#xA;&lt;li&gt;Scroll to the &lt;strong&gt;Streaming Backends&lt;/strong&gt; section&lt;/li&gt;&#xA;&lt;li&gt;Add your API key from Real-Debrid or Torbox&lt;/li&gt;&#xA;&lt;li&gt;Set the priority order — which backend should be used first (don&amp;rsquo;t forget to click &amp;ldquo;Save&amp;rdquo; button)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;If the content isn’t found in any Debrid cache, Webtor’s own streaming engine will be used as a fallback, so playback always works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Webtor &#43; Torrentio = ⚡</title>
+      <link>https://blog.webtor.io/en/post/webtor-torrentio-stremio/</link>
+      <pubDate>Sun, 21 Sep 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/webtor-torrentio-stremio/</guid>
+      <description>&lt;p&gt;Big milestone! 🎉&lt;/p&gt;&#xA;&lt;p&gt;We’ve just made Webtor and Torrentio (and other Stremio addons) work together  🚀&lt;/p&gt;&#xA;&lt;p&gt;Now Webtor can stream not only your library, but also any content coming from Stremio addons.&lt;/p&gt;&#xA;&lt;p&gt;Here’s how it works under the hood:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Webtor queries all your connected Stremio addons (up to 3)&lt;/li&gt;&#xA;&lt;li&gt;Duplicates are removed (deduplication)&lt;/li&gt;&#xA;&lt;li&gt;Results are filtered by your preferred quality (720p / 1080p / 4K)&lt;/li&gt;&#xA;&lt;li&gt;Every stream is enriched with a direct Webtor streaming link&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So now you can stream not only your personal library, but also any content from Stremio addons — instantly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WebDAV is here!</title>
+      <link>https://blog.webtor.io/en/post/webdav-is-here/</link>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/webdav-is-here/</guid>
+      <description>&lt;p&gt;Thanks to your support, another big feature just landed — WebDAV access to your Webtor library.&lt;/p&gt;&#xA;&lt;p&gt;You can now mount your whole torrent collection as a network folder on desktop or mobile. Stream directly from your library — or just copy your stuff locally.&lt;/p&gt;&#xA;&lt;p&gt;And yes — you can upload new torrents too — just drop .torrent files into the &lt;code&gt;torrents/&lt;/code&gt; folder. That’s it. 🤘&lt;/p&gt;&#xA;&lt;p&gt;🧩 Works great with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mountain Duck (macOS/Windows)&lt;/li&gt;&#xA;&lt;li&gt;RaiDrive (Windows)&lt;/li&gt;&#xA;&lt;li&gt;Owlfiles (iOS / Android) — tested and working without hassle&lt;/li&gt;&#xA;&lt;li&gt;rclone — for CLI and selfhosted automation fans&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;💬 If you tried any other client — and it worked or didn’t — feel free to message me or comment here. The more we know, the better the experience for everyone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Summer Updates</title>
+      <link>https://blog.webtor.io/en/post/summer-updates/</link>
+      <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/summer-updates/</guid>
+      <description>&lt;p&gt;Hey everyone 👋&lt;/p&gt;&#xA;&lt;p&gt;Just wanted to share some small but important updates that have just landed on Webtor — all thanks to your support.&lt;/p&gt;&#xA;&lt;p&gt;✅ What’s new:&lt;/p&gt;&#xA;&lt;p&gt;🔐 &lt;strong&gt;Google login&lt;/strong&gt; — I noticed that around 70% of users log in with Google email anyway, so I decided to make things more straightforward by adding a simple Google login option.&lt;/p&gt;&#xA;&lt;p&gt;🎁 &lt;strong&gt;Patreon login&lt;/strong&gt; — There were a lot of issues where users struggled to get their benefits from paid subscriptions (especially those who used Apple login on Patreon). Now every backer can simply log in with their Patreon account — no more issues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Help Us Grow — 🎁 Get Premium Access as a Thank You</title>
+      <link>https://blog.webtor.io/en/post/community-sharing-program/</link>
+      <pubDate>Thu, 03 Jul 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/community-sharing-program/</guid>
+      <description>&lt;p&gt;Love Webtor? Want to support the project without spending money?&lt;/p&gt;&#xA;&lt;p&gt;Now you can — by helping others discover it.&lt;/p&gt;&#xA;&lt;p&gt;We’re launching a simple community sharing program:&lt;/p&gt;&#xA;&lt;p&gt;mention Webtor in relevant places — and get free premium access as a thank-you.&lt;/p&gt;&#xA;&lt;p&gt;✨ How It Works&#xA;Just share Webtor where it makes sense — on Reddit, in Telegram or Discord groups, on your blog or social media — anywhere people discuss torrents and streaming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watch your torrents on TV – with Stremio!</title>
+      <link>https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/</link>
+      <pubDate>Wed, 25 Jun 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/</guid>
+      <description>&lt;p&gt;We’ve been slowly moving toward this — and now it’s finally here.&lt;/p&gt;&#xA;&lt;p&gt;The personal library feature was just a stop on the way.&lt;/p&gt;&#xA;&lt;p&gt;The real goal was always this: streaming your own torrents directly on your TV, with no downloads, no VPN, and no torrent client. Just press play.&lt;/p&gt;&#xA;&lt;p&gt;And now it works. It’s been live for a full day in production — and I’m absolutely happy with how it performs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Library just got a major upgrade!</title>
+      <link>https://blog.webtor.io/en/post/library-major-upgrade/</link>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/library-major-upgrade/</guid>
+      <description>&lt;p&gt;Hey friends! 👋&lt;/p&gt;&#xA;&lt;p&gt;We’ve just released a huge improvement to Webtor Library — and we think you’re going to love it.&lt;/p&gt;&#xA;&lt;p&gt;Now, when you open your Library, you’ll see new sections for Movies and Series — automatically created based on the torrents you’ve added.&lt;/p&gt;&#xA;&lt;p&gt;It’s a cleaner, smarter way to browse your saved content.&lt;/p&gt;&#xA;&lt;p&gt;No more endless torrent lists — just organized, beautiful media.&lt;/p&gt;&#xA;&lt;p&gt;What’s next?&#xA;Soon you’ll be able to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New in Webtor: Personal Library &#43; Big Plans Ahead!</title>
+      <link>https://blog.webtor.io/en/post/personal-library-and-big-plans/</link>
+      <pubDate>Sat, 26 Apr 2025 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/personal-library-and-big-plans/</guid>
+      <description>&lt;p&gt;Hey friends! 👋&lt;/p&gt;&#xA;&lt;p&gt;Today I’m excited to share a new feature we’ve just launched in Webtor:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Personal Library&lt;/strong&gt; — now you can easily save torrents you like into your personal space! Just click “Add to Library” under any loaded torrent. 🎯&lt;/p&gt;&#xA;&lt;p&gt;You can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Save favorite torrents&lt;/li&gt;&#xA;&lt;li&gt;Sort your library by newest or by name&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;But that’s not all!&lt;/p&gt;&#xA;&lt;p&gt;Coming soon:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automatic movie metadata fetching&lt;/strong&gt; — Webtor will recognize movies in your library and fetch posters, titles, descriptions, and more!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integration with Stremio&lt;/strong&gt; — stream your library content directly through Stremio!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thank you so much for your support — you’re making this possible. 🙏&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Happy New Year from Webtor.io! 🎉</title>
+      <link>https://blog.webtor.io/en/post/happy-new-year-2024/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/happy-new-year-2024/</guid>
+      <description>&lt;p&gt;To celebrate the spirit of New Year, we’re excited to offer 100 lucky people an exclusive gift: 1 month of free access to Webtor.io!&lt;/p&gt;&#xA;&lt;p&gt;What does this mean for you?&lt;/p&gt;&#xA;&lt;p&gt;• Unlimited access to seamless torrent streaming.&lt;/p&gt;&#xA;&lt;p&gt;• Enjoy your favorite content instantly without downloads.&lt;/p&gt;&#xA;&lt;p&gt;🚀 How to claim your gift?&lt;/p&gt;&#xA;&lt;p&gt;It’s simple! Be one of the first 100 to sign up using this exclusive link: &lt;a href=&#34;https://www.patreon.com/pavel_tatarskiy/redeem/E323E&#34;&gt;https://www.patreon.com/pavel_tatarskiy/redeem/E323E&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you already have paid tier, you can always share your link with your friends!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Transcoding System!</title>
       <link>https://blog.webtor.io/en/post/new-transcoding-system/</link>

@@ -1,0 +1,62 @@
+:root {
+  --color-base-100: oklch(20.768% .039 265.754);
+  --color-base-content: oklch(84.153% .007 265.754);
+  --color-primary: oklch(75.351% .138 232.661);
+  --color-secondary: oklch(68.011% .158 276.934);
+  --color-accent: oklch(72.36% .176 350.048);
+  --font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+html, body {
+  background-color: var(--color-base-100) !important;
+  color: var(--color-base-content) !important;
+  font-family: var(--font-family) !important;
+}
+
+code {
+  background-color: oklch(17.86% .034 265.754) !important;
+  color: var(--color-base-content) !important;
+}
+
+pre {
+  background-color: oklch(17.86% .034 265.754) !important;
+  border-color: oklch(27.8% .033 256.848) !important;
+  color: var(--color-base-content) !important;
+}
+
+/* Tachyons overrides */
+.bg-white { background-color: var(--color-base-100) !important; }
+.black { color: var(--color-base-content) !important; }
+.near-black { color: var(--color-base-content) !important; }
+.dark-gray { color: oklch(75% .01 265.754) !important; }
+.mid-gray { color: oklch(65% .01 265.754) !important; }
+.gray { color: oklch(55% .01 265.754) !important; }
+.silver { color: oklch(45% .01 265.754) !important; }
+.light-silver { color: oklch(35% .01 265.754) !important; }
+
+/* Global element overrides - using higher specificity to win over Tachyons color classes */
+h1, h2, h3, h4, h5, h6,
+h1.black, h2.black, h3.black, h4.black, h5.black, h6.black,
+h1.gray, h2.gray, h3.gray, h4.gray, h5.gray, h6.gray {
+  color: var(--color-accent) !important;
+}
+
+a, .link,
+a.black, a.near-black, a.dark-gray, a.mid-gray, a.gray, a.silver, a.light-silver {
+  color: var(--color-accent) !important;
+  text-decoration: none;
+}
+.breadcrumbs {
+  color: var(--color-accent) !important;
+}
+
+a:hover, .link:hover,
+a.black:hover, a.gray:hover {
+  text-decoration: underline;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--color-accent);
+  color: var(--color-base-100);
+}
