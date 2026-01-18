@@ -57,6 +57,19 @@
                 href="https://blog.webtor.io/en/post/torrent-streaming-vs-downloading/"
                 />
   </url><url>
+    <loc>https://blog.webtor.io/en/post/torrent-vs-magnet-link/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/torrent-vs-magnet-link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/torrent-vs-magnet-link/"
+                />
+  </url><url>
     <loc>https://blog.webtor.io/en/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
@@ -68,6 +81,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.webtor.io/en/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/torrent-clients-iphone/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/torrent-clients-iphone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/torrent-clients-iphone/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/post/torrents-blocked-public-wifi/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/torrents-blocked-public-wifi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/torrents-blocked-public-wifi/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/post/merry-christmas-2025/</loc>
