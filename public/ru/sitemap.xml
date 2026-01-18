@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.webtor.io/ru/post/</loc>
-    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://blog.webtor.io/ru/post/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/ru/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/ru/post/vpn-for-torrents/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/vpn-for-torrents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/vpn-for-torrents/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/series/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://blog.webtor.io/ru/series/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/ru/</loc>
-    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/post/merry-christmas-2025/</loc>

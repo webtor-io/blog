@@ -6,8 +6,15 @@
     <description>Recent content in Posts on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 21:47:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do you really need a VPN for torrents?</title>
+      <link>https://blog.webtor.io/en/post/vpn-for-torrents/</link>
+      <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/vpn-for-torrents/</guid>
+      <description>&lt;p&gt;For many people, torrents and VPNs are almost inseparable.&lt;br&gt;&#xA;If you&amp;rsquo;ve ever searched for anything related to torrenting, you&amp;rsquo;ve probably seen the same advice repeated over and over: &lt;em&gt;&amp;ldquo;Always use a VPN.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;But is that actually true in every case?&lt;br&gt;&#xA;And more importantly — &lt;strong&gt;what exactly changes depending on how you download or stream torrents?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s break it down without myths or marketing promises.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-people-use-vpns-with-torrents&#34;&gt;Why people use VPNs with torrents&lt;/h2&gt;&#xA;&lt;p&gt;The main reason VPNs are commonly recommended for torrents comes from how &lt;strong&gt;traditional torrent clients&lt;/strong&gt; work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Merry Christmas &amp; Happy New Year — thank you for this year</title>
       <link>https://blog.webtor.io/en/post/merry-christmas-2025/</link>
