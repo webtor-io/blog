@@ -2,6 +2,7 @@
 title: "Webtor.io vs WebTorrent vs μTorrent Web"
 date: 2020-10-18T18:09:00+03:00
 translationKey: "webtor-vs-webtorrent-vs-utorrent"
+series: "Torrent Basics"
 ---
 Hello! This time I decided to write some comparison of my service and other similar ones. Perhaps many
 moments will seem a little biased to you, but alas, I have been developing this service for a long time and I can be a little subject.

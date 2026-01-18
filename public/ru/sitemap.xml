@@ -15,6 +15,19 @@
                 href="https://blog.webtor.io/ru/post/"
                 />
   </url><url>
+    <loc>https://blog.webtor.io/ru/series/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/series/"
+                />
+  </url><url>
     <loc>https://blog.webtor.io/ru/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
@@ -41,18 +54,8 @@
                 href="https://blog.webtor.io/ru/post/vpn-for-torrents/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/series/</loc>
-    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/series/"
-                />
+    <loc>https://blog.webtor.io/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
   </url><url>
     <loc>https://blog.webtor.io/ru/post/merry-christmas-2025/</loc>
     <lastmod>2025-12-24T12:00:00+03:00</lastmod>

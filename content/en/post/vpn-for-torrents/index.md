@@ -3,6 +3,7 @@ title: "Do you really need a VPN for torrents?"
 date: 2026-01-18T21:47:00+03:00
 slug: "vpn-for-torrents"
 translationKey: "vpn-for-torrents"
+series: "Torrent Basics"
 titleEmoji: ":shield:"
 ---
 

@@ -3,6 +3,7 @@ title: "Действительно ли нужен VPN для торрентов
 date: 2026-01-18T21:47:00+03:00
 slug: "vpn-for-torrents"
 translationKey: "vpn-for-torrents"
+series: "Основы торрентов"
 titleEmoji: ":shield:"
 ---
 

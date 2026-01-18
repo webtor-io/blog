@@ -28,6 +28,22 @@
                 href="https://blog.webtor.io/en/post/"
                 />
   </url><url>
+    <loc>https://blog.webtor.io/en/series/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/series/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/series/torrent-basics/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+  </url><url>
     <loc>https://blog.webtor.io/en/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
@@ -52,19 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/merry-christmas-2025/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/series/</loc>
-    <lastmod>2025-12-24T12:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/series/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/series/whats-new/</loc>
