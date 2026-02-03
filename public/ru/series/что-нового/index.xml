@@ -6,8 +6,15 @@
     <description>Recent content in Что Нового on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Dec 2025 12:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:50:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Запуск Vault — сохраняйте торренты доступными даже без сидов</title>
+      <link>https://blog.webtor.io/ru/post/vault-is-live/</link>
+      <pubDate>Tue, 03 Feb 2026 19:50:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/ru/post/vault-is-live/</guid>
+      <description>&lt;p&gt;Мы только что запустили одну из ключевых функций Webtor — Vault (Хранилище).&lt;/p&gt;&#xA;&lt;p&gt;Vault позволяет сохранять торренты доступными, даже когда в сети нет сидов.&#xA;Если торрент важен для вас, теперь вы можете гарантировать, что он останется в сети и будет доступен.&lt;/p&gt;&#xA;&lt;p&gt;⸻&lt;/p&gt;&#xA;&lt;p&gt;🧱 &lt;strong&gt;Как работает Vault&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Теперь каждый уровень подписки включает в себя Vault Points (очки хранилища, VP):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 Vault Point = 1 ГБ&lt;/li&gt;&#xA;&lt;li&gt;Вы можете вкладывать Vault Points в торрент&lt;/li&gt;&#xA;&lt;li&gt;Пока ваши очки вложены, торрент остается доступным в Vault&lt;/li&gt;&#xA;&lt;li&gt;Пока ваша подписка активна, поддерживаемые вами торренты остаются доступными&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vault особенно полезен для:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Счастливого Рождества и Нового Года — спасибо за этот год</title>
       <link>https://blog.webtor.io/ru/post/merry-christmas-2025/</link>

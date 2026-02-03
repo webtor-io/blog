@@ -6,8 +6,15 @@
     <description>Recent content in Posts on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 21:47:00 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:50:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vault is live — keep torrents available even without seeders</title>
+      <link>https://blog.webtor.io/en/post/vault-is-live/</link>
+      <pubDate>Tue, 03 Feb 2026 19:50:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/vault-is-live/</guid>
+      <description>&lt;p&gt;We’ve just launched one of Webtor’s core features — Vault.&lt;/p&gt;&#xA;&lt;p&gt;Vault lets you keep torrents available even when there are no seeders.&#xA;If a torrent matters to you, you can now make sure it stays online and accessible.&lt;/p&gt;&#xA;&lt;p&gt;⸻&lt;/p&gt;&#xA;&lt;p&gt;🧱 &lt;strong&gt;How Vault works&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Each membership tier now includes Vault Points (VP):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 Vault Point = 1 GB&lt;/li&gt;&#xA;&lt;li&gt;You can invest Vault Points into a torrent&lt;/li&gt;&#xA;&lt;li&gt;As long as your points are invested, the torrent stays available in Vault&lt;/li&gt;&#xA;&lt;li&gt;When your subscription is active, your funded torrents remain accessible&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vault is especially useful for:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Do you really need a VPN for torrents?</title>
       <link>https://blog.webtor.io/en/post/vpn-for-torrents/</link>
