@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Основы Торрентов on webtor.io</title>
-    <link>https://blog.webtor.io/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
+    <link>http://localhost:1313/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
     <description>Recent content in Основы Торрентов on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 18 Jan 2026 21:47:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Действительно ли нужен VPN для торрентов?</title>
-      <link>https://blog.webtor.io/ru/post/vpn-for-torrents/</link>
+      <link>http://localhost:1313/ru/post/vpn-for-torrents/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/vpn-for-torrents/</guid>
+      <guid>http://localhost:1313/ru/post/vpn-for-torrents/</guid>
       <description>&lt;p&gt;Для многих людей торренты и VPN практически неразделимы.&lt;br&gt;&#xA;Если вы когда-либо искали что-то связанное с торрентами, вы наверняка видели один и тот же совет, повторяющийся снова и снова: &lt;em&gt;&amp;ldquo;Всегда используйте VPN&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Но действительно ли это верно в каждом случае?&lt;br&gt;&#xA;И что более важно — &lt;strong&gt;что именно меняется в зависимости от того, как вы скачиваете или стримите торренты?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Давайте разберемся без мифов и маркетинговых обещаний.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;почему-люди-используют-vpn-с-торрентами&#34;&gt;Почему люди используют VPN с торрентами&lt;/h2&gt;&#xA;&lt;p&gt;Основная причина, по которой VPN обычно рекомендуют для торрентов, связана с тем, как работают &lt;strong&gt;традиционные торрент-клиенты&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему торрент-клиенты плохо работают на iPhone</title>
-      <link>https://blog.webtor.io/ru/post/torrent-clients-iphone/</link>
+      <link>http://localhost:1313/ru/post/torrent-clients-iphone/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/torrent-clients-iphone/</guid>
+      <guid>http://localhost:1313/ru/post/torrent-clients-iphone/</guid>
       <description>&lt;p&gt;Если вы когда-либо пытались использовать торренты на iPhone, вы, вероятно, заметили, что это разочаровывающий опыт — или просто невозможный.&lt;/p&gt;&#xA;&lt;p&gt;В отличие от настольных систем, iOS никогда не была разработана с учетом одноранговой передачи файлов.&lt;br&gt;&#xA;Это не случайность, и это не то, что можно легко исправить с помощью &amp;ldquo;лучших приложений&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Давайте рассмотрим, почему торрент-клиенты испытывают трудности на iPhone и что на самом деле вызывает эти ограничения.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ios-построена-на-строгой-изоляции-приложений&#34;&gt;iOS построена на строгой изоляции приложений&lt;/h2&gt;&#xA;&lt;p&gt;Одним из основных принципов дизайна iOS является &lt;strong&gt;песочница&lt;/strong&gt; (sandboxing).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему торренты часто блокируются в публичных Wi-Fi</title>
-      <link>https://blog.webtor.io/ru/post/torrents-blocked-public-wifi/</link>
+      <link>http://localhost:1313/ru/post/torrents-blocked-public-wifi/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/torrents-blocked-public-wifi/</guid>
+      <guid>http://localhost:1313/ru/post/torrents-blocked-public-wifi/</guid>
       <description>&lt;p&gt;Если вы когда-либо пытались использовать торренты в публичных Wi-Fi — в кафе, отеле, аэропорту или университете — вы, возможно, заметили знакомую закономерность:&lt;br&gt;&#xA;веб-сайты работают нормально, потоковая передача работает нормально, но торрент-клиенты либо вообще не подключаются, либо работают с непригодной для использования скоростью.&lt;/p&gt;&#xA;&lt;p&gt;Это не совпадение, и это не временный сбой.&lt;br&gt;&#xA;Публичные сети часто разработаны так, чтобы ограничивать торрент-трафик по умолчанию.&lt;/p&gt;&#xA;&lt;p&gt;Давайте рассмотрим, почему это происходит.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;публичные-сети-приоритизируют-контроль-и-стабильность&#34;&gt;Публичные сети приоритизируют контроль и стабильность&lt;/h2&gt;&#xA;&lt;p&gt;Публичные Wi-Fi сети построены с совершенно другими целями по сравнению с домашними подключениями.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Торрент-стриминг vs скачивание: в чём разница?</title>
-      <link>https://blog.webtor.io/ru/post/torrent-streaming-vs-downloading/</link>
+      <link>http://localhost:1313/ru/post/torrent-streaming-vs-downloading/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/torrent-streaming-vs-downloading/</guid>
+      <guid>http://localhost:1313/ru/post/torrent-streaming-vs-downloading/</guid>
       <description>&lt;p&gt;Торренты традиционно ассоциировались со скачиванием файлов и ожиданием завершения процесса.&lt;br&gt;&#xA;Но со временем стал более распространённым другой подход: &lt;strong&gt;торрент-стриминг&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Оба метода работают с одними и теми же торрент-данными, но опыт использования сильно отличается.&lt;br&gt;&#xA;Понимание этой разницы помогает выбрать правильный вариант для вашей ситуации вместо того, чтобы следовать старым привычкам.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;как-работает-классическое-скачивание-торрентов&#34;&gt;Как работает классическое скачивание торрентов&lt;/h2&gt;&#xA;&lt;p&gt;При традиционном скачивании торрентов цель проста:&lt;br&gt;&#xA;&lt;strong&gt;получить весь файл на ваше устройство&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Торрент-клиент подключается к множеству пиров и скачивает части файла, пока всё не будет загружено. Только после этого вы можете надёжно открыть или использовать файл.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Торрент-файл vs magnet-ссылка: в чём реальная разница?</title>
-      <link>https://blog.webtor.io/ru/post/torrent-vs-magnet-link/</link>
+      <link>http://localhost:1313/ru/post/torrent-vs-magnet-link/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/torrent-vs-magnet-link/</guid>
+      <guid>http://localhost:1313/ru/post/torrent-vs-magnet-link/</guid>
       <description>&lt;p&gt;Торрент-файлы и magnet-ссылки часто воспринимаются как взаимозаменяемые.&lt;br&gt;&#xA;На практике многие пользователи даже не задумываются о разнице — они просто кликают на то, что доступно.&lt;/p&gt;&#xA;&lt;p&gt;Однако эти два формата не одинаковы, и понимание того, чем они отличаются, помогает объяснить, почему некоторые рабочие процессы кажутся быстрее, проще или надежнее других.&lt;/p&gt;&#xA;&lt;p&gt;Давайте рассмотрим, что на самом деле отличает торрент-файл от magnet-ссылки.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;что-такое-торрент-файл&#34;&gt;Что такое торрент-файл&lt;/h2&gt;&#xA;&lt;p&gt;Торрент-файл — это небольшой файл метаданных, который описывает контент, который вы хотите загрузить.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webtor.io vs WebTorrent vs μTorrent Web</title>
-      <link>https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</link>
+      <link>http://localhost:1313/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</link>
       <pubDate>Sun, 18 Oct 2020 18:09:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</guid>
+      <guid>http://localhost:1313/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</guid>
       <description>&lt;p&gt;Всем привет! На этот раз я решил написать некоторое сравнение моего сервиса и прочих похожих. Возможно многие&#xA;моменты вам покажутся немного предвзятыми, но увы я разрабатывал этот сервис довольно долго и могу быть немного субъектвиен.&#xA;Также я могу писать о своём сервисе чуть больше поскольку я его знаю чуть лучше.&lt;/p&gt;&#xA;&lt;p&gt;Протокол BitTorrent известен с 2001-го года и используется для передачи файлов, видео и музыки по сей день,&#xA;не смотря на различные ограничения в ряде стран. За это время появилось большое количество BitTorrent-клиентов,&#xA;реализующих данный протокол, с возможностью как загрузки так и потокового стримминга.&#xA;Если ранее BitTorrent-клиент ассоциировался только с Desktop-приложениями, то теперь многие из них&#xA;шагнули в сторону Web-приложений и стали открываться внезапно в Web-браузере. Попробуем разобраться&#xA;в этом разнообразии Web-Torrent-клиентов. Для сравнения были выбраны:&lt;/p&gt;</description>
     </item>
   </channel>

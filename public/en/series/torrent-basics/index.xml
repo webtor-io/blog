@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Torrent Basics on webtor.io</title>
-    <link>https://blog.webtor.io/en/series/torrent-basics/</link>
+    <link>http://localhost:1313/en/series/torrent-basics/</link>
     <description>Recent content in Torrent Basics on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Jan 2026 21:47:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/en/series/torrent-basics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/series/torrent-basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do you really need a VPN for torrents?</title>
-      <link>https://blog.webtor.io/en/post/vpn-for-torrents/</link>
+      <link>http://localhost:1313/en/post/vpn-for-torrents/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/vpn-for-torrents/</guid>
+      <guid>http://localhost:1313/en/post/vpn-for-torrents/</guid>
       <description>&lt;p&gt;For many people, torrents and VPNs are almost inseparable.&lt;br&gt;&#xA;If you&amp;rsquo;ve ever searched for anything related to torrenting, you&amp;rsquo;ve probably seen the same advice repeated over and over: &lt;em&gt;&amp;ldquo;Always use a VPN.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;But is that actually true in every case?&lt;br&gt;&#xA;And more importantly — &lt;strong&gt;what exactly changes depending on how you download or stream torrents?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s break it down without myths or marketing promises.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-people-use-vpns-with-torrents&#34;&gt;Why people use VPNs with torrents&lt;/h2&gt;&#xA;&lt;p&gt;The main reason VPNs are commonly recommended for torrents comes from how &lt;strong&gt;traditional torrent clients&lt;/strong&gt; work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Torrent streaming vs downloading: what&#39;s the difference?</title>
-      <link>https://blog.webtor.io/en/post/torrent-streaming-vs-downloading/</link>
+      <link>http://localhost:1313/en/post/torrent-streaming-vs-downloading/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/torrent-streaming-vs-downloading/</guid>
+      <guid>http://localhost:1313/en/post/torrent-streaming-vs-downloading/</guid>
       <description>&lt;p&gt;Torrents have traditionally been associated with downloading files and waiting until the process is complete.&lt;br&gt;&#xA;But over time, another approach has become more common: &lt;strong&gt;torrent streaming&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Both methods work with the same torrent data, yet the experience is very different.&lt;br&gt;&#xA;Understanding this difference helps you choose the right option for your situation instead of defaulting to old habits.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-classic-torrent-downloading-works&#34;&gt;How classic torrent downloading works&lt;/h2&gt;&#xA;&lt;p&gt;With traditional torrent downloading, the goal is simple:&lt;br&gt;&#xA;&lt;strong&gt;get the entire file onto your device&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Torrent vs magnet link: what&#39;s the real difference?</title>
-      <link>https://blog.webtor.io/en/post/torrent-vs-magnet-link/</link>
+      <link>http://localhost:1313/en/post/torrent-vs-magnet-link/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/torrent-vs-magnet-link/</guid>
+      <guid>http://localhost:1313/en/post/torrent-vs-magnet-link/</guid>
       <description>&lt;p&gt;Torrent files and magnet links are often treated as interchangeable.&lt;br&gt;&#xA;In practice, many users don&amp;rsquo;t even think about the difference — they just click whatever is available.&lt;/p&gt;&#xA;&lt;p&gt;However, these two formats are not the same, and understanding how they differ helps explain why some workflows feel faster, simpler, or more reliable than others.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s look at what actually separates a torrent file from a magnet link.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-a-torrent-file-is&#34;&gt;What a torrent file is&lt;/h2&gt;&#xA;&lt;p&gt;A torrent file is a small metadata file that describes the content you want to download.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why torrent clients don&#39;t work well on iPhone</title>
-      <link>https://blog.webtor.io/en/post/torrent-clients-iphone/</link>
+      <link>http://localhost:1313/en/post/torrent-clients-iphone/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/torrent-clients-iphone/</guid>
+      <guid>http://localhost:1313/en/post/torrent-clients-iphone/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve ever tried to use torrents on an iPhone, you&amp;rsquo;ve probably noticed that the experience is frustrating — or simply impossible.&lt;/p&gt;&#xA;&lt;p&gt;Unlike desktop systems, iOS was never designed with peer-to-peer file sharing in mind.&lt;br&gt;&#xA;This isn&amp;rsquo;t an accident, and it&amp;rsquo;s not something that can be easily fixed with &amp;ldquo;better apps&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s look at why torrent clients struggle on iPhone and what actually causes these limitations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;ios-was-built-around-strict-app-isolation&#34;&gt;iOS was built around strict app isolation&lt;/h2&gt;&#xA;&lt;p&gt;One of the core design principles of iOS is &lt;strong&gt;sandboxing&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why torrents are often blocked on public Wi-Fi</title>
-      <link>https://blog.webtor.io/en/post/torrents-blocked-public-wifi/</link>
+      <link>http://localhost:1313/en/post/torrents-blocked-public-wifi/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/torrents-blocked-public-wifi/</guid>
+      <guid>http://localhost:1313/en/post/torrents-blocked-public-wifi/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve ever tried to use torrents on public Wi-Fi — at a café, hotel, airport, or university — you may have noticed a familiar pattern:&lt;br&gt;&#xA;websites work fine, streaming works fine, but torrent clients either don&amp;rsquo;t connect at all or crawl at unusable speeds.&lt;/p&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t a coincidence, and it&amp;rsquo;s not a temporary glitch.&lt;br&gt;&#xA;Public networks are often designed to restrict torrent traffic by default.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s look at why this happens.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webtor.io vs WebTorrent vs μTorrent Web</title>
-      <link>https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</link>
+      <link>http://localhost:1313/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</link>
       <pubDate>Sun, 18 Oct 2020 18:09:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</guid>
+      <guid>http://localhost:1313/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</guid>
       <description>&lt;p&gt;Hello! This time I decided to write some comparison of my service and other similar ones. Perhaps many&#xA;moments will seem a little biased to you, but alas, I have been developing this service for a long time and I can be a little subject.&#xA;I can also write a little bit more detailed about my service because I know it a little better.&lt;/p&gt;&#xA;&lt;p&gt;The BitTorrent protocol has been around since 2001 and is used to transfer files, videos and music to this day,&#xA;despite various restrictions in a number of countries. During this time, a large number of BitTorrent clients appeared,&#xA;implementing this protocol, with the ability to download and streaming.&#xA;If earlier the BitTorrent client was associated only with Desktop applications, now many of them&#xA;stepped towards web applications and suddenly opened in a web browser. Let&amp;rsquo;s try to figure it out&#xA;in this variety of Web-Torrent clients. For comparison were selected:&lt;/p&gt;</description>
     </item>
   </channel>

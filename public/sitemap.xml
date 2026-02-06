@@ -2,16 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://blog.webtor.io/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2026-02-03T19:50:00+03:00</lastmod>
+      <lastmod>2026-02-06T19:20:00+03:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://blog.webtor.io/ru/sitemap.xml</loc>
+    <loc>http://localhost:1313/ru/sitemap.xml</loc>
     
-      <lastmod>2026-02-03T19:50:00+03:00</lastmod>
+      <lastmod>2026-02-06T19:20:00+03:00</lastmod>
     
   </sitemap>
   

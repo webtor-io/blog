@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on webtor.io</title>
-    <link>https://blog.webtor.io/ru/series/</link>
+    <link>http://localhost:1313/ru/series/</link>
     <description>Recent content in Series on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Feb 2026 19:50:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/ru/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Feb 2026 19:20:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keeping Torrents Alive</title>
+      <link>http://localhost:1313/ru/series/keeping-torrents-alive/</link>
+      <pubDate>Fri, 06 Feb 2026 19:20:00 +0300</pubDate>
+      <guid>http://localhost:1313/ru/series/keeping-torrents-alive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Сохранение Торрентов</title>
+      <link>http://localhost:1313/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
+      <pubDate>Fri, 06 Feb 2026 19:10:00 +0300</pubDate>
+      <guid>http://localhost:1313/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Что Нового</title>
-      <link>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</link>
+      <link>http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</link>
       <pubDate>Tue, 03 Feb 2026 19:50:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</guid>
+      <guid>http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</guid>
       <description></description>
     </item>
     <item>
       <title>Основы Торрентов</title>
-      <link>https://blog.webtor.io/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
+      <link>http://localhost:1313/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</guid>
+      <guid>http://localhost:1313/ru/series/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>Что Внутри</title>
-      <link>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/</link>
+      <link>http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/</link>
       <pubDate>Tue, 22 Dec 2020 19:18:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/</guid>
+      <guid>http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Смотри Фильмы Онлайн С Любого Сайта</title>
-      <link>https://blog.webtor.io/ru/series/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</link>
+      <link>http://localhost:1313/ru/series/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</link>
       <pubDate>Thu, 25 Jul 2019 20:56:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/series/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</guid>
+      <guid>http://localhost:1313/ru/series/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</guid>
       <description></description>
     </item>
   </channel>

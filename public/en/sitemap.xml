@@ -2,606 +2,684 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.webtor.io/en/post/</loc>
+    <loc>http://localhost:1313/en/series/keeping-torrents-alive/</loc>
+    <lastmod>2026-02-06T19:20:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/series/keeping-torrents-alive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/series/keeping-torrents-alive/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2026-02-06T19:20:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/seedbox-vs-torrent-vault/</loc>
+    <lastmod>2026-02-06T19:20:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/seedbox-vs-torrent-vault/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/seedbox-vs-torrent-vault/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/series/</loc>
+    <lastmod>2026-02-06T19:20:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-02-06T19:20:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/personal-torrent-library/</loc>
+    <lastmod>2026-02-06T19:18:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/personal-torrent-library/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/personal-torrent-library/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/keep-rare-torrents-available/</loc>
+    <lastmod>2026-02-06T19:16:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/keep-rare-torrents-available/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/keep-rare-torrents-available/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/why-torrents-disappear/</loc>
+    <lastmod>2026-02-06T19:13:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/why-torrents-disappear/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/why-torrents-disappear/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/torrent-no-seeds/</loc>
+    <lastmod>2026-02-06T19:10:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/torrent-no-seeds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/torrent-no-seeds/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/vault-is-live/</loc>
     <lastmod>2026-02-03T19:50:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/"
+                href="http://localhost:1313/ru/post/vault-is-live/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/"
+                href="http://localhost:1313/en/post/vault-is-live/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/series/</loc>
-    <lastmod>2026-02-03T19:50:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/series/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/post/vault-is-live/</loc>
-    <lastmod>2026-02-03T19:50:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/post/vault-is-live/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/post/vault-is-live/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/</loc>
-    <lastmod>2026-02-03T19:50:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/series/whats-new/</loc>
+    <loc>http://localhost:1313/en/series/whats-new/</loc>
     <lastmod>2026-02-03T19:50:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/post/vpn-for-torrents/</loc>
+    <loc>http://localhost:1313/en/post/vpn-for-torrents/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/vpn-for-torrents/"
+                href="http://localhost:1313/ru/post/vpn-for-torrents/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/vpn-for-torrents/"
+                href="http://localhost:1313/en/post/vpn-for-torrents/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/series/torrent-basics/</loc>
+    <loc>http://localhost:1313/en/series/torrent-basics/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/post/torrent-streaming-vs-downloading/</loc>
-    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/post/torrent-streaming-vs-downloading/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/post/torrent-streaming-vs-downloading/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/post/torrent-vs-magnet-link/</loc>
+    <loc>http://localhost:1313/en/post/torrent-streaming-vs-downloading/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/torrent-vs-magnet-link/"
+                href="http://localhost:1313/ru/post/torrent-streaming-vs-downloading/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/torrent-vs-magnet-link/"
+                href="http://localhost:1313/en/post/torrent-streaming-vs-downloading/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/torrent-clients-iphone/</loc>
+    <loc>http://localhost:1313/en/post/torrent-vs-magnet-link/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/torrent-clients-iphone/"
+                href="http://localhost:1313/ru/post/torrent-vs-magnet-link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/torrent-clients-iphone/"
+                href="http://localhost:1313/en/post/torrent-vs-magnet-link/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/torrents-blocked-public-wifi/</loc>
+    <loc>http://localhost:1313/en/post/torrent-clients-iphone/</loc>
     <lastmod>2026-01-18T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/torrents-blocked-public-wifi/"
+                href="http://localhost:1313/ru/post/torrent-clients-iphone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/torrents-blocked-public-wifi/"
+                href="http://localhost:1313/en/post/torrent-clients-iphone/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/merry-christmas-2025/</loc>
+    <loc>http://localhost:1313/en/post/torrents-blocked-public-wifi/</loc>
+    <lastmod>2026-01-18T21:47:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/ru/post/torrents-blocked-public-wifi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/torrents-blocked-public-wifi/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/merry-christmas-2025/</loc>
     <lastmod>2025-12-24T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/merry-christmas-2025/"
+                href="http://localhost:1313/ru/post/merry-christmas-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/merry-christmas-2025/"
+                href="http://localhost:1313/en/post/merry-christmas-2025/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/black-friday-2025/</loc>
+    <loc>http://localhost:1313/en/post/black-friday-2025/</loc>
     <lastmod>2025-11-26T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/black-friday-2025/"
+                href="http://localhost:1313/ru/post/black-friday-2025/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/black-friday-2025/"
+                href="http://localhost:1313/en/post/black-friday-2025/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/</loc>
+    <loc>http://localhost:1313/en/post/real-debrid-and-torbox-integration/</loc>
     <lastmod>2025-11-06T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/real-debrid-and-torbox-integration/"
+                href="http://localhost:1313/ru/post/real-debrid-and-torbox-integration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/"
+                href="http://localhost:1313/en/post/real-debrid-and-torbox-integration/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/webtor-torrentio-stremio/</loc>
+    <loc>http://localhost:1313/en/post/webtor-torrentio-stremio/</loc>
     <lastmod>2025-09-21T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webtor-torrentio-stremio/"
+                href="http://localhost:1313/ru/post/webtor-torrentio-stremio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/webtor-torrentio-stremio/"
+                href="http://localhost:1313/en/post/webtor-torrentio-stremio/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/webdav-is-here/</loc>
+    <loc>http://localhost:1313/en/post/webdav-is-here/</loc>
     <lastmod>2025-08-25T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/"
+                href="http://localhost:1313/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/webdav-is-here/"
+                href="http://localhost:1313/en/post/webdav-is-here/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/summer-updates/</loc>
+    <loc>http://localhost:1313/en/post/summer-updates/</loc>
     <lastmod>2025-08-15T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/summer-updates/"
+                href="http://localhost:1313/ru/post/summer-updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/summer-updates/"
+                href="http://localhost:1313/en/post/summer-updates/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/community-sharing-program/</loc>
+    <loc>http://localhost:1313/en/post/community-sharing-program/</loc>
     <lastmod>2025-07-03T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/community-sharing-program/"
+                href="http://localhost:1313/ru/post/community-sharing-program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/community-sharing-program/"
+                href="http://localhost:1313/en/post/community-sharing-program/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/</loc>
+    <loc>http://localhost:1313/en/post/watch-your-torrents-on-tv-with-stremio/</loc>
     <lastmod>2025-06-25T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B2%D0%BE%D0%B8-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D1%82%D0%B2-%D1%81%D0%BE-stremio/"
+                href="http://localhost:1313/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B2%D0%BE%D0%B8-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D1%82%D0%B2-%D1%81%D0%BE-stremio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/"
+                href="http://localhost:1313/en/post/watch-your-torrents-on-tv-with-stremio/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/library-major-upgrade/</loc>
+    <loc>http://localhost:1313/en/post/library-major-upgrade/</loc>
     <lastmod>2025-05-29T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/library-major-upgrade/"
+                href="http://localhost:1313/ru/post/library-major-upgrade/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/library-major-upgrade/"
+                href="http://localhost:1313/en/post/library-major-upgrade/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/personal-library-and-big-plans/</loc>
+    <loc>http://localhost:1313/en/post/personal-library-and-big-plans/</loc>
     <lastmod>2025-04-26T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/personal-library-and-big-plans/"
+                href="http://localhost:1313/ru/post/personal-library-and-big-plans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/personal-library-and-big-plans/"
+                href="http://localhost:1313/en/post/personal-library-and-big-plans/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/happy-new-year-2024/</loc>
+    <loc>http://localhost:1313/en/post/happy-new-year-2024/</loc>
     <lastmod>2024-12-28T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/happy-new-year-2024/"
+                href="http://localhost:1313/ru/post/happy-new-year-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/happy-new-year-2024/"
+                href="http://localhost:1313/en/post/happy-new-year-2024/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-transcoding-system/</loc>
+    <loc>http://localhost:1313/en/post/new-transcoding-system/</loc>
     <lastmod>2024-12-22T18:32:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-transcoding-system/"
+                href="http://localhost:1313/en/post/new-transcoding-system/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/meet-web-ui-version-2/</loc>
+    <loc>http://localhost:1313/en/post/meet-web-ui-version-2/</loc>
     <lastmod>2024-10-06T15:07:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/"
+                href="http://localhost:1313/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/meet-web-ui-version-2/"
+                href="http://localhost:1313/en/post/meet-web-ui-version-2/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.16.0/</loc>
     <lastmod>2022-12-26T21:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.16.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.16.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.16.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/webtor-api-v1.0.0/</loc>
+    <loc>http://localhost:1313/en/post/webtor-api-v1.0.0/</loc>
     <lastmod>2022-07-08T19:17:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webtor-api-v1.0.0/"
+                href="http://localhost:1313/ru/post/webtor-api-v1.0.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/webtor-api-v1.0.0/"
+                href="http://localhost:1313/en/post/webtor-api-v1.0.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.15.0/</loc>
     <lastmod>2022-04-17T19:23:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.15.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.15.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.15.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.14.0/</loc>
     <lastmod>2021-12-22T22:48:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.14.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.14.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.14.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.13.0/</loc>
     <lastmod>2021-12-11T16:38:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.13.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.13.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.13.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.12.0/</loc>
     <lastmod>2021-11-04T00:05:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.12.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.12.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.12.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.11.0/</loc>
     <lastmod>2021-06-29T00:05:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.11.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.11.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.11.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.10.0/</loc>
     <lastmod>2021-05-01T21:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.10.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.10.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.10.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.9.0/</loc>
     <lastmod>2021-03-28T21:17:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.9.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.9.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.9.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.8.0/</loc>
     <lastmod>2020-12-24T00:20:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.8.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.8.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.8.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/anonymous-and-secure/</loc>
+    <loc>http://localhost:1313/en/post/anonymous-and-secure/</loc>
     <lastmod>2020-12-22T20:52:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/"
+                href="http://localhost:1313/ru/post/%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/anonymous-and-secure/"
+                href="http://localhost:1313/en/post/anonymous-and-secure/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/series/whats-inside/</loc>
+    <loc>http://localhost:1313/en/series/whats-inside/</loc>
     <lastmod>2020-12-22T20:52:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</loc>
+    <loc>http://localhost:1313/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</loc>
     <lastmod>2020-10-18T18:09:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
+                href="http://localhost:1313/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
+                href="http://localhost:1313/en/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.7.0/</loc>
     <lastmod>2020-05-27T22:59:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.7.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.7.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.7.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.6.0/</loc>
     <lastmod>2019-12-14T16:52:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.6.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.6.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.6.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.5.0/</loc>
     <lastmod>2019-11-24T01:01:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.5.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.5.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.5.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</loc>
+    <loc>http://localhost:1313/en/post/technologies-inside-webtor.io/</loc>
     <lastmod>2019-10-30T21:47:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-webtor.io/"
+                href="http://localhost:1313/ru/post/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-webtor.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/technologies-inside-webtor.io/"
+                href="http://localhost:1313/en/post/technologies-inside-webtor.io/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.4.0/</loc>
     <lastmod>2019-10-16T21:28:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.4.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.4.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.4.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.3.0/</loc>
     <lastmod>2019-09-23T15:24:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.3.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.3.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.3.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.2.0/</loc>
     <lastmod>2019-09-04T20:02:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.2.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.2.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.2.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/</loc>
+    <loc>http://localhost:1313/en/post/new-features-in-webtor-1.1.0/</loc>
     <lastmod>2019-08-06T23:27:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.1.0/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/"
+                href="http://localhost:1313/en/post/new-features-in-webtor-1.1.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/</loc>
+    <loc>http://localhost:1313/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/</loc>
     <lastmod>2019-08-03T00:13:37+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-webtor.io-%D0%B4%D0%BB%D1%8F-google-chrome-0.1.10/"
+                href="http://localhost:1313/ru/post/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-webtor.io-%D0%B4%D0%BB%D1%8F-google-chrome-0.1.10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/"
+                href="http://localhost:1313/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/post/introducing-webtor-1.0/</loc>
+    <loc>http://localhost:1313/en/post/introducing-webtor-1.0/</loc>
     <lastmod>2019-07-24T00:15:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-webtor-1.0/"
+                href="http://localhost:1313/ru/post/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-webtor-1.0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/post/introducing-webtor-1.0/"
+                href="http://localhost:1313/en/post/introducing-webtor-1.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/en/series/watch-movies-online-from-any-torrent-site/</loc>
+    <loc>http://localhost:1313/en/series/watch-movies-online-from-any-torrent-site/</loc>
     <lastmod>2019-07-23T22:26:03+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/post/watch-movies-online-from-nyaa.si/</loc>
+    <loc>http://localhost:1313/en/post/watch-movies-online-from-nyaa.si/</loc>
     <lastmod>2019-07-23T22:26:03+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/post/watch-movies-online-from-yts.am/</loc>
+    <loc>http://localhost:1313/en/post/watch-movies-online-from-yts.am/</loc>
     <lastmod>2019-07-23T14:30:02+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/tags/"
+                href="http://localhost:1313/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.webtor.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

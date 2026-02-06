@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What&#39;s Inside on webtor.io</title>
-    <link>https://blog.webtor.io/en/series/whats-inside/</link>
+    <link>http://localhost:1313/en/series/whats-inside/</link>
     <description>Recent content in What&#39;s Inside on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Dec 2020 20:52:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/en/series/whats-inside/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/series/whats-inside/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anonymous and Secure</title>
-      <link>https://blog.webtor.io/en/post/anonymous-and-secure/</link>
+      <link>http://localhost:1313/en/post/anonymous-and-secure/</link>
       <pubDate>Tue, 22 Dec 2020 20:52:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/anonymous-and-secure/</guid>
+      <guid>http://localhost:1313/en/post/anonymous-and-secure/</guid>
       <description>&lt;p&gt;Quite often I get asked questions about how secure it is to use &lt;strong&gt;Webtor&lt;/strong&gt; and how does using &lt;strong&gt;Webtor&lt;/strong&gt;&#xA;differ from using a regular &lt;strong&gt;BitTorrent&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It also turned out that in some countries the use of &lt;strong&gt;BitTorrent&lt;/strong&gt;-networks for downloading this or that content&#xA;can be potentially dangerous and lead to substantial fines (eg in Germany).&lt;/p&gt;&#xA;&lt;p&gt;To understand this issue, let&amp;rsquo;s understand the principles of the &lt;strong&gt;webtor.io&lt;/strong&gt; service.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;When visiting the &lt;strong&gt;webtor.io&lt;/strong&gt; website, the user always opens a secure &lt;strong&gt;SSL&lt;/strong&gt;-connection and&#xA;all further requests between the client and the server are transmitted encrypted using the &lt;strong&gt;HTTPS&lt;/strong&gt;-protocol.&lt;/li&gt;&#xA;&lt;li&gt;At the time of downloading content, only webtor servers connects to &lt;strong&gt;BitTorrent&lt;/strong&gt;-peers.&#xA;For the end-user, downloading a file from &lt;strong&gt;Webtor&lt;/strong&gt; is no different than downloading from any&#xA;other file hosting service, and watching a video is similar to watching a video from a &lt;strong&gt;Tube&lt;/strong&gt;-site.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Webtor&lt;/strong&gt; servers work like regular &lt;strong&gt;BitTorrent&lt;/strong&gt;-clients. Thus, through &lt;strong&gt;Webtor&lt;/strong&gt; you can load&#xA;any torrents that could be downloaded through a regular &lt;strong&gt;BitTorrent&lt;/strong&gt;-client (including torrent files from private trackers),&#xA;but without revealing the real &lt;strong&gt;IP&lt;/strong&gt;-addresses for the rest of the &lt;strong&gt;BitTorrent&lt;/strong&gt;-network users&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thus, it is not necessary to use &lt;strong&gt;VPN&lt;/strong&gt;-services when visiting &lt;strong&gt;Webtor&lt;/strong&gt; and&#xA;downloading torrents via &lt;strong&gt;Webtor&lt;/strong&gt; is anonymous and secure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technologies inside Webtor.io</title>
-      <link>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</link>
+      <link>http://localhost:1313/en/post/technologies-inside-webtor.io/</link>
       <pubDate>Wed, 30 Oct 2019 21:47:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/technologies-inside-webtor.io/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/images/technologies-inside-webtor/kittens.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Periodically, my users are interested in what technologies &lt;strong&gt;Webtor&lt;/strong&gt; is based on,&#xA;whether I use library A or tool B. This time I want to fully answer all questions.&lt;/p&gt;&#xA;&lt;p&gt;To begin with, &lt;strong&gt;Webtor&lt;/strong&gt; has made a 3-year-long journey from a monolithic application living on a dedicated server&#xA;to the introduction of microservices, containerization, and moving to the &lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes (k8s)&lt;/a&gt; cluster.&#xA;Currently, about 10 different services are running in the cluster and 100+ simultaneous jobs are running&#xA;for downloading torrents and transcoding content.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/post/technologies-inside-webtor.io/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/technologies-inside-webtor/kittens.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Periodically, my users are interested in what technologies &lt;strong&gt;Webtor&lt;/strong&gt; is based on,&#xA;whether I use library A or tool B. This time I want to fully answer all questions.&lt;/p&gt;&#xA;&lt;p&gt;To begin with, &lt;strong&gt;Webtor&lt;/strong&gt; has made a 3-year-long journey from a monolithic application living on a dedicated server&#xA;to the introduction of microservices, containerization, and moving to the &lt;a href=&#34;https://kubernetes.io/&#34;&gt;Kubernetes (k8s)&lt;/a&gt; cluster.&#xA;Currently, about 10 different services are running in the cluster and 100+ simultaneous jobs are running&#xA;for downloading torrents and transcoding content.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
