@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on webtor.io</title>
-    <link>http://localhost:1313/en/series/</link>
+    <link>https://blog.webtor.io/en/series/</link>
     <description>Recent content in Series on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Feb 2026 19:20:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.webtor.io/en/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keeping Torrents Alive</title>
-      <link>http://localhost:1313/en/series/keeping-torrents-alive/</link>
+      <link>https://blog.webtor.io/en/series/keeping-torrents-alive/</link>
       <pubDate>Fri, 06 Feb 2026 19:20:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/series/keeping-torrents-alive/</guid>
+      <guid>https://blog.webtor.io/en/series/keeping-torrents-alive/</guid>
       <description></description>
     </item>
     <item>
       <title>What&#39;s New</title>
-      <link>http://localhost:1313/en/series/whats-new/</link>
+      <link>https://blog.webtor.io/en/series/whats-new/</link>
       <pubDate>Tue, 03 Feb 2026 19:50:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/series/whats-new/</guid>
+      <guid>https://blog.webtor.io/en/series/whats-new/</guid>
       <description></description>
     </item>
     <item>
       <title>Torrent Basics</title>
-      <link>http://localhost:1313/en/series/torrent-basics/</link>
+      <link>https://blog.webtor.io/en/series/torrent-basics/</link>
       <pubDate>Sun, 18 Jan 2026 21:47:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/series/torrent-basics/</guid>
+      <guid>https://blog.webtor.io/en/series/torrent-basics/</guid>
       <description></description>
     </item>
     <item>
       <title>What&#39;s Inside</title>
-      <link>http://localhost:1313/en/series/whats-inside/</link>
+      <link>https://blog.webtor.io/en/series/whats-inside/</link>
       <pubDate>Tue, 22 Dec 2020 20:52:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/series/whats-inside/</guid>
+      <guid>https://blog.webtor.io/en/series/whats-inside/</guid>
       <description></description>
     </item>
     <item>
       <title>Watch Movies Online From Any Torrent Site</title>
-      <link>http://localhost:1313/en/series/watch-movies-online-from-any-torrent-site/</link>
+      <link>https://blog.webtor.io/en/series/watch-movies-online-from-any-torrent-site/</link>
       <pubDate>Tue, 23 Jul 2019 22:26:03 +0300</pubDate>
-      <guid>http://localhost:1313/en/series/watch-movies-online-from-any-torrent-site/</guid>
+      <guid>https://blog.webtor.io/en/series/watch-movies-online-from-any-torrent-site/</guid>
       <description></description>
     </item>
   </channel>

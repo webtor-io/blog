@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keeping Torrents Alive on webtor.io</title>
-    <link>http://localhost:1313/ru/series/keeping-torrents-alive/</link>
+    <link>https://blog.webtor.io/ru/series/keeping-torrents-alive/</link>
     <description>Recent content in Keeping Torrents Alive on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 06 Feb 2026 19:20:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/series/keeping-torrents-alive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.webtor.io/ru/series/keeping-torrents-alive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seedbox vs torrent vault: в чём разница?</title>
-      <link>http://localhost:1313/ru/post/seedbox-vs-torrent-vault/</link>
+      <link>https://blog.webtor.io/ru/post/seedbox-vs-torrent-vault/</link>
       <pubDate>Fri, 06 Feb 2026 19:20:00 +0300</pubDate>
-      <guid>http://localhost:1313/ru/post/seedbox-vs-torrent-vault/</guid>
+      <guid>https://blog.webtor.io/ru/post/seedbox-vs-torrent-vault/</guid>
       <description>&lt;p&gt;Когда торренты становятся частью регулярного рабочего процесса, традиционных торрент-клиентов часто перестаёт хватать.&lt;/p&gt;&#xA;&lt;p&gt;Пользователи начинают искать более стабильные способы:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;поддерживать доступность торрентов&lt;/li&gt;&#xA;&lt;li&gt;надёжно получать доступ к контенту&lt;/li&gt;&#xA;&lt;li&gt;не зависеть от локальных устройств&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;В этом контексте часто появляются два подхода: &lt;strong&gt;seedbox&amp;rsquo;ы&lt;/strong&gt; и &lt;strong&gt;torrent vault&amp;rsquo;ы&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Хотя на первый взгляд они могут показаться похожими, они решают разные задачи.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;что-такое-seedbox&#34;&gt;Что такое seedbox&lt;/h2&gt;&#xA;&lt;p&gt;Seedbox — это удалённый сервер, предназначенный для скачивания и раздачи торрентов.&lt;/p&gt;&#xA;&lt;p&gt;Вместо использования собственного устройства торрент-клиент работает на выделенной машине с:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Создание личной торрент-библиотеки</title>
-      <link>http://localhost:1313/ru/post/personal-torrent-library/</link>
+      <link>https://blog.webtor.io/ru/post/personal-torrent-library/</link>
       <pubDate>Fri, 06 Feb 2026 19:18:00 +0300</pubDate>
-      <guid>http://localhost:1313/ru/post/personal-torrent-library/</guid>
+      <guid>https://blog.webtor.io/ru/post/personal-torrent-library/</guid>
       <description>&lt;p&gt;Для многих людей торренты — это временный инструмент.&lt;/p&gt;&#xA;&lt;p&gt;Вы скачиваете файл, используете его один раз и идёте дальше.&lt;br&gt;&#xA;Но со временем некоторые пользователи начинают относиться к торрентам иначе — не как к одноразовым передачам, а как к части личной коллекции.&lt;/p&gt;&#xA;&lt;p&gt;Личная торрент-библиотека — это не просто сохранение файлов.&lt;br&gt;&#xA;Это сохранение доступа к контенту, который важен для вас.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;почему-люди-начинают-создавать-торрент-библиотеки&#34;&gt;Почему люди начинают создавать торрент-библиотеки&lt;/h2&gt;&#xA;&lt;p&gt;Переход обычно происходит после нескольких знакомых ситуаций:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;торрент, который работал раньше, теперь неактивен&lt;/li&gt;&#xA;&lt;li&gt;редкий файл становится невозможно найти снова&lt;/li&gt;&#xA;&lt;li&gt;повторная загрузка становится неэффективной&lt;/li&gt;&#xA;&lt;li&gt;важный контент исчезает из сети&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Вместо того чтобы каждый раз искать заново, пользователи начинают отслеживать то, что им важно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как сохранить редкие торренты доступными</title>
-      <link>http://localhost:1313/ru/post/keep-rare-torrents-available/</link>
+      <link>https://blog.webtor.io/ru/post/keep-rare-torrents-available/</link>
       <pubDate>Fri, 06 Feb 2026 19:16:00 +0300</pubDate>
-      <guid>http://localhost:1313/ru/post/keep-rare-torrents-available/</guid>
+      <guid>https://blog.webtor.io/ru/post/keep-rare-torrents-available/</guid>
       <description>&lt;p&gt;Редкие торренты исчезают быстрее, чем многие ожидают.&lt;/p&gt;&#xA;&lt;p&gt;Файл, который работает сегодня, может стать невозможным для скачивания через несколько недель.&lt;br&gt;&#xA;Как только сидеры уходят, торрент становится хрупким — а иногда исчезает полностью.&lt;/p&gt;&#xA;&lt;p&gt;Если вам важно сохранить доступ к определённым торрентам, полагаться на случай редко бывает достаточно.&lt;br&gt;&#xA;Доступность требует намеренных действий.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;почему-редкие-торренты-требуют-особого-внимания&#34;&gt;Почему редкие торренты требуют особого внимания&lt;/h2&gt;&#xA;&lt;p&gt;Популярные торренты выживают, потому что многие люди скачивают и раздают их.&lt;/p&gt;&#xA;&lt;p&gt;У редких торрентов нет такого преимущества.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Почему торренты исчезают со временем</title>
-      <link>http://localhost:1313/ru/post/why-torrents-disappear/</link>
+      <link>https://blog.webtor.io/ru/post/why-torrents-disappear/</link>
       <pubDate>Fri, 06 Feb 2026 19:13:00 +0300</pubDate>
-      <guid>http://localhost:1313/ru/post/why-torrents-disappear/</guid>
+      <guid>https://blog.webtor.io/ru/post/why-torrents-disappear/</guid>
       <description>&lt;p&gt;На первый взгляд торренты кажутся постоянными.&lt;/p&gt;&#xA;&lt;p&gt;Как только торрент создан, кажется, что он должен быть всегда доступен. Метаданные распространены, трекеры можно копировать, а magnet-ссылки не зависят от одного сервера.&lt;/p&gt;&#xA;&lt;p&gt;Но в реальности торренты исчезают постоянно.&lt;/p&gt;&#xA;&lt;p&gt;Не потому, что технология не работает — а потому, что экосистема вокруг них меняется.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;торренты-не-хранятся-на-серверах&#34;&gt;Торренты не хранятся на серверах&lt;/h2&gt;&#xA;&lt;p&gt;В отличие от традиционных загрузок, торренты не хранятся в одном месте.&lt;/p&gt;&#xA;&lt;p&gt;Они существуют только пока:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;у кого-то есть файлы&lt;/li&gt;&#xA;&lt;li&gt;кто-то их раздаёт&lt;/li&gt;&#xA;&lt;li&gt;сеть может соединить пиры&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Это делает торренты чрезвычайно устойчивыми в начале — но хрупкими со временем.&lt;/p&gt;</description>
     </item>
   </channel>
