@@ -26,4 +26,4 @@ aliases:
 * [torrent-store](https://github.com/webtor-io/torrent-store) - временное хранилище торрент-файлов
 * [magnet2torrent](https://github.com/webtor-io/magnet2torrent) - конвертер magnet-ссылков в торрент-файлы
 
-Спасибо что используете [webtor.io](https://webtor.io/ru/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!
+Спасибо что используете [webtor.io](https://webtor.io/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!

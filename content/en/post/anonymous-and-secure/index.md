@@ -27,4 +27,4 @@ but without revealing the real **IP**-addresses for the rest of the **BitTorrent
 Thus, it is not necessary to use **VPN**-services when visiting **Webtor** and
 downloading torrents via **Webtor** is anonymous and secure.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

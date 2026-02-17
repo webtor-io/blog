@@ -30,4 +30,4 @@ In addition, now the project has its own [Subreddit](https://www.reddit.com/r/we
 And for [WordPress](https://wordpress.org/) there is [a special plugin](https://github.com/webtor-io/wordpress-plugin) for
 embedding webtor player to any WordPress blog!
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

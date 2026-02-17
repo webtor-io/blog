@@ -12,4 +12,4 @@ The web interface got a fresh redesign! We've reworked many components to make e
 3. **Smoother video playback start** - earlier, when you started watching a video, the player could stutter or buffer during the first moments while the transcoder was warming up. Now the system pre-buffers up to 5 minutes of HLS video segments right after the transcoder starts, ensuring smooth playback from the very first second.
 4. **Automatic restart of failed jobs** - earlier, if a background job (like transcoding or downloading) failed with an error, it would stay in that error state and you had to trigger it again manually. Now errored jobs automatically restart when re-requested, so you don't have to worry about stale failures.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

@@ -15,4 +15,4 @@ Here's a list of the key changes:
 4. **Improved MP4 streaming at 1080p** - improved MP4 playback at 1080p, reduced latency during playback (on desktop).
 5. **Fixed transcoding content errors** - there was an error with a delay in the start of playback.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

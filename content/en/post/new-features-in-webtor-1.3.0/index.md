@@ -21,4 +21,4 @@ This task is not simple and can take a lot of time and effort.
 But something was already made right now. [Here it is!](https://github.com/webtor-io/).
 
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

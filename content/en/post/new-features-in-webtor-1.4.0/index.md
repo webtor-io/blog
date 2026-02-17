@@ -14,4 +14,4 @@ But there might be some delay in case if there is no available peers.
 2. **"Share" button** - yes, you had share ability earlier as well, but now we have separate button. On click it will show dropdown with
 all available social networks. 
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

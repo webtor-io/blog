@@ -28,4 +28,4 @@ aliases:
 * [github.com/webtor-io/platform-sdk-js](https://github.com/webtor-io/platform-sdk-js) - клиентский JS SDK для работы c API Webtor 
 * [github.com/webtor-io/platform-sdk-php](https://github.com/webtor-io/platform-sdk-php) - серверный PHP SDK для работы c API Webtor (функционал ограничен)
 
-Спасибо что используете [webtor.io](https://webtor.io/ru/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!
+Спасибо что используете [webtor.io](https://webtor.io/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!

@@ -27,4 +27,4 @@ aliases:
 <script src="https://cdn.jsdelivr.net/npm/@webtor/player-sdk-js/dist/index.min.js" charset="utf-8" async></script>
 ```
 
-Спасибо что используете [webtor.io](https://webtor.io/ru/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!
+Спасибо что используете [webtor.io](https://webtor.io/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!

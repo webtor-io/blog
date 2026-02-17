@@ -15,4 +15,4 @@ Future plans:
 1. Add REST-API, this should make it easier to programmatically use the service.
 2. Implement support for external HTTP links as a source.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

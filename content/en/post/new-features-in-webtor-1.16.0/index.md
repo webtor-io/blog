@@ -25,6 +25,6 @@ unused files are deleted. This allows to save the downloaded information for a l
 Work has begun on the next version of the web interface, more details can be found on
 [its repository page](https://github.com/webtor-io/web-ui-v2).
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
 
 Merry Christmas and Happy New Year! 🎄🎄🎄

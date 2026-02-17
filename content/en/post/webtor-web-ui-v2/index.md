@@ -21,4 +21,4 @@ simply using your email address.
 and the jump and at what specific stage the problem arose.
 4. **Improved download speed** - the volume of downloaded scripts and styles has been reduced by 5 times!
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

@@ -29,6 +29,6 @@ Thanks to your support, [part of the project moved to Open Source](https://githu
 1. [Papaya player](https://papayaplayer.com/) - the project aggregates films and tv shows from popular torrent trackers and allows
 watch them online.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
 
 Merry Christmas and Happy New Year! 🎄🎄🎄

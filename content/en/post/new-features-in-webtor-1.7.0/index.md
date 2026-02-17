@@ -28,4 +28,4 @@ Now all server components of the Webtor platform and SDK are available opensourc
 * [github.com/webtor-io/platform-sdk-js](https://github.com/webtor-io/platform-sdk-js) - client-side JS SDK to work with API Webtor 
 * [github.com/webtor-io/platform-sdk-php](https://github.com/webtor-io/platform-sdk-php) - server-side PHP SDK to work with API Webtor (functionality is limited)
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish

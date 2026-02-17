@@ -25,4 +25,4 @@ Here is a list of newly opensourced components:
 * [torrent-store](https://github.com/webtor-io/torrent-store) - temporary torrent storage with Redis backend and GRPC access
 * [magnet2torrent](https://github.com/webtor-io/magnet2torrent) - magnet-uri to torrent converter as GRPC-service
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

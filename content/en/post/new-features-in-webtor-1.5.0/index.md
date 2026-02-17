@@ -12,4 +12,4 @@ Here is a list of new November's features:
 1. **OpenSubtitles suppport** - now **Webtor** automatically loads all available subtitles from OpenSubtitles.org for your preffered language.
 All subtitles are available under player's **CC** button.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

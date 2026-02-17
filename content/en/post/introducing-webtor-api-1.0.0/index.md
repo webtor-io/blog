@@ -19,4 +19,4 @@ Great and how to access it? There are two options to choose from here:
 1. Host it on your hardware as part of a [self-hosted solution](https://github.com/webtor-io/helm-charts).
 2. Connect via [RapidAPI](https://rapidapi.com/paveltatarsky-Dx4aX7s_XBt/api/webtor/).
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

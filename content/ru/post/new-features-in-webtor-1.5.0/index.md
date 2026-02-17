@@ -12,4 +12,4 @@ aliases:
 1. **Поддержка OpenSubtitles** - **Webtor** автоматически загружает все доступные субтитры с OpenSubtitles.org для вашего языка.
 Все субтитры доступны нажатием кнопки **CC** в плееере.
 
-Спасибо что используете [webtor.io](https://webtor.io/ru/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!
+Спасибо что используете [webtor.io](https://webtor.io/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!

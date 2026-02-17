@@ -57,4 +57,4 @@ without tangible delays.
 Slowly but surely, work is underway to opensource the project. At the end, everyone can
 install **Webtor** into their Kubernetes cluster.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

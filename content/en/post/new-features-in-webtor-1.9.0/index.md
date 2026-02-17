@@ -19,4 +19,4 @@ to switch between them on the fly. The selection of audio tracks has been moved 
 which makes smoother playback. Also, transcoded fragments began to be cached.
 4. **Minor interface improvements** - added an indication of the file size in the listing, rounded corners of elements.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!

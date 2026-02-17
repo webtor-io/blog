@@ -21,4 +21,4 @@ aliases:
 Эта задача непростая и может потребовать достаточно много времени и усилий.
 Но что-то уже доступно прямо сейчас. [Вот!](https://github.com/webtor-io/).
 
-Спасибо что используете [webtor.io](https://webtor.io/ru/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!
+Спасибо что используете [webtor.io](https://webtor.io/) и [поддержите проект](https://www.patreon.com/bePatron?u=24145874)!

@@ -21,6 +21,6 @@ using the [p2p-media-loader](https://github.com/Novage/p2p-media-loader) library
 which elements of the player should be disabled. It became possible to stretch the player simultaneously in width and height by 100%.
 5. **Switching between files in the player** - now you can switch between files within folder without leaving the player
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
 
 Merry Christmas and Happy New Year! 🎄🎄🎄

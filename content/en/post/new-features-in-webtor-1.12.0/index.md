@@ -15,4 +15,4 @@ trnasmitting from the BitTorrent-network. Now the video is deferredly converted 
 2. **Improved loading of cached HLS-fragments** - now cached fragments are loaded with lookahead, thus on request
 the necessary fragment has already been preloaded to the edge-server from the main cache-storage.
 
-Thank you for using [webtor.io](https://webtor.io/en/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
+Thank you for using [webtor.io](https://webtor.io/) and [sponsor it](https://www.patreon.com/bePatron?u=24145874) if you wish!
