@@ -1,10 +1,10 @@
-/* Comfortaa 700 — subset: only "webtor" glyphs */
+/* Comfortaa 300 — subset: only "webtor" glyphs (matches webtor.io) */
 @font-face {
   font-family: 'Comfortaa';
   font-style: normal;
-  font-weight: 700;
+  font-weight: 300;
   font-display: swap;
-  src: url('/fonts/comfortaa-700-webtor.woff2') format('woff2');
+  src: url('/fonts/comfortaa-300-webtor.woff2') format('woff2');
 }
 
 /* Inter — variable weight 400-800 */
