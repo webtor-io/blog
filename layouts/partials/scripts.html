@@ -1,4 +1,5 @@
-<script src="/js/highlight.min.js"></script>
+{{ $hljs := resources.Get "js/highlight.min.js" | fingerprint }}
+<script src="{{ $hljs.RelPermalink }}"></script>
 
 <script>
   hljs.initHighlightingOnLoad();

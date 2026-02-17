@@ -1,5 +1,9 @@
-<link rel="stylesheet" href="/css/fonts.css" />
-<link rel="stylesheet" href="/css/webtor.css" />
-<link rel="stylesheet" href="/css/dracula.css" />
+{{ $fonts := resources.Get "css/fonts.css" | fingerprint }}
+{{ $webtor := resources.Get "css/webtor.css" | fingerprint }}
+{{ $dracula := resources.Get "css/dracula.css" | fingerprint }}
+
+<link rel="stylesheet" href="{{ $fonts.RelPermalink }}" />
+<link rel="stylesheet" href="{{ $webtor.RelPermalink }}" />
+<link rel="stylesheet" href="{{ $dracula.RelPermalink }}" />
 
 <script defer src="https://umami.webtor.io/umami" data-website-id="8407716b-fbd8-43d0-95a1-ba7dfd929f59"></script>
