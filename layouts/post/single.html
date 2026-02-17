@@ -1,0 +1,52 @@
+{{ partial "header.html" . }}
+<body itemscope itemtype="http://schema.org/Article">
+  {{ partial "navbar.html" . }}
+
+  <main class="w-container">
+    <h1 class="w-article-title" itemprop="name">{{ .Title }} {{ .Params.titleEmoji | emojify }}</h1>
+
+    <div class="w-article-meta">
+      <span class="w-article-date">{{ partial (printf "date.%s.html" .Lang) .Date }}</span>
+      {{ if isset .Params "series" }}
+        <a href="{{ printf "/series/%s" (replace .Params.series "'" "" | anchorize) | relLangURL }}" class="w-badge w-badge--pink">{{ .Params.Series }}</a>
+      {{ end }}
+    </div>
+
+    <article class="w-prose" itemprop="articleBody">
+      {{ .Content }}
+    </article>
+
+    {{ if ne .Lastmod .PublishDate }}
+      <div style="margin-top: 1.5rem; font-size: 0.85rem; color: var(--w-muted);">
+        <em>{{ i18n "lastMod" }}</em> {{ partial (printf "date.%s.html" .Lang) .Lastmod }}
+      </div>
+    {{ end }}
+
+    {{ if and (.Site.Taxonomies.series) (isset .Params "series") }}
+      {{ $series := replace .Params.series "'" "" | anchorize }}
+      {{ $seriesKey := .Params.series | lower }}
+      {{ $posts := index .Site.Taxonomies.series $seriesKey }}
+
+      {{ if gt ($posts | len) 1 }}
+        <section class="w-related">
+          <h3 class="w-related__title">{{ i18n "relatedPostsStart" }} <a href="{{ printf "/series/%s" $series | relLangURL }}">{{ .Params.Series }}</a> {{ i18n "relatedPostsEnd" }}</h3>
+          <div class="w-post-list">
+            {{ range where $posts "Title" "!=" .Title }}
+              <a href="{{ .Permalink }}" class="w-post-item">
+                <div class="w-post-item__title">{{ .Title }}</div>
+                <div class="w-post-item__date">{{ partial (printf "date.%s.html" .Lang) .Date }}</div>
+              </a>
+            {{ end }}
+          </div>
+        </section>
+      {{ else }}
+        <section class="w-related">
+          <p style="color: var(--w-muted); font-style: italic;">{{ i18n "noFollowUpPosts" }}</p>
+        </section>
+      {{ end }}
+    {{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

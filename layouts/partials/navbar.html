@@ -1,0 +1,28 @@
+{{ $isBlog := hasPrefix .RelPermalink (printf "/%s/post" .Language.Lang) }}
+{{ $isSeries := hasPrefix .RelPermalink (printf "/%s/series" .Language.Lang) }}
+
+<nav class="w-navbar">
+  <a href="https://webtor.io" class="w-logo">web<span class="accent">tor</span></a>
+
+  <div class="w-nav-links">
+    <a href="{{ "/post" | relLangURL }}" class="w-nav-link{{ if $isBlog }} active{{ end }}">{{ i18n "blog" }}</a>
+    <a href="{{ "/series" | relLangURL }}" class="w-nav-link{{ if $isSeries }} active{{ end }}">{{ i18n "series" }}</a>
+  </div>
+
+  <div class="w-lang-switch">
+    {{ if .IsTranslated }}
+      {{ range .AllTranslations }}
+        <a href="{{ .Permalink }}"{{ if eq .Language.Lang $.Language.Lang }} class="active"{{ end }}>{{ upper .Language.Lang }}</a>
+      {{ end }}
+    {{ else }}
+      {{ range .Site.Languages }}
+        {{ if eq .Lang $.Language.Lang }}
+          <a class="active">{{ upper .Lang }}</a>
+        {{ else }}
+          <a href="/{{ .Lang }}/">{{ upper .Lang }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</nav>
+<div class="w-navbar-spacer"></div>

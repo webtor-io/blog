@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+
+  <main class="w-container">
+    <div class="w-breadcrumb">
+      <a href="{{ "/post" | relLangURL }}">{{ i18n "blog" }}</a>
+      <span>/</span>
+      <a href="{{ "/series" | relLangURL }}">{{ i18n "series" }}</a>
+      <span>/</span>
+      {{ .Title | lower }}
+    </div>
+
+    <h1 class="w-page-title">{{ .Title }}</h1>
+
+    <div class="w-post-list">
+      {{ range .Data.Pages.ByDate.Reverse }}
+        <a href="{{ .Permalink }}" class="w-post-item">
+          <div class="w-post-item__title">{{ .Title }}</div>
+          <div class="w-post-item__date">{{ partial (printf "date.%s.html" .Lang) .Date }}</div>
+        </a>
+      {{ end }}
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

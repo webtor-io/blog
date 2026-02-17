@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html
+  lang="{{ .Site.LanguageCode }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head>
+    <meta charset="utf-8" />
+
+    {{ partial "meta.html" . }}
+
+    <title>{{ .Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}" />
+{{ $title := .Title }}
+{{ with .OutputFormats.Get "RSS" }}
+    <link
+      href="{{ .RelPermalink }}"
+      rel="alternate"
+      type="application/rss+xml"
+      title="{{ $title }}"
+    />
+{{ end }}
+    {{ partial "head_includes.html" . }}
+    <link rel="shortcut icon" href="https://webtor.io/assets/night/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="https://webtor.io/assets/night/favicon.svg" >
+    <link rel="icon" type="image/png" sizes="16x16" href="https://webtor.io/assets/night/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://webtor.io/assets/night/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="https://webtor.io/assets/night/favicon-48x48.png">
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  {{ end }}
+{{ end }}
+  </head>

@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+
+  <main class="w-container">
+    <div class="w-404">
+      <div class="w-404__code w-gradient-text">404</div>
+      <p class="w-404__text">Page not found</p>
+      <a href="{{ "/" | relURL }}" class="w-btn w-btn--pink">Go Home</a>
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

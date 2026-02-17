@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<body>
+  {{ partial "navbar.html" . }}
+
+  <main class="w-container">
+    {{ $title := .Title }}
+    {{ with i18n (lower .Title) }}{{ $title = . }}{{ end }}
+    <h1 class="w-page-title">{{ $title }}</h1>
+
+    <div class="w-terms">
+      {{ range .Pages }}
+        {{ if ne .Title "" }}
+          <a href="{{ .Permalink }}" class="w-badge w-badge--purple" style="font-size: 0.9rem; padding: 0.4rem 1rem;">
+            {{ .Title }}
+          </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>
