@@ -3,7 +3,7 @@
   lang="en"
   prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
 >
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=57116&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -18,16 +18,16 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:description" content="" />
-<meta property="og:title" content="WebDAV is here!" />
+<meta property="og:title" content="Webtor Web Interface Redesign" />
 <meta property="og:site_name" content="webtor.io" />
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://blog.webtor.io/en/post/webdav-is-here/" />
+<meta property="og:url" content="http://localhost:57116/en/post/webtor-web-interface-redesign/" />
 <meta property="og:locale" content="en" />
-<meta property="article:published_time" content="2025-08-25
-" /> <meta property="article:modified_time" content="2025-08-25
+<meta property="article:published_time" content="2026-02-17
+" /> <meta property="article:modified_time" content="2026-02-17
 " />
 
 
@@ -35,8 +35,8 @@
 
 
 
-    <title>WebDAV is here!</title>
-    <link rel="canonical" href="https://blog.webtor.io/en/post/webdav-is-here/" />
+    <title>Webtor Web Interface Redesign</title>
+    <link rel="canonical" href="http://localhost:57116/en/post/webtor-web-interface-redesign/" />
 
 
     
@@ -56,7 +56,7 @@
     <link rel="icon" type="image/png" sizes="48x48" href="https://webtor.io/assets/night/favicon-48x48.png">
 
   
-    <link rel="alternate" hreflang="ru" href="https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/" title="Русский">
+    <link rel="alternate" hreflang="ru" href="http://localhost:57116/ru/post/%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0-webtor/" title="Русский">
   
 
   </head>
@@ -76,9 +76,9 @@
   <div class="w-lang-switch">
     
       
-        <a href="https://blog.webtor.io/en/post/webdav-is-here/" class="active">EN</a>
+        <a href="http://localhost:57116/en/post/webtor-web-interface-redesign/" class="active">EN</a>
       
-        <a href="https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/">RU</a>
+        <a href="http://localhost:57116/ru/post/%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0-webtor/">RU</a>
       
     
   </div>
@@ -87,30 +87,39 @@
 
 
   <main class="w-container">
-    <h1 class="w-article-title" itemprop="name">WebDAV is here! 🪨</h1>
+    <h1 class="w-article-title" itemprop="name">Webtor Web Interface Redesign 🎉</h1>
 
     <div class="w-article-meta">
-      <span class="w-article-date">August 25, 2025</span>
+      <span class="w-article-date">February 17, 2026</span>
       
         <a href="/en/series/whats-new" class="w-badge w-badge--pink">What&#39;s new</a>
       
     </div>
 
     <article class="w-prose" itemprop="articleBody">
-      <p>Thanks to your support, another big feature just landed — WebDAV access to your Webtor library.</p>
-<p>You can now mount your whole torrent collection as a network folder on desktop or mobile. Stream directly from your library — or just copy your stuff locally.</p>
-<p>And yes — you can upload new torrents too — just drop .torrent files into the <code>torrents/</code> folder. That’s it. 🤘</p>
-<p>🧩 Works great with:</p>
+      <p>We&rsquo;ve rolled out a fresh redesign of the web interface.</p>
+<p>Many components were reworked to make the experience cleaner, more consistent, and more responsive — especially on mobile devices. The goal wasn&rsquo;t just to refresh the visuals, but to remove friction from everyday interactions and make the interface feel more predictable and alive.</p>
+<p>Alongside the visual update, this release introduces several important functional improvements.</p>
+<h2 id="toast-notifications">Toast notifications</h2>
+<p>Actions like copying a link, adding items to the library, or deleting content now trigger small confirmation popups.</p>
+<p>Previously, many of these interactions had no visible feedback, leaving users unsure whether the action actually worked. Now you immediately see a success, error, or informational message that appears briefly and disappears on its own.</p>
+<h2 id="status-icons-in-the-progress-log">Status icons in the progress log</h2>
+<p>The processing log now uses visual indicators instead of text labels:</p>
 <ul>
-<li>Mountain Duck (macOS/Windows)</li>
-<li>RaiDrive (Windows)</li>
-<li>Owlfiles (iOS / Android) — tested and working without hassle</li>
-<li>rclone — for CLI and selfhosted automation fans</li>
+<li>✓ completed steps</li>
+<li>✕ errors</li>
+<li>⚠ warnings</li>
 </ul>
-<p>💬 If you tried any other client — and it worked or didn’t — feel free to message me or comment here. The more we know, the better the experience for everyone.</p>
-<p>🔐 As always, WebDAV access is available for paid users — grab your personal link from your Webtor profile and plug it in.</p>
-<p>✊ Thank you for keeping this project alive.</p>
-<p>More fun features are coming soon — stay tuned.</p>
+<p>This makes it much easier to scan the log and understand what&rsquo;s happening, particularly on smaller screens.</p>
+<h2 id="smoother-video-playback-start">Smoother video playback start</h2>
+<p>In earlier versions, video playback could stutter during the first moments while the transcoder was warming up.</p>
+<p>The system now pre-buffers up to five minutes of HLS segments as soon as transcoding begins. This allows playback to start smoothly from the very first second, without the initial buffering hiccups.</p>
+<h2 id="automatic-restart-of-failed-jobs">Automatic restart of failed jobs</h2>
+<p>Previously, if a background job — such as downloading or transcoding — failed, it remained in an error state until manually restarted.</p>
+<p>Now, when the same resource is requested again, failed jobs automatically restart. This removes the need for manual intervention and prevents stale failures from blocking the workflow.</p>
+<hr>
+<p>This redesign is part of a broader effort to make Webtor more responsive, reliable, and easier to use in day-to-day scenarios.
+More improvements to both UX and infrastructure are already in progress.</p>
 
     </article>
 
@@ -126,157 +135,157 @@
           <h3 class="w-related__title">Related posts in the <a href="/en/series/whats-new">What&#39;s new</a> series...</h3>
           <div class="w-post-list">
             
-              <a href="https://blog.webtor.io/en/post/web-interface-redesign/" class="w-post-item">
-                <div class="w-post-item__title">Web Interface Redesign</div>
-                <div class="w-post-item__date">February 17, 2026</div>
-              </a>
-            
-              <a href="https://blog.webtor.io/en/post/vault-is-live/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/vault-is-live/" class="w-post-item">
                 <div class="w-post-item__title">Vault is live — keep torrents available even without seeders</div>
                 <div class="w-post-item__date">February 3, 2026</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/merry-christmas-2025/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/merry-christmas-2025/" class="w-post-item">
                 <div class="w-post-item__title">Merry Christmas &amp; Happy New Year — thank you for this year</div>
                 <div class="w-post-item__date">December 24, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/real-debrid-and-torbox-integration/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/real-debrid-and-torbox-integration/" class="w-post-item">
                 <div class="w-post-item__title">Real-Debrid and Torbox as Streaming Backends</div>
                 <div class="w-post-item__date">November 6, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/webtor-torrentio-stremio/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/webtor-torrentio-stremio/" class="w-post-item">
                 <div class="w-post-item__title">Webtor &#43; Torrentio = ⚡</div>
                 <div class="w-post-item__date">September 21, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/summer-updates/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/webdav-is-here/" class="w-post-item">
+                <div class="w-post-item__title">WebDAV is here!</div>
+                <div class="w-post-item__date">August 25, 2025</div>
+              </a>
+            
+              <a href="http://localhost:57116/en/post/summer-updates/" class="w-post-item">
                 <div class="w-post-item__title">Summer Updates</div>
                 <div class="w-post-item__date">August 15, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/watch-your-torrents-on-tv-with-stremio/" class="w-post-item">
                 <div class="w-post-item__title">Watch your torrents on TV – with Stremio!</div>
                 <div class="w-post-item__date">June 25, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/library-major-upgrade/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/library-major-upgrade/" class="w-post-item">
                 <div class="w-post-item__title">Library just got a major upgrade!</div>
                 <div class="w-post-item__date">May 29, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/personal-library-and-big-plans/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/personal-library-and-big-plans/" class="w-post-item">
                 <div class="w-post-item__title">New in Webtor: Personal Library &#43; Big Plans Ahead!</div>
                 <div class="w-post-item__date">April 26, 2025</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/happy-new-year-2024/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/happy-new-year-2024/" class="w-post-item">
                 <div class="w-post-item__title">Happy New Year from Webtor.io! 🎉</div>
                 <div class="w-post-item__date">December 28, 2024</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-transcoding-system/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-transcoding-system/" class="w-post-item">
                 <div class="w-post-item__title">New Transcoding System!</div>
                 <div class="w-post-item__date">December 22, 2024</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/meet-web-ui-version-2/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/meet-web-ui-version-2/" class="w-post-item">
                 <div class="w-post-item__title">Meet web-ui version 2!</div>
                 <div class="w-post-item__date">October 6, 2024</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.16.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.16.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.16.0</div>
                 <div class="w-post-item__date">December 26, 2022</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/webtor-api-v1.0.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/webtor-api-v1.0.0/" class="w-post-item">
                 <div class="w-post-item__title">Webtor API v1.0.0</div>
                 <div class="w-post-item__date">July 8, 2022</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.15.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.15.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.15.0</div>
                 <div class="w-post-item__date">April 17, 2022</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.14.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.14.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.14.0</div>
                 <div class="w-post-item__date">December 22, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.13.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.13.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.13.0</div>
                 <div class="w-post-item__date">December 11, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.12.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.12.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.12.0</div>
                 <div class="w-post-item__date">November 4, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.11.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.11.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.11.0</div>
                 <div class="w-post-item__date">June 29, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.10.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.10.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.10.0</div>
                 <div class="w-post-item__date">May 1, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.9.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.9.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.9.0</div>
                 <div class="w-post-item__date">March 28, 2021</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.8.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.8.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.8.0</div>
                 <div class="w-post-item__date">December 24, 2020</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.7.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.7.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.7.0</div>
                 <div class="w-post-item__date">May 27, 2020</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.6.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.6.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.6.0</div>
                 <div class="w-post-item__date">December 14, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.5.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.5.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.5.0</div>
                 <div class="w-post-item__date">November 24, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.4.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.4.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.4.0</div>
                 <div class="w-post-item__date">October 16, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.3.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.3.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.3.0</div>
                 <div class="w-post-item__date">September 23, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.2.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.2.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.2.0</div>
                 <div class="w-post-item__date">September 4, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-features-in-webtor-1.1.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-features-in-webtor-1.1.0/" class="w-post-item">
                 <div class="w-post-item__title">New features in Webtor 1.1.0</div>
                 <div class="w-post-item__date">August 6, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/new-extension-for-google-chrome-webtor.io-0.1.10/" class="w-post-item">
                 <div class="w-post-item__title">New extension for Google Chrome Webtor.io 0.1.10</div>
                 <div class="w-post-item__date">August 3, 2019</div>
               </a>
             
-              <a href="https://blog.webtor.io/en/post/introducing-webtor-1.0/" class="w-post-item">
+              <a href="http://localhost:57116/en/post/introducing-webtor-1.0/" class="w-post-item">
                 <div class="w-post-item__title">Introducing Webtor 1.0</div>
                 <div class="w-post-item__date">July 24, 2019</div>
               </a>
