@@ -1,6 +1,7 @@
 ---
 title: "Страница Discover уже доступна + улучшения стриминга"
 date: 2026-02-27T20:00:00+03:00
+slug: "discover-page-and-streaming-improvements"
 series: "Что нового"
 translationKey: "discover-page-and-streaming-improvements"
 titleEmoji: ":clapper:"

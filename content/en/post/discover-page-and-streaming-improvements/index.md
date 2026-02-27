@@ -1,6 +1,7 @@
 ---
 title: "Discover Page is Live + Streaming Improvements"
 date: 2026-02-27T20:00:00+03:00
+slug: "discover-page-and-streaming-improvements"
 series: "What's new"
 translationKey: "discover-page-and-streaming-improvements"
 titleEmoji: ":clapper:"

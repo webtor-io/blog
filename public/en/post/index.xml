@@ -10,9 +10,9 @@
     <atom:link href="https://blog.webtor.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discover Page is Live &#43; Streaming Improvements</title>
-      <link>https://blog.webtor.io/en/post/discover-page-is-live--streaming-improvements/</link>
+      <link>https://blog.webtor.io/en/post/discover-page-and-streaming-improvements/</link>
       <pubDate>Fri, 27 Feb 2026 20:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/en/post/discover-page-is-live--streaming-improvements/</guid>
+      <guid>https://blog.webtor.io/en/post/discover-page-and-streaming-improvements/</guid>
       <description>&lt;p&gt;Hey everyone! Been a busy few days — here&amp;rsquo;s what&amp;rsquo;s new in Webtor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discover--browse-movies--series-right-inside-webtor&#34;&gt;Discover — Browse Movies &amp;amp; Series Right Inside Webtor&lt;/h2&gt;&#xA;&lt;p&gt;The biggest addition this week is the Discover page (&lt;code&gt;/discover&lt;/code&gt;). You can now browse and search movies and series without leaving Webtor:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cinemeta catalogs built in&lt;/strong&gt; — top movies and series are available by default, no setup needed&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stremio addon support&lt;/strong&gt; — connect your favorite Stremio addons to expand the catalog. Free users can add up to 3 addons, paid plans get unlimited&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Addon Wizard&lt;/strong&gt; — a guided setup flow that lets you browse official and community Stremio addons, see popularity ratings, and install them in batch&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Search across all sources&lt;/strong&gt; — type a title and get results from Cinemeta + all your connected addons at once&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Series support&lt;/strong&gt; — full episode picker with season navigation, including proper handling of Specials (Season 0)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stream selection&lt;/strong&gt; — pick from available streams with filters by source, label, and language, then play directly through Webtor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The whole thing is built with Preact for a lightweight, fast experience — no heavy framework bloat.&lt;/p&gt;</description>
     </item>
     <item>
