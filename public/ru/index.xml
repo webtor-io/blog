@@ -6,8 +6,15 @@
     <description>Recent content on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 21:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 20:00:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Страница Discover уже доступна &#43; улучшения стриминга</title>
+      <link>https://blog.webtor.io/ru/post/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-discover-%D1%83%D0%B6%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%B0--%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B3%D0%B0/</link>
+      <pubDate>Fri, 27 Feb 2026 20:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/ru/post/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-discover-%D1%83%D0%B6%D0%B5-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%B0--%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B3%D0%B0/</guid>
+      <description>&lt;p&gt;Привет всем! Несколько насыщенных дней позади — вот что нового в Webtor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discover--просматривайте-фильмы-и-сериалы-прямо-в-webtor&#34;&gt;Discover — просматривайте фильмы и сериалы прямо в Webtor&lt;/h2&gt;&#xA;&lt;p&gt;Главное нововведение этой недели — страница Discover (&lt;code&gt;/discover&lt;/code&gt;). Теперь вы можете искать и просматривать фильмы и сериалы, не покидая Webtor:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Каталоги Cinemeta встроены&lt;/strong&gt; — популярные фильмы и сериалы доступны по умолчанию, никакой настройки не нужно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка аддонов Stremio&lt;/strong&gt; — подключайте любимые аддоны Stremio для расширения каталога. Бесплатные пользователи могут добавить до 3 аддонов, на платных планах — без ограничений&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мастер аддонов&lt;/strong&gt; — пошаговый процесс настройки, который позволяет просматривать официальные и сторонние аддоны Stremio, видеть рейтинги популярности и устанавливать их пакетно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поиск по всем источникам&lt;/strong&gt; — введите название и получите результаты из Cinemeta + всех подключённых аддонов одновременно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка сериалов&lt;/strong&gt; — полноценный выбор эпизодов с навигацией по сезонам, включая корректную обработку спецвыпусков (Сезон 0)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Выбор стрима&lt;/strong&gt; — выбирайте из доступных стримов с фильтрами по источнику, метке и языку, а затем воспроизводите прямо через Webtor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Всё это построено на Preact для лёгкого и быстрого взаимодействия — никакого тяжёлого фреймворка.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Редизайн веб-интерфейса</title>
       <link>https://blog.webtor.io/ru/post/%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/</link>
