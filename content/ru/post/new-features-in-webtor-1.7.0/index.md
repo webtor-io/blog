@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.7.0"
 date: 2020-05-27T21:03:00+03:00
+slug: "new-features-in-webtor-1.7.0"
 series: "Что нового"
 translationKey: "v1.7.0"
 titleEmoji: ":tada:"

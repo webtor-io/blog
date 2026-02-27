@@ -1,6 +1,7 @@
 ---
 title: "Анонимность и Безопасность"
 date: 2020-12-22T19:18:00+03:00
+slug: "anonymous-and-secure"
 translationKey: "anonymous-and-secure"
 titleEmoji: ":lock:"
 series: "Что внутри"

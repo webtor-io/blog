@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.15.0"
 date: 2022-04-17T19:23:00+03:00
+slug: "new-features-in-webtor-1.15.0"
 series: "Что нового"
 translationKey: "v1.15.0"
 titleEmoji: ":tada:"

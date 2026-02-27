@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.1.0"
 date: 2019-08-06T23:39:00+03:00
+slug: "new-features-in-webtor-1.1.0"
 series: "Что нового"
 translationKey: "v1.1.0"
 titleEmoji: ":tada:"

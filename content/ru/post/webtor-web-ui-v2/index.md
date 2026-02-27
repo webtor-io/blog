@@ -1,6 +1,7 @@
 ---
 title: "Новая система транскодирования!"
 date: 2024-12-22T18:32:00+03:00
+slug: "webtor-web-ui-v2"
 series: "Что нового"
 translationKey: "new-transcoding-system"
 titleEmoji: ":tada:"

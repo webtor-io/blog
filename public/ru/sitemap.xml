@@ -57,7 +57,7 @@
     <loc>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</loc>
     <lastmod>2026-02-27T20:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/</loc>
+    <loc>https://blog.webtor.io/ru/post/redesign-and-cool-features/</loc>
     <lastmod>2026-02-17T21:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -67,7 +67,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0/"
+                href="https://blog.webtor.io/ru/post/redesign-and-cool-features/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/series/keeping-torrents-alive/</loc>
@@ -284,7 +284,7 @@
                 href="https://blog.webtor.io/ru/post/webtor-torrentio-stremio/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/</loc>
+    <loc>https://blog.webtor.io/ru/post/webdav-is-here/</loc>
     <lastmod>2025-08-25T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -294,7 +294,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webdav-%D1%83%D0%B6%D0%B5-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C/"
+                href="https://blog.webtor.io/ru/post/webdav-is-here/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/post/summer-updates/</loc>
@@ -323,7 +323,7 @@
                 href="https://blog.webtor.io/ru/post/community-sharing-program/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B2%D0%BE%D0%B8-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D1%82%D0%B2-%D1%81%D0%BE-stremio/</loc>
+    <loc>https://blog.webtor.io/ru/post/watch-your-torrents-on-tv-with-stremio/</loc>
     <lastmod>2025-06-25T12:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -333,7 +333,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5-%D1%81%D0%B2%D0%BE%D0%B8-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D1%8B-%D0%BD%D0%B0-%D1%82%D0%B2-%D1%81%D0%BE-stremio/"
+                href="https://blog.webtor.io/ru/post/watch-your-torrents-on-tv-with-stremio/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/post/library-major-upgrade/</loc>
@@ -375,7 +375,7 @@
                 href="https://blog.webtor.io/ru/post/happy-new-year-2024/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</loc>
+    <loc>https://blog.webtor.io/ru/post/webtor-web-ui-v2/</loc>
     <lastmod>2024-12-22T18:32:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -385,10 +385,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
+                href="https://blog.webtor.io/ru/post/webtor-web-ui-v2/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-transcoding-system/</loc>
     <lastmod>2024-10-06T15:07:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -398,10 +398,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B9%D1%82%D0%B5-web-ui-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8/"
+                href="https://blog.webtor.io/ru/post/new-transcoding-system/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.16.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.16.0/</loc>
     <lastmod>2022-12-26T21:34:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -411,10 +411,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.16.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.16.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/webtor-api-v1.0.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/introducing-webtor-api-1.0.0/</loc>
     <lastmod>2022-07-08T19:17:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -424,10 +424,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webtor-api-v1.0.0/"
+                href="https://blog.webtor.io/ru/post/introducing-webtor-api-1.0.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.15.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.15.0/</loc>
     <lastmod>2022-04-17T19:23:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -437,10 +437,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.15.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.15.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.14.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.14.0/</loc>
     <lastmod>2021-12-22T22:19:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -450,10 +450,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.14.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.14.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.13.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.13.0/</loc>
     <lastmod>2021-12-11T16:38:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -463,10 +463,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.13.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.13.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.12.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.12.0/</loc>
     <lastmod>2021-11-03T23:55:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -476,10 +476,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.12.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.12.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.11.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.11.0/</loc>
     <lastmod>2021-06-28T21:57:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -489,10 +489,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.11.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.11.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.10.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.10.0/</loc>
     <lastmod>2021-05-01T19:48:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -502,10 +502,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.10.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.10.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.9.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.9.0/</loc>
     <lastmod>2021-03-28T21:17:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -515,10 +515,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.9.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.9.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.8.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.8.0/</loc>
     <lastmod>2020-12-23T23:53:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -528,10 +528,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.8.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.8.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    <loc>https://blog.webtor.io/ru/post/anonymous-and-secure/</loc>
     <lastmod>2020-12-22T19:18:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -541,13 +541,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/"
+                href="https://blog.webtor.io/ru/post/anonymous-and-secure/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8/</loc>
     <lastmod>2020-12-22T19:18:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</loc>
+    <loc>https://blog.webtor.io/ru/post/webtor-vs-webtorrent-vs-utorrent/</loc>
     <lastmod>2020-10-18T18:09:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -557,10 +557,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/"
+                href="https://blog.webtor.io/ru/post/webtor-vs-webtorrent-vs-utorrent/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.7.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.7.0/</loc>
     <lastmod>2020-05-27T21:03:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -570,10 +570,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.7.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.7.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.6.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.6.0/</loc>
     <lastmod>2019-12-14T16:52:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -583,10 +583,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.6.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.6.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.5.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.5.0/</loc>
     <lastmod>2019-11-24T01:11:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -596,10 +596,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.5.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.5.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-webtor.io/</loc>
+    <loc>https://blog.webtor.io/ru/post/technologies-inside-webtor/</loc>
     <lastmod>2019-10-29T21:46:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -609,10 +609,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-webtor.io/"
+                href="https://blog.webtor.io/ru/post/technologies-inside-webtor/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.4.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.4.0/</loc>
     <lastmod>2019-10-16T21:20:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -622,10 +622,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.4.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.4.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.3.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.3.0/</loc>
     <lastmod>2019-09-23T15:55:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -635,10 +635,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.3.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.3.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.2.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.2.0/</loc>
     <lastmod>2019-09-04T14:30:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -648,10 +648,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.2.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.2.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.1.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-features-in-webtor-1.1.0/</loc>
     <lastmod>2019-08-06T23:39:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -661,10 +661,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%83%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-webtor-1.1.0/"
+                href="https://blog.webtor.io/ru/post/new-features-in-webtor-1.1.0/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-webtor.io-%D0%B4%D0%BB%D1%8F-google-chrome-0.1.10/</loc>
+    <loc>https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/</loc>
     <lastmod>2019-08-03T00:13:37+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -674,19 +674,19 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-webtor.io-%D0%B4%D0%BB%D1%8F-google-chrome-0.1.10/"
+                href="https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/"
                 />
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-rutracker.org/</loc>
+    <loc>https://blog.webtor.io/ru/post/watch-movies-online-from-rutracker.org/</loc>
     <lastmod>2019-07-25T20:56:00+03:00</lastmod>
   </url><url>
     <loc>https://blog.webtor.io/ru/series/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</loc>
     <lastmod>2019-07-25T20:56:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%81-rutor.org/</loc>
+    <loc>https://blog.webtor.io/ru/post/watch-movies-online-from-rutor.org/</loc>
     <lastmod>2019-07-25T19:47:00+03:00</lastmod>
   </url><url>
-    <loc>https://blog.webtor.io/ru/post/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-webtor-1.0/</loc>
+    <loc>https://blog.webtor.io/ru/post/introducing-webtor-1.0/</loc>
     <lastmod>2019-07-24T00:15:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -696,7 +696,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://blog.webtor.io/ru/post/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-webtor-1.0/"
+                href="https://blog.webtor.io/ru/post/introducing-webtor-1.0/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/tags/</loc>

@@ -1,6 +1,7 @@
 ---
 title: "Встречайте web-ui второй версии!"
 date: 2024-10-06T15:07:00+03:00
+slug: "new-transcoding-system"
 series: "Что нового"
 translationKey: "web-ui-v2"
 titleEmoji: ":tada:"

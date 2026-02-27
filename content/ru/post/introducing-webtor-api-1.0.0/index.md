@@ -1,6 +1,7 @@
 ---
 title: "Webtor API v1.0.0"
 date: 2022-07-08T19:17:00+03:00
+slug: "introducing-webtor-api-1.0.0"
 series: "Что нового"
 translationKey: "api-v1.0.0"
 titleEmoji: ":tada:"

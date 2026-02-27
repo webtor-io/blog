@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Webtor.io vs WebTorrent vs μTorrent Web</title>
-      <link>https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</link>
+      <link>https://blog.webtor.io/ru/post/webtor-vs-webtorrent-vs-utorrent/</link>
       <pubDate>Sun, 18 Oct 2020 18:09:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/webtor.io-vs-webtorrent-vs-%CE%BCtorrent-web/</guid>
+      <guid>https://blog.webtor.io/ru/post/webtor-vs-webtorrent-vs-utorrent/</guid>
       <description>&lt;p&gt;Всем привет! На этот раз я решил написать некоторое сравнение моего сервиса и прочих похожих. Возможно многие&#xA;моменты вам покажутся немного предвзятыми, но увы я разрабатывал этот сервис довольно долго и могу быть немного субъектвиен.&#xA;Также я могу писать о своём сервисе чуть больше поскольку я его знаю чуть лучше.&lt;/p&gt;&#xA;&lt;p&gt;Протокол BitTorrent известен с 2001-го года и используется для передачи файлов, видео и музыки по сей день,&#xA;не смотря на различные ограничения в ряде стран. За это время появилось большое количество BitTorrent-клиентов,&#xA;реализующих данный протокол, с возможностью как загрузки так и потокового стримминга.&#xA;Если ранее BitTorrent-клиент ассоциировался только с Desktop-приложениями, то теперь многие из них&#xA;шагнули в сторону Web-приложений и стали открываться внезапно в Web-браузере. Попробуем разобраться&#xA;в этом разнообразии Web-Torrent-клиентов. Для сравнения были выбраны:&lt;/p&gt;</description>
     </item>
   </channel>

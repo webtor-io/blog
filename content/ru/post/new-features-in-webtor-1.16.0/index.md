@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.16.0"
 date: 2022-12-26T21:34:00+03:00
+slug: "new-features-in-webtor-1.16.0"
 series: "Что нового"
 translationKey: "v1.16.0"
 titleEmoji: ":tada:"

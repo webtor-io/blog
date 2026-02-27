@@ -1,6 +1,7 @@
 ---
 title: "WebDAV уже здесь!"
 date: 2025-08-25T12:00:00+03:00
+slug: "webdav-is-here"
 series: "Что нового"
 translationKey: "webdav-is-here"
 titleEmoji: ":rock:"

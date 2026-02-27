@@ -1,6 +1,7 @@
 ---
 title: "Webtor.io vs WebTorrent vs μTorrent Web"
 date: 2020-10-18T18:09:00+03:00
+slug: "webtor-vs-webtorrent-vs-utorrent"
 series: "Основы торрентов"
 translationKey: "webtor-vs-webtorrent-vs-utorrent"
 ---

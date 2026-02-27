@@ -1,6 +1,7 @@
 ---
 title: "Технологии внутри Webtor.io"
 date: 2019-10-29T21:46:00+03:00
+slug: "technologies-inside-webtor"
 series: "Что внутри"
 translationKey: "technology"
 aliases:

@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.8.0"
 date: 2020-12-23T23:53:00+03:00
+slug: "new-features-in-webtor-1.8.0"
 series: "Что нового"
 translationKey: "v1.8.0"
 titleEmoji: ":tada:"

@@ -1,6 +1,7 @@
 ---
 title: "Смотрите свои торренты на ТВ — со Stremio!"
 date: 2025-06-25T12:00:00+03:00
+slug: "watch-your-torrents-on-tv-with-stremio"
 series: "Что нового"
 translationKey: "stremio-integration"
 ---

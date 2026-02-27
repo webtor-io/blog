@@ -1,6 +1,7 @@
 ---
 title: "Новые улучшения в Webtor 1.14.0"
 date: 2021-12-22T22:19:00+03:00
+slug: "new-features-in-webtor-1.14.0"
 series: "Что нового"
 translationKey: "v1.14.0"
 titleEmoji: ":tada:"

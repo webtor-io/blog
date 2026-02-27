@@ -1,6 +1,7 @@
 ---
 title: "Редизайн веб-интерфейса"
 date: 2026-02-17T21:00:00+03:00
+slug: "redesign-and-cool-features"
 series: "Что нового"
 translationKey: "redesign-and-cool-features"
 titleEmoji: ":tada:"

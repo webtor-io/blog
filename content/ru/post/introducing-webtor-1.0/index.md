@@ -1,6 +1,7 @@
 ---
 title: "Представляем Webtor 1.0"
 date: 2019-07-24T00:15:00+03:00
+slug: "introducing-webtor-1.0"
 series: "Что нового"
 translationKey: "v1.0.0"
 titleEmoji: ":tada:"

@@ -1,6 +1,7 @@
 ---
 title: "Новое расширение Webtor.io для Google Chrome 0.1.10"
 date: 2019-08-03T00:13:37+03:00
+slug: "new-chrome-extension-0.1.10"
 series: "Что нового"
 translationKey: "chrome-ext-0.1.10"
 titleEmoji: ":tada:"
