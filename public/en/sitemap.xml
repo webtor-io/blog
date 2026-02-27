@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.webtor.io/en/post/</loc>
-    <lastmod>2026-02-17T21:00:00+03:00</lastmod>
+    <lastmod>2026-02-27T21:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/en/</loc>
+    <lastmod>2026-02-27T21:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/series/</loc>
@@ -39,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.webtor.io/en/post/web-interface-redesign/"
-                />
-  </url><url>
-    <loc>https://blog.webtor.io/en/</loc>
-    <lastmod>2026-02-17T21:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://blog.webtor.io/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.webtor.io/en/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/en/series/whats-new/</loc>
