@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.webtor.io/ru/post/</loc>
-    <lastmod>2026-02-27T20:00:00+03:00</lastmod>
+    <lastmod>2026-03-19T18:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/series/</loc>
-    <lastmod>2026-02-27T20:00:00+03:00</lastmod>
+    <lastmod>2026-03-19T18:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/</loc>
-    <lastmod>2026-02-27T20:00:00+03:00</lastmod>
+    <lastmod>2026-03-19T18:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,32 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://blog.webtor.io/ru/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/ru/series/whats-new/</loc>
+    <lastmod>2026-03-19T18:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/series/whats-new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/series/whats-new/"
+                />
+  </url><url>
+    <loc>https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/</loc>
+    <lastmod>2026-03-19T18:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/"
                 />
   </url><url>
     <loc>https://blog.webtor.io/ru/post/discover-page-and-streaming-improvements/</loc>

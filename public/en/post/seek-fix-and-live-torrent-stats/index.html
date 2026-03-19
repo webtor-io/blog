@@ -18,16 +18,16 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:description" content="" />
-<meta property="og:title" content="Library just got a major upgrade!" />
+<meta property="og:title" content="Seek Is Finally Fixed &#43; Live Torrent Stats" />
 <meta property="og:site_name" content="webtor.io" />
 <meta property="og:image" content="" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="" />
 <meta property="og:image:height" content="" />
-<meta property="og:url" content="https://blog.webtor.io/en/post/library-major-upgrade/" />
+<meta property="og:url" content="https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/" />
 <meta property="og:locale" content="en" />
-<meta property="article:published_time" content="2025-05-29
-" /> <meta property="article:modified_time" content="2025-05-29
+<meta property="article:published_time" content="2026-03-19
+" /> <meta property="article:modified_time" content="2026-03-19
 " />
 
 
@@ -35,8 +35,8 @@
 
 
 
-    <title>Library just got a major upgrade!</title>
-    <link rel="canonical" href="https://blog.webtor.io/en/post/library-major-upgrade/" />
+    <title>Seek Is Finally Fixed &#43; Live Torrent Stats</title>
+    <link rel="canonical" href="https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/" />
 
 
     
@@ -56,7 +56,7 @@
     <link rel="icon" type="image/png" sizes="48x48" href="https://webtor.io/assets/night/favicon-48x48.png">
 
   
-    <link rel="alternate" hreflang="ru" href="https://blog.webtor.io/ru/post/library-major-upgrade/" title="Русский">
+    <link rel="alternate" hreflang="ru" href="https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/" title="Русский">
   
 
   </head>
@@ -76,9 +76,9 @@
   <div class="w-lang-switch">
     
       
-        <a href="https://blog.webtor.io/en/post/library-major-upgrade/" class="active">EN</a>
+        <a href="https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/" class="active">EN</a>
       
-        <a href="https://blog.webtor.io/ru/post/library-major-upgrade/">RU</a>
+        <a href="https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/">RU</a>
       
     
   </div>
@@ -87,28 +87,45 @@
 
 
   <main class="w-container">
-    <h1 class="w-article-title" itemprop="name">Library just got a major upgrade! </h1>
+    <h1 class="w-article-title" itemprop="name">Seek Is Finally Fixed &#43; Live Torrent Stats 🚀</h1>
 
     <div class="w-article-meta">
-      <span class="w-article-date">May 29, 2025</span>
+      <span class="w-article-date">March 19, 2026</span>
       
         <a href="/en/series/whats-new" class="w-badge w-badge--pink">What&#39;s new</a>
       
     </div>
 
     <article class="w-prose" itemprop="articleBody">
-      <p>Hey friends! 👋</p>
-<p>We’ve just released a huge improvement to Webtor Library — and we think you’re going to love it.</p>
-<p>Now, when you open your Library, you’ll see new sections for Movies and Series — automatically created based on the torrents you’ve added.</p>
-<p>It’s a cleaner, smarter way to browse your saved content.</p>
-<p>No more endless torrent lists — just organized, beautiful media.</p>
-<p>What’s next?
-Soon you’ll be able to:</p>
-<p>📺 Stream your Library directly through Stremio</p>
-<p>💾 Make your Library eternal — content will remain available even if torrent seeders disappear (available for paid users)</p>
-<p>Right now, availability depends on seeders — but we’re working on making your Library truly yours, forever.</p>
-<p>Thank you 🙏
-Thanks for being part of this journey. Your support makes features like this possible. ❤️</p>
+      <p>We&rsquo;ve just shipped two updates that remove one of the most annoying problems in torrent streaming and make things way more transparent.</p>
+<h2 id="session-based-transcoder--seek-finally-works-properly">Session-Based Transcoder — Seek Finally Works Properly</h2>
+<p>We&rsquo;ve fully switched to a session-based transcoder.</p>
+<p><strong>The key change:</strong> you can now seek instantly without waiting for FFmpeg to catch up.</p>
+<p><strong>Before:</strong></p>
+<ul>
+<li>Seeking meant waiting until the transcoder processed the stream up to that point</li>
+<li>Painful on long videos</li>
+</ul>
+<p><strong>Now:</strong></p>
+<ul>
+<li>A single FFmpeg process per session</li>
+<li>Proper seek support</li>
+<li>Near-instant jumping to any position</li>
+</ul>
+<p>The old mode is gone — this is now the only path.</p>
+<h2 id="live-torrent-status--no-more-guessing">Live Torrent Status — No More Guessing</h2>
+<p>The resource page now shows a real-time torrent status.</p>
+<p>You can see:</p>
+<ul>
+<li>How much of the torrent is cached</li>
+<li>How many peers are connected</li>
+<li>Whether it&rsquo;s vaulted or not</li>
+</ul>
+<p>So instead of guessing <em>&ldquo;is it downloading or stuck?&rdquo;</em> — you just see it.</p>
+<h2 id="why-this-matters">Why This Matters</h2>
+<p><strong>Seek</strong> → removes a major UX pain point</p>
+<p><strong>Status</strong> → removes uncertainty</p>
+<p>Together, this makes Webtor feel much less like a black box and more like a predictable tool.</p>
 
     </article>
 
@@ -123,11 +140,6 @@ Thanks for being part of this journey. Your support makes features like this pos
         <section class="w-related">
           <h3 class="w-related__title">Related posts in the <a href="/en/series/whats-new">What&#39;s new</a> series...</h3>
           <div class="w-post-list">
-            
-              <a href="https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/" class="w-post-item">
-                <div class="w-post-item__title">Seek Is Finally Fixed &#43; Live Torrent Stats</div>
-                <div class="w-post-item__date">March 19, 2026</div>
-              </a>
             
               <a href="https://blog.webtor.io/en/post/discover-page-and-streaming-improvements/" class="w-post-item">
                 <div class="w-post-item__title">Discover Page is Live &#43; Streaming Improvements</div>
@@ -172,6 +184,11 @@ Thanks for being part of this journey. Your support makes features like this pos
               <a href="https://blog.webtor.io/en/post/watch-your-torrents-on-tv-with-stremio/" class="w-post-item">
                 <div class="w-post-item__title">Watch your torrents on TV – with Stremio!</div>
                 <div class="w-post-item__date">June 25, 2025</div>
+              </a>
+            
+              <a href="https://blog.webtor.io/en/post/library-major-upgrade/" class="w-post-item">
+                <div class="w-post-item__title">Library just got a major upgrade!</div>
+                <div class="w-post-item__date">May 29, 2025</div>
               </a>
             
               <a href="https://blog.webtor.io/en/post/personal-library-and-big-plans/" class="w-post-item">

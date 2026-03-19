@@ -6,8 +6,15 @@
     <description>Recent content in Posts on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 20:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:00:00 +0300</lastBuildDate>
     <atom:link href="https://blog.webtor.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seek Is Finally Fixed &#43; Live Torrent Stats</title>
+      <link>https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/</link>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 +0300</pubDate>
+      <guid>https://blog.webtor.io/en/post/seek-fix-and-live-torrent-stats/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve just shipped two updates that remove one of the most annoying problems in torrent streaming and make things way more transparent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;session-based-transcoder--seek-finally-works-properly&#34;&gt;Session-Based Transcoder — Seek Finally Works Properly&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;ve fully switched to a session-based transcoder.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The key change:&lt;/strong&gt; you can now seek instantly without waiting for FFmpeg to catch up.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seeking meant waiting until the transcoder processed the stream up to that point&lt;/li&gt;&#xA;&lt;li&gt;Painful on long videos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Now:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Discover Page is Live &#43; Streaming Improvements</title>
       <link>https://blog.webtor.io/en/post/discover-page-and-streaming-improvements/</link>
