@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What&#39;s New on webtor.io</title>
-    <link>https://blog.webtor.io/ru/series/whats-new/</link>
+    <link>http://localhost:1313/ru/series/whats-new/</link>
     <description>Recent content in What&#39;s New on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 19 Mar 2026 18:00:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/ru/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/series/whats-new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Перемотка наконец работает &#43; статус торрента в реальном времени</title>
-      <link>https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/</link>
+      <link>http://localhost:1313/ru/post/seek-fix-and-live-torrent-stats/</link>
       <pubDate>Thu, 19 Mar 2026 18:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/seek-fix-and-live-torrent-stats/</guid>
+      <guid>http://localhost:1313/ru/post/seek-fix-and-live-torrent-stats/</guid>
       <description>&lt;p&gt;Мы выпустили два обновления, которые устраняют одну из самых раздражающих проблем торрент-стриминга и делают работу сервиса гораздо прозрачнее.&lt;/p&gt;&#xA;&lt;h2 id=&#34;сессионный-транскодер--перемотка-наконец-работает-как-надо&#34;&gt;Сессионный транскодер — перемотка наконец работает как надо&lt;/h2&gt;&#xA;&lt;p&gt;Мы полностью перешли на сессионный транскодер.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Главное изменение:&lt;/strong&gt; теперь можно перематывать мгновенно, не дожидаясь, пока FFmpeg обработает поток до нужного момента.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Раньше:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Перемотка означала ожидание, пока транскодер обработает поток до нужной точки&lt;/li&gt;&#xA;&lt;li&gt;На длинных видео это было мучительно&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Теперь:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Один процесс FFmpeg на сессию&lt;/li&gt;&#xA;&lt;li&gt;Полноценная поддержка перемотки&lt;/li&gt;&#xA;&lt;li&gt;Почти мгновенный переход к любой позиции&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Старый режим убран — теперь работает только новый.&lt;/p&gt;</description>
     </item>
   </channel>

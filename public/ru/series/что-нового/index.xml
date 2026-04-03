@@ -2,241 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Что Нового on webtor.io</title>
-    <link>https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</link>
+    <link>http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/</link>
     <description>Recent content in Что Нового on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 27 Feb 2026 20:00:00 +0300</lastBuildDate>
-    <atom:link href="https://blog.webtor.io/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2026 18:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/ru/series/%D1%87%D1%82%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новый плеер, продолжение просмотра и тест скорости</title>
+      <link>http://localhost:1313/ru/post/new-player-continue-watching-and-speedtest/</link>
+      <pubDate>Fri, 03 Apr 2026 18:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/ru/post/new-player-continue-watching-and-speedtest/</guid>
+      <description>&lt;p&gt;Мы полностью переписали видеоплеер, добавили продолжение просмотра и ещё кое-что интересное.&lt;/p&gt;&#xA;&lt;h2 id=&#34;новый-видеоплеер&#34;&gt;Новый видеоплеер&lt;/h2&gt;&#xA;&lt;p&gt;Заменили mediaelement.js на &lt;strong&gt;собственный плеер на Preact и HLS.js&lt;/strong&gt;. Он легче, быстрее, и даёт нам полный контроль над воспроизведением.&lt;/p&gt;&#xA;&lt;p&gt;Что изменилось:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшенный мобильный UX&lt;/strong&gt; — управление стало отзывчивее на тач-устройствах&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Исправлен seek на iOS&lt;/strong&gt; — перемотка теперь работает стабильно на iPhone и iPad&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшенный embed-режим&lt;/strong&gt; — плеер лучше работает при встраивании на сторонних сайтах&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Это фундамент для всего, что мы будем строить дальше.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Страница Discover уже доступна &#43; улучшения стриминга</title>
-      <link>https://blog.webtor.io/ru/post/discover-page-and-streaming-improvements/</link>
+      <link>http://localhost:1313/ru/post/discover-page-and-streaming-improvements/</link>
       <pubDate>Fri, 27 Feb 2026 20:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/discover-page-and-streaming-improvements/</guid>
+      <guid>http://localhost:1313/ru/post/discover-page-and-streaming-improvements/</guid>
       <description>&lt;p&gt;Привет всем! Несколько насыщенных дней позади — вот что нового в Webtor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;discover--просматривайте-фильмы-и-сериалы-прямо-в-webtor&#34;&gt;Discover — просматривайте фильмы и сериалы прямо в Webtor&lt;/h2&gt;&#xA;&lt;p&gt;Главное нововведение этой недели — страница Discover (&lt;code&gt;/discover&lt;/code&gt;). Теперь вы можете искать и просматривать фильмы и сериалы, не покидая Webtor:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Каталоги Cinemeta встроены&lt;/strong&gt; — популярные фильмы и сериалы доступны по умолчанию, никакой настройки не нужно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка аддонов Stremio&lt;/strong&gt; — подключайте любимые аддоны Stremio для расширения каталога. Бесплатные пользователи могут добавить до 3 аддонов, на платных планах — без ограничений&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Мастер аддонов&lt;/strong&gt; — пошаговый процесс настройки, который позволяет просматривать официальные и сторонние аддоны Stremio, видеть рейтинги популярности и устанавливать их пакетно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поиск по всем источникам&lt;/strong&gt; — введите название и получите результаты из Cinemeta + всех подключённых аддонов одновременно&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка сериалов&lt;/strong&gt; — полноценный выбор эпизодов с навигацией по сезонам, включая корректную обработку спецвыпусков (Сезон 0)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Выбор стрима&lt;/strong&gt; — выбирайте из доступных стримов с фильтрами по источнику, метке и языку, а затем воспроизводите прямо через Webtor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Всё это построено на Preact для лёгкого и быстрого взаимодействия — никакого тяжёлого фреймворка.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Редизайн веб-интерфейса</title>
-      <link>https://blog.webtor.io/ru/post/redesign-and-cool-features/</link>
+      <link>http://localhost:1313/ru/post/redesign-and-cool-features/</link>
       <pubDate>Tue, 17 Feb 2026 21:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/redesign-and-cool-features/</guid>
+      <guid>http://localhost:1313/ru/post/redesign-and-cool-features/</guid>
       <description>&lt;p&gt;Мы выкатили свежий редизайн веб-интерфейса.&lt;/p&gt;&#xA;&lt;p&gt;Множество компонентов были переработаны, чтобы сделать взаимодействие чище, последовательнее и отзывчивее — особенно на мобильных устройствах. Цель была не просто обновить визуал, а убрать трение из повседневных взаимодействий и сделать интерфейс более предсказуемым и живым.&lt;/p&gt;&#xA;&lt;p&gt;Вместе с визуальным обновлением в этом релизе появился ряд важных функциональных улучшений.&lt;/p&gt;&#xA;&lt;h2 id=&#34;всплывающие-уведомления&#34;&gt;Всплывающие уведомления&lt;/h2&gt;&#xA;&lt;p&gt;Действия вроде копирования ссылки, добавления элементов в библиотеку или удаления контента теперь вызывают небольшие всплывающие подтверждения.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Запуск Vault — сохраняйте торренты доступными даже без сидов</title>
-      <link>https://blog.webtor.io/ru/post/vault-is-live/</link>
+      <link>http://localhost:1313/ru/post/vault-is-live/</link>
       <pubDate>Tue, 03 Feb 2026 19:50:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/vault-is-live/</guid>
+      <guid>http://localhost:1313/ru/post/vault-is-live/</guid>
       <description>&lt;p&gt;Мы только что запустили одну из ключевых функций Webtor — Vault (Хранилище).&lt;/p&gt;&#xA;&lt;p&gt;Vault позволяет сохранять торренты доступными, даже когда в сети нет сидов.&#xA;Если торрент важен для вас, теперь вы можете гарантировать, что он останется в сети и будет доступен.&lt;/p&gt;&#xA;&lt;p&gt;⸻&lt;/p&gt;&#xA;&lt;p&gt;🧱 &lt;strong&gt;Как работает Vault&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Теперь каждый уровень подписки включает в себя Vault Points (очки хранилища, VP):&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 Vault Point = 1 ГБ&lt;/li&gt;&#xA;&lt;li&gt;Вы можете вкладывать Vault Points в торрент&lt;/li&gt;&#xA;&lt;li&gt;Пока ваши очки вложены, торрент остается доступным в Vault&lt;/li&gt;&#xA;&lt;li&gt;Пока ваша подписка активна, поддерживаемые вами торренты остаются доступными&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vault особенно полезен для:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Счастливого Рождества и Нового Года — спасибо за этот год</title>
-      <link>https://blog.webtor.io/ru/post/merry-christmas-2025/</link>
+      <link>http://localhost:1313/ru/post/merry-christmas-2025/</link>
       <pubDate>Wed, 24 Dec 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/merry-christmas-2025/</guid>
+      <guid>http://localhost:1313/ru/post/merry-christmas-2025/</guid>
       <description>&lt;p&gt;Привет, друзья!&lt;/p&gt;&#xA;&lt;p&gt;Счастливого Рождества 🎄 и Нового года!&lt;/p&gt;&#xA;&lt;p&gt;Прежде чем год закончится, я хочу искренне поблагодарить всех, кто поддерживает Webtor.&lt;/p&gt;&#xA;&lt;p&gt;В этом году мы не просто добавляли функции — мы превратили Webtor в более законченный и полезный инструмент.&lt;/p&gt;&#xA;&lt;p&gt;Что мы построили вместе в этом году:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Пользовательские библиотеки&lt;/strong&gt; — ваше личное пространство для сохраненного контента&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WebDAV&lt;/strong&gt; — подключайте Webtor как диск и работайте с файлами напрямую&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интеграция со Stremio&lt;/strong&gt; — включая полную поддержку аддонов Stremio&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интеграция с сервисами Debrid&lt;/strong&gt; — Real-Debrid, TorBox и другие&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ваша поддержка не просто оплачивает серверы — она дает время, фокус и свободу создавать вещи правильно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Real-Debrid и Torbox в качестве бэкендов для стриминга</title>
-      <link>https://blog.webtor.io/ru/post/real-debrid-and-torbox-integration/</link>
+      <link>http://localhost:1313/ru/post/real-debrid-and-torbox-integration/</link>
       <pubDate>Thu, 06 Nov 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/real-debrid-and-torbox-integration/</guid>
+      <guid>http://localhost:1313/ru/post/real-debrid-and-torbox-integration/</guid>
       <description>&lt;p&gt;Теперь вы можете подключить аккаунты Real-Debrid и Torbox в Webtor в качестве кастомных бэкендов для стриминга.&lt;/p&gt;&#xA;&lt;p&gt;Они будут работать как дополнительные кэши для Stremio — обеспечивая более быстрое воспроизведение и больше доступных потоков.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-как-это-работает&#34;&gt;🧩 Как это работает&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Перейдите в профиль Webtor&lt;/li&gt;&#xA;&lt;li&gt;Прокрутите до раздела &lt;strong&gt;Streaming Backends&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Добавьте свой API-ключ от Real-Debrid или Torbox&lt;/li&gt;&#xA;&lt;li&gt;Установите порядок приоритета — какой бэкенд должен использоваться первым (не забудьте нажать кнопку «Сохранить»)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Если контент не найден ни в одном кэше Debrid, в качестве резервного варианта будет использоваться собственный механизм стриминга Webtor, поэтому воспроизведение всегда работает.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webtor &#43; Torrentio = ⚡</title>
-      <link>https://blog.webtor.io/ru/post/webtor-torrentio-stremio/</link>
+      <link>http://localhost:1313/ru/post/webtor-torrentio-stremio/</link>
       <pubDate>Sun, 21 Sep 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/webtor-torrentio-stremio/</guid>
+      <guid>http://localhost:1313/ru/post/webtor-torrentio-stremio/</guid>
       <description>&lt;p&gt;Большое достижение! 🎉&lt;/p&gt;&#xA;&lt;p&gt;Мы только что наладили совместную работу Webtor и Torrentio (а также других аддонов Stremio) 🚀&lt;/p&gt;&#xA;&lt;p&gt;Теперь Webtor может стримить не только вашу библиотеку, но и любой контент из аддонов Stremio.&lt;/p&gt;&#xA;&lt;p&gt;Вот как это работает «под капотом»:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Webtor опрашивает все ваши подключенные аддоны Stremio (до 3-х)&lt;/li&gt;&#xA;&lt;li&gt;Дубликаты удаляются (дедупликация)&lt;/li&gt;&#xA;&lt;li&gt;Результаты фильтруются по выбранному вами качеству (720p / 1080p / 4K)&lt;/li&gt;&#xA;&lt;li&gt;Каждый стрим дополняется прямой ссылкой на стриминг через Webtor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Так что теперь вы можете мгновенно стримить не только свою личную библиотеку, но и любой контент из аддонов Stremio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WebDAV уже здесь!</title>
-      <link>https://blog.webtor.io/ru/post/webdav-is-here/</link>
+      <link>http://localhost:1313/ru/post/webdav-is-here/</link>
       <pubDate>Mon, 25 Aug 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/webdav-is-here/</guid>
+      <guid>http://localhost:1313/ru/post/webdav-is-here/</guid>
       <description>&lt;p&gt;Благодаря вашей поддержке у нас появилась еще одна важная функция — доступ к вашей библиотеке Webtor через WebDAV.&lt;/p&gt;&#xA;&lt;p&gt;Теперь вы можете подключить всю свою коллекцию торрентов как сетевую папку на компьютере или мобильном устройстве. Стримить контент напрямую из библиотеки или просто копировать файлы локально.&lt;/p&gt;&#xA;&lt;p&gt;И да — вы также можете загружать новые торренты — просто перетащите файлы .torrent в папку &lt;code&gt;torrents/&lt;/code&gt;. Вот и все. 🤘&lt;/p&gt;&#xA;&lt;p&gt;🧩 Отлично работает с:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mountain Duck (macOS/Windows)&lt;/li&gt;&#xA;&lt;li&gt;RaiDrive (Windows)&lt;/li&gt;&#xA;&lt;li&gt;Owlfiles (iOS / Android) — протестировано и работает без проблем&lt;/li&gt;&#xA;&lt;li&gt;rclone — для любителей командной строки и автоматизации&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;💬 Если вы пробовали другие клиенты — и они заработали или нет — напишите мне или оставьте комментарий здесь. Чем больше мы знаем, тем лучше будет опыт для всех.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Летние обновления</title>
-      <link>https://blog.webtor.io/ru/post/summer-updates/</link>
+      <link>http://localhost:1313/ru/post/summer-updates/</link>
       <pubDate>Fri, 15 Aug 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/summer-updates/</guid>
+      <guid>http://localhost:1313/ru/post/summer-updates/</guid>
       <description>&lt;p&gt;Всем привет 👋&lt;/p&gt;&#xA;&lt;p&gt;Хотел поделиться небольшими, но важными обновлениями, которые только что появились в Webtor — и все это благодаря вашей поддержке.&lt;/p&gt;&#xA;&lt;p&gt;✅ Что нового:&lt;/p&gt;&#xA;&lt;p&gt;🔐 &lt;strong&gt;Вход через Google&lt;/strong&gt; — я заметил, что около 70% пользователей в любом случае входят с помощью почты Google, поэтому я решил упростить процесс, добавив возможность прямого входа через Google.&lt;/p&gt;&#xA;&lt;p&gt;🎁 &lt;strong&gt;Вход через Patreon&lt;/strong&gt; — было много проблем, когда пользователи не могли получить свои бонусы от платных подписок (особенно те, кто использовал вход через Apple на Patreon). Теперь каждый патрон может просто войти через свой аккаунт Patreon — проблем больше не будет.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Смотрите свои торренты на ТВ — со Stremio!</title>
-      <link>https://blog.webtor.io/ru/post/watch-your-torrents-on-tv-with-stremio/</link>
+      <link>http://localhost:1313/ru/post/watch-your-torrents-on-tv-with-stremio/</link>
       <pubDate>Wed, 25 Jun 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/watch-your-torrents-on-tv-with-stremio/</guid>
+      <guid>http://localhost:1313/ru/post/watch-your-torrents-on-tv-with-stremio/</guid>
       <description>&lt;p&gt;Мы медленно шли к этому — и вот, наконец, это свершилось.&lt;/p&gt;&#xA;&lt;p&gt;Функция личной библиотеки была лишь промежуточным этапом.&lt;/p&gt;&#xA;&lt;p&gt;Настоящая цель всегда была такой: стриминг ваших собственных торрентов напрямую на телевизор, без загрузок, без VPN и без торрент-клиента. Просто нажмите Play.&lt;/p&gt;&#xA;&lt;p&gt;И теперь это работает. Функция доступна в продакшене уже целый день, и я абсолютно доволен тем, как она себя показывает.&lt;/p&gt;&#xA;&lt;p&gt;📦 Добавьте любой торрент в свою библиотеку Webtor&lt;/p&gt;&#xA;&lt;p&gt;📺 Откройте Stremio и установите свой персональный аддон&lt;/p&gt;</description>
     </item>
     <item>
       <title>Библиотека получила крупное обновление!</title>
-      <link>https://blog.webtor.io/ru/post/library-major-upgrade/</link>
+      <link>http://localhost:1313/ru/post/library-major-upgrade/</link>
       <pubDate>Thu, 29 May 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/library-major-upgrade/</guid>
+      <guid>http://localhost:1313/ru/post/library-major-upgrade/</guid>
       <description>&lt;p&gt;Привет, друзья! 👋&lt;/p&gt;&#xA;&lt;p&gt;Мы только что выпустили огромное улучшение для Библиотеки Webtor — и мы думаем, что оно вам понравится.&lt;/p&gt;&#xA;&lt;p&gt;Теперь, когда вы открываете свою Библиотеку, вы увидите новые разделы для Фильмов и Сериалов — они создаются автоматически на основе добавленных вами торрентов.&lt;/p&gt;&#xA;&lt;p&gt;Это более чистый и умный способ просмотра вашего сохраненного контента.&lt;/p&gt;&#xA;&lt;p&gt;Больше никаких бесконечных списков торрентов — только организованный, красивый медиа-контент.&lt;/p&gt;&#xA;&lt;p&gt;Что дальше?&#xA;Скоро вы сможете:&lt;/p&gt;&#xA;&lt;p&gt;📺 Транслировать свою Библиотеку напрямую через Stremio&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новинка в Webtor: Личная библиотека &#43; Большие планы на будущее!</title>
-      <link>https://blog.webtor.io/ru/post/personal-library-and-big-plans/</link>
+      <link>http://localhost:1313/ru/post/personal-library-and-big-plans/</link>
       <pubDate>Sat, 26 Apr 2025 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/personal-library-and-big-plans/</guid>
+      <guid>http://localhost:1313/ru/post/personal-library-and-big-plans/</guid>
       <description>&lt;p&gt;Привет, друзья! 👋&lt;/p&gt;&#xA;&lt;p&gt;Сегодня я рад поделиться новой функцией, которую мы только что запустили в Webtor:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Личная библиотека&lt;/strong&gt; — теперь вы можете легко сохранять понравившиеся торренты в свое личное пространство! Просто нажмите «Добавить в библиотеку» под любым загруженным торрентом. 🎯&lt;/p&gt;&#xA;&lt;p&gt;Вы можете:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сохранять любимые торренты&lt;/li&gt;&#xA;&lt;li&gt;Сортировать свою библиотеку по новизне или по названию&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Но это еще не все!&lt;/p&gt;&#xA;&lt;p&gt;Скоро:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Автоматическое получение метаданных фильмов&lt;/strong&gt; — Webtor будет распознавать фильмы в вашей библиотеке и загружать постеры, названия, описания и многое другое!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Интеграция со Stremio&lt;/strong&gt; — транслируйте контент из своей библиотеки напрямую через Stremio!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Огромное спасибо за вашу поддержку — именно благодаря вам это становится возможным. 🙏&lt;/p&gt;</description>
     </item>
     <item>
       <title>С Новым Годом от Webtor.io! 🎉</title>
-      <link>https://blog.webtor.io/ru/post/happy-new-year-2024/</link>
+      <link>http://localhost:1313/ru/post/happy-new-year-2024/</link>
       <pubDate>Sat, 28 Dec 2024 12:00:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/happy-new-year-2024/</guid>
+      <guid>http://localhost:1313/ru/post/happy-new-year-2024/</guid>
       <description>&lt;p&gt;В честь наступающего Нового года мы рады предложить 100 счастливчикам эксклюзивный подарок: 1 месяц бесплатного доступа к Webtor.io!&lt;/p&gt;&#xA;&lt;p&gt;Что это значит для вас?&lt;/p&gt;&#xA;&lt;p&gt;• Безлимитный доступ к плавному стримингу торрентов.&lt;/p&gt;&#xA;&lt;p&gt;• Мгновенный просмотр любимого контента без необходимости скачивания.&lt;/p&gt;&#xA;&lt;p&gt;🚀 Как получить подарок?&lt;/p&gt;&#xA;&lt;p&gt;Всё просто! Станьте одним из первых 100 человек, зарегистрировавшихся по этой эксклюзивной ссылке: &lt;a href=&#34;https://www.patreon.com/pavel_tatarskiy/redeem/E323E&#34;&gt;https://www.patreon.com/pavel_tatarskiy/redeem/E323E&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Если у вас уже есть платный уровень, вы всегда можете поделиться этой ссылкой с друзьями!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новая система транскодирования!</title>
-      <link>https://blog.webtor.io/ru/post/webtor-web-ui-v2/</link>
+      <link>http://localhost:1313/ru/post/webtor-web-ui-v2/</link>
       <pubDate>Sun, 22 Dec 2024 18:32:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/webtor-web-ui-v2/</guid>
+      <guid>http://localhost:1313/ru/post/webtor-web-ui-v2/</guid>
       <description>&lt;p&gt;Мы переработали систему транскодирования и добавили несколько впечатляющих новых функций:&lt;/p&gt;&#xA;&lt;h3 id=&#34;быстрый-запуск-транскодирования&#34;&gt;Быстрый запуск транскодирования&lt;/h3&gt;&#xA;&lt;p&gt;Ранее процесс транскодирования запускался в отдельном контейнере, что занимало дополнительное время. Теперь транскодирование начинается мгновенно, без задержек.&lt;/p&gt;&#xA;&lt;h3 id=&#34;эффективное-кэширование&#34;&gt;Эффективное кэширование&lt;/h3&gt;&#xA;&lt;p&gt;Результаты транскодирования теперь кэшируются более эффективно. Контент удаляется только в случае, если он долго не используется, а не по истечении фиксированного времени.&lt;/p&gt;&#xA;&lt;p&gt;Кроме того, улучшенная система транскодирования значительно снизила зависимость от компонентов кластера Kubernetes. Это открывает путь к выпуску версии &lt;strong&gt;webtor.io&lt;/strong&gt; в виде единого Docker-образа уже в начале следующего года!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Встречайте web-ui второй версии!</title>
-      <link>https://blog.webtor.io/ru/post/new-transcoding-system/</link>
+      <link>http://localhost:1313/ru/post/new-transcoding-system/</link>
       <pubDate>Sun, 06 Oct 2024 15:07:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-transcoding-system/</guid>
+      <guid>http://localhost:1313/ru/post/new-transcoding-system/</guid>
       <description>&lt;p&gt;Встречайте web-ui второй версии!&lt;/p&gt;&#xA;&lt;p&gt;Бэк был полностью переписан с Node.js на Golang, а фронт стал максимально облегченным.&lt;/p&gt;&#xA;&lt;p&gt;Что нового?&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Темная и светлая темы&lt;/strong&gt; - теперь можно менять настройки интерфейса в зависимости от своих&#xA;предпочтений (по-умолчанию будет использоваться системная цветовая схема).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Авторизация&lt;/strong&gt; - авторизация раньше была только через Patreon, теперь можно авторизоваться&#xA;просто с помощью своего адреса электронной почты.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Понятный прогресс&lt;/strong&gt; - теперь видно как идет процесс подготовки торрента к проигрыванию&#xA;и скачке и на каком конкретно этапе возникла проблема.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшена скорость загрузки&lt;/strong&gt; - объем загружаемых скриптов и стилей снижен в 5 раз!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо, что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.16.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.16.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.16.0/</link>
       <pubDate>Mon, 26 Dec 2022 21:34:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.16.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.16.0/</guid>
       <description>&lt;p&gt;Последний релиз уходящего года!&lt;/p&gt;&#xA;&lt;p&gt;Уходящий год был крайне непростым для проекта. Помимо разработки, приходилось&#xA;решать вопросы по поиску нового хостинга и способов оплаты. Но к счастью, всё уже позади! 😆😆😆&lt;/p&gt;&#xA;&lt;p&gt;Итак, список изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Более короткое время до начала загрузки&lt;/strong&gt; - ранее перед началом загрузки запускался новый&#xA;торрент-клиент, что могло занимать 5-10 секунд и только после этого начинался поиск пиров&#xA;и собственно сама загрузка. Теперь же в кластере всё время работает определенное количесства&#xA;торрент-клиентов, которые могут обрабатывать одновременно по несколько торрент-закачек, это позволило&#xA;убрать как раз те самые 5-10 секунд необходимые для холодного пуска.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Долгоиграющий кэш&lt;/strong&gt; - ранее если к торрент-клиенту никто не обращался, то через 10 минут&#xA;он выключался и все загруженные данные исчезали вместе с ним. Теперь же данные удаляются только&#xA;в том случае, если на сервере не остаётся места и при этом удаляются только самые старые неиспользуемые&#xA;файлы. Это позволяет хранить загруженную информацию более продолжительный срок.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Начата работа надо следующей версией web-интерфейса, подробнее можно ознакомится на&#xA;&lt;a href=&#34;https://github.com/webtor-io/web-ui-v2&#34;&gt;его странице репозитория&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webtor API v1.0.0</title>
-      <link>https://blog.webtor.io/ru/post/introducing-webtor-api-1.0.0/</link>
+      <link>http://localhost:1313/ru/post/introducing-webtor-api-1.0.0/</link>
       <pubDate>Fri, 08 Jul 2022 19:17:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/introducing-webtor-api-1.0.0/</guid>
+      <guid>http://localhost:1313/ru/post/introducing-webtor-api-1.0.0/</guid>
       <description>&lt;p&gt;Представляю вашему вниманию Webtor API! &amp;#x1f389;&amp;#x1f389;&amp;#x1f389;&lt;/p&gt;&#xA;&lt;p&gt;Что оно умеет:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Загружать торренты без BitTorrent-клиента.&lt;/li&gt;&#xA;&lt;li&gt;Стримить торренты онлайн с транскодирование налету.&lt;/li&gt;&#xA;&lt;li&gt;Загружать субтитры c &lt;a href=&#34;https://www.opensubtitles.org/&#34;&gt;OpenSubtitles.org&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Здорово и как получить к нему доступ? Тут на выбор два варианта:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Разместить его на своём оборудовании в рамках &lt;a href=&#34;https://github.com/webtor-io/helm-charts&#34;&gt;self-hosted решения&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Подключиться через &lt;a href=&#34;https://rapidapi.com/paveltatarsky-Dx4aX7s_XBt/api/webtor/&#34;&gt;RapidAPI&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.15.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.15.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.15.0/</link>
       <pubDate>Sun, 17 Apr 2022 19:23:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.15.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.15.0/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Webtor&lt;/strong&gt; наконец-то полностью перешёл в Open Source, что же это значит:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Весь код всех компонентов проекта теперь &lt;a href=&#34;https://github.com/webtor-io&#34;&gt;публично доступен на Github&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Теперь есть возможность развернуть &lt;strong&gt;Webtor&lt;/strong&gt; у себя дома. &lt;a href=&#34;https://github.com/webtor-io/helm-charts&#34;&gt;Скрипт установки прилагается&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Дальнейшие планы:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Добавить REST-API, это должно упростить программное использования сервиса.&lt;/li&gt;&#xA;&lt;li&gt;Реализовать поддержку внешних HTTP-ссылок в качестве источника.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.14.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.14.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.14.0/</link>
       <pubDate>Wed, 22 Dec 2021 22:19:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.14.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.14.0/</guid>
       <description>&lt;p&gt;Последний релиз этого года!&lt;/p&gt;&#xA;&lt;p&gt;Перед объявлением списка изменений хочу поделиться с вами прекрасной новостью!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;В преддверии предстоящих праздников была увеличена скорость для всех кто поддерживает проект!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bronze Backer 15Mbit/s =&amp;gt; 20Mbit/s&lt;/li&gt;&#xA;&lt;li&gt;Silver Backer 25Mbit/s =&amp;gt; 50Mbit/s&lt;/li&gt;&#xA;&lt;li&gt;Gold Backer   50Mbit/s =&amp;gt; 100Mbit/s&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;А вот и сам список изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка Zip64&lt;/strong&gt; - теперь нет ограничения на размер файлов помещенных в ZIP-архив, ранее было ограничение в 4ГБ.&#xA;(Также думаю о поддержке TAR-формата, пишите если это еще кому-то тоже интересно!)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Возобновлена поддержка Google Chromecast&lt;/strong&gt; - теперь вы можете сразу стримить свой контент на любое устройство с поддержкой&#xA;Google Chromecast. Во время проигрывания в правом верхнем уголке плеера появляется соответствующий значок.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Благодаря вашей поддержке &lt;a href=&#34;https://github.com/webtor-io/&#34;&gt;часть проекта перешла в Open Source&lt;/a&gt;, что позволило появиться следующим&#xA;замечательным проектам:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.13.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.13.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.13.0/</link>
       <pubDate>Sat, 11 Dec 2021 16:38:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.13.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.13.0/</guid>
       <description>&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;️Исправлены ошибки дозагрузки&lt;/strong&gt; - теперь в случае сбоя при загрузке корректно работает возможность дозагрузки, это касается&#xA;загрузки как отдельных файлов, так загрузки ZIP-архивом.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Меньше обрывов и сбоев&lt;/strong&gt; - ранее при релизах компонентов все загрузки обрывались, теперь они просто приостанавливаются&#xA;на время обновления.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Торрент-файлы живут вечно&lt;/strong&gt; - ранее торрент-файлы удалялись через определенное время, теперь они сохраняются навсегда, это&#xA;позволяет реже обращаться к BitTorrent-сети и улучшает время отклика. (это не касается загружаемого контента!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.12.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.12.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.12.0/</link>
       <pubDate>Wed, 03 Nov 2021 23:55:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.12.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.12.0/</guid>
       <description>&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;️Поступательное улучшение для видео-форматов&lt;/strong&gt; - ранее популярный видео-контент только кэшировался, чтобы избежать необходимости&#xA;периодической загрузки из BitTorrent-сети. Теперь же видео отложенно конвертируется в различные форматы для обеспечения оптимального&#xA;проигрывания на мобильных устройствах (стримминг с адаптивным битрейтом).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшена загрузка закэшированных HLS-фрагментов&lt;/strong&gt; - теперь закэшированные фрагменты загружаются с опережением, таким образом при запросе&#xA;необходимый фрагмент уже подгружен на edge-сервер из кэш-хранилища.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.11.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.11.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.11.0/</link>
       <pubDate>Mon, 28 Jun 2021 21:57:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.11.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.11.0/</guid>
       <description>&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;️Скачка стала понятнее и удобнее&lt;/strong&gt; - теперь при скачивании открывается отельная форма с прогрессом загрузки, и возможностью копирования ссылки на загрузку. Также можно сформировать bash-команду для загрузки через &lt;a href=&#34;https://www.gnu.org/software/wget/&#34;&gt;Wget&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Player SDK теперь переименовалось в Embed SDK&lt;/strong&gt; - в какой-то момент стало понятно, что &lt;strong&gt;webtor&lt;/strong&gt; можно будет интегрировать не только в виде плеера и название &amp;ldquo;Player SDK&amp;rdquo; будет вводить в заблуждение.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Скачать торрент как архив теперь можно и на вашем сайте&lt;/strong&gt; - &lt;a href=&#34;https://github.com/webtor-io/embed-sdk-js&#34;&gt;Embed SDK&lt;/a&gt; теперь умеет кроме плеера еще и интегрировать форму загрузки аналогичную форме загрузки на &lt;a href=&#34;https://webtor.io&#34;&gt;webtor.io&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшен стримминг MP4 в 1080p&lt;/strong&gt; - улучшено воспроизведение MP4 в 1080p, стало меньше задержек при проигрывании (на десктопе).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Иcправлены ошибки транскодированного контента&lt;/strong&gt; - была ошибка с задержкой начала воспроизведения.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.10.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.10.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.10.0/</link>
       <pubDate>Sat, 01 May 2021 19:48:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.10.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.10.0/</guid>
       <description>&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Бейдж с сердцем ❤️&lt;/strong&gt; - теперь каждый пользователь, поддерживающий проект, может увидеть свой статус в верхнем меню.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Проще делиться ссылками&lt;/strong&gt; - теперь можно формировать прямые ссылки вида &lt;code&gt;https://webtor.io/%infohash%&lt;/code&gt; или &lt;code&gt;https://webtor.io/%magnet-uri%&lt;/code&gt;.&#xA;Также была добавлена возможность генерировать их из интерфейса, просто нажмите &amp;ldquo;Поделиться ссылкой&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Генерация кода-вставки из плеера&lt;/strong&gt; - теперь в видео-плеере появляется кнопка &amp;ldquo;&lt;code&gt;&amp;lt;/&amp;gt;&lt;/code&gt;&amp;rdquo;, которая позволяет сформировать код для вставки плеера на&#xA;ваш сайт или блог.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Отображение процесса транскодирования&lt;/strong&gt; - теперь в плеере отображается прогресс транскодирования, а в полосе перемотки подсвечивается уже&#xA;транскодированный доступный для проигрывания фрагмент.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Внешние субтитры доступны и для мобильных устройств&lt;/strong&gt; - ранее при выборе субтиров OpenSubtitles они не воспроизводились на мобильных устройствах,&#xA;а теперь это не так.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ошибки транскодирования видны&lt;/strong&gt; - теперь при ошибке транскодирования, её причина сразу выводится в окно плеера.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Также в &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;SDK плеера&lt;/a&gt; был добавлен альтернативный метод инициализации плеера,&#xA;теперь можно просто подключить скрипт и указать в тэге &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt; Magnet-ссылку:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.9.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.9.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.9.0/</link>
       <pubDate>Sun, 28 Mar 2021 21:17:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.9.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.9.0/</guid>
       <description>&lt;p&gt;Первый релиз этого года!&lt;/p&gt;&#xA;&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Расширен список поддерживаемых форматов&lt;/strong&gt; - добавлена поддержка видео-файлов с расширениями .ts и .vob&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Моментальное переключение между аудио-дорожками&lt;/strong&gt; - ранее при выборе альтернативной аудио-дорожки проигрывание начиналось с самого начала.&#xA;Теперь все дорожки конвертируются одновременно, что позволяет переключаться между ними на лету. Выбор ауди-дорожек был перенесён в меню выбора&#xA;субтитров.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Кэширование контента улучшено&lt;/strong&gt; - во время воспроизведение следующие фрагменты подгружаются в фоне, что позволяет добиться более плавного&#xA;проигрывания. Также начали кэшироваться транскодированные фрагменты.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Небольшие доработки интерфейса&lt;/strong&gt; - добавлено указание размера файлов в листинге, скруглены углы элементов.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.8.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.8.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.8.0/</link>
       <pubDate>Wed, 23 Dec 2020 23:53:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.8.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.8.0/</guid>
       <description>&lt;p&gt;Последний релиз этого года!&lt;/p&gt;&#xA;&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Доработана главная страница&lt;/strong&gt; - теперь там появилаось поле для ввода magnet-ссылки (кстати теперь можно использовать и просто infohash)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Возобновление загрузки ZIP-архива после остановки&lt;/strong&gt; - теперь при загрузке ZIP-архива в браузере будет сразу отображаться полный размер загружамеого архива, а также можно приостановить и возобновить загрузку архива с того же места.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Просмотр видео только через HLS&lt;/strong&gt; - теперь и mp4 формат также конвертиурется в HLS на лету. Благодаря этому удалось&#xA;реализовать возможность экономии полосы пропускания путём обмена HLS-фрагментов через &lt;a href=&#34;https://webrtc.org/&#34;&gt;WebRTC&lt;/a&gt;&#xA;с использованием библиотеки &lt;a href=&#34;https://github.com/Novage/p2p-media-loader&#34;&gt;p2p-media-loader&lt;/a&gt;&#xA;(от &lt;a href=&#34;https://github.com/webtorrent/webtorrent&#34;&gt;WebTorrent&lt;/a&gt; пришлось отказаться из-за больших задержек в начале проигрывания).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Добавлена масса возможностей в SDK плеера&lt;/strong&gt; - теперь в &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;SDK&lt;/a&gt; можно указывать&#xA;какие элементы плеера следует отключить. Стало возможно растягивать плеер одновременно по ширине и по высоте на 100%.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Переключение между файлами в плеере&lt;/strong&gt; - теперь можно не выходя из плеера переключаться между файлами в папке.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.7.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.7.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.7.0/</link>
       <pubDate>Wed, 27 May 2020 21:03:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.7.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.7.0/</guid>
       <description>&lt;p&gt;Прошло довольно много времени со времени предыдущего релиза, но это стоило того!&lt;/p&gt;&#xA;&lt;p&gt;Вот список ключевых изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;SDK плеера уже доступно!&lt;/strong&gt; - теперь можно встроить проигрывание torrent-контента в любой сайт без лишних усилий. SDK c примером&#xA;использования &lt;a href=&#34;https://github.com/webtor-io/player-sdk-js&#34;&gt;выложен на Github&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшен интерфейс выбора и отображения субититров&lt;/strong&gt; - стало намного проще выбрать субтитры из большого списка, а также появилась возможность&#xA;указывать размер субтитров на лету.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Тёмный режим по-умолчанию&lt;/strong&gt; - теперь основная цветовая схема интерфейса решена в тёмных оттенках по-умолчанию. Говорят это бережёт наши глаза!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Улучшено кэширование загруженного контента&lt;/strong&gt; - теперь весь загруженный контент сохраняется в течении суток и не требует повторной загрузки из BitTorrent-сети.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка WebRTC&lt;/strong&gt; - если несколько пользователей смотрят один и тот же фильм, то они обмениваются его фрагментами по протоколу &lt;a href=&#34;https://webrtc.org/&#34;&gt;WebRTC&lt;/a&gt;.&#xA;При этом используется приватный трекер. На данный момент поддерживается только MP4.&#xA;Это стало возможно благодаря проекту &lt;a href=&#34;https://github.com/webtorrent/webtorrent&#34;&gt;WebTorrent&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Теперь все серверные-компоненты платформы Webtor и SDK к ним доступны opensource:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.6.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.6.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.6.0/</link>
       <pubDate>Sat, 14 Dec 2019 16:52:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.6.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.6.0/</guid>
       <description>&lt;p&gt;Этот релиз по большей части был связан с улучшением стабильности и исправлением проблем с производительностью.&lt;/p&gt;&#xA;&lt;p&gt;Больше всех претерпел изменения компонент транскодирования. Вот короткий список изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Удалена поддержка HEVC-формата&lt;/strong&gt; - транскодирование из HEVC(x265) в h264(x264) оказалось непосильной задачей&#xA;которая тормозила работу всего сервиса.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Удалена поддержка &amp;ldquo;перемотки вперёд&amp;rdquo;&lt;/strong&gt; - теперь транскодирование всегда начинается с начала. Это даёт возможность&#xA;просто перепаковать поток в HLS вместо &amp;ldquo;настоящего транскодирования&amp;rdquo;. Это изменения невероятно улучшило качество h264 видео.&#xA;Также &amp;ldquo;перемотка вперёд&amp;rdquo; периодически подвисала и выглядела немного ненадёжно.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Это пример того как была сокращена функциональность в угоду качества изображения и стабильности сервиса.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.5.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.5.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.5.0/</link>
       <pubDate>Sun, 24 Nov 2019 01:11:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.5.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.5.0/</guid>
       <description>&lt;p&gt;В список новых улучшений ноября вошли:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка OpenSubtitles&lt;/strong&gt; - &lt;strong&gt;Webtor&lt;/strong&gt; автоматически загружает все доступные субтитры с OpenSubtitles.org для вашего языка.&#xA;Все субтитры доступны нажатием кнопки &lt;strong&gt;CC&lt;/strong&gt; в плееере.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.4.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.4.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.4.0/</link>
       <pubDate>Wed, 16 Oct 2019 21:20:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.4.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.4.0/</guid>
       <description>&lt;p&gt;В список новых улучшений октября вошли:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Загрузка ZIP-архивом&lt;/strong&gt; - теперь вы можете нажать на кнопку &lt;strong&gt;&amp;ldquo;Загрузить ZIP-архивом&amp;rdquo;&lt;/strong&gt; и сразу начнётся загрузка текущей папки.&#xA;Правда возможна небольшая задержка в случае если нет доступных пиров.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Кнопка &amp;ldquo;Поделиться&amp;rdquo;&lt;/strong&gt; - да, делиться можно было и раньше, но теперь для этого есть отдельная кнопка. При нажатии на неё&#xA;открывается выпадающий список со всеми доступными соц. сетями.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.3.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.3.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.3.0/</link>
       <pubDate>Mon, 23 Sep 2019 15:55:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.3.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.3.0/</guid>
       <description>&lt;p&gt;В список новых улучшений вошли:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Тёмный/Светлый режим&lt;/strong&gt; - теперь &lt;strong&gt;webtor.io&lt;/strong&gt; будет автоматически изменять тему в зависимости от настроек вашей системы.&#xA;Также есть возможность переключится между режимами с помощью кнопки &amp;ldquo;Тёмный/Светлый режим&amp;rdquo; в верхнем правом углу экрана (возле выбора языка).&#xA;Поддержка &amp;ldquo;Тёмного режима&amp;rdquo; реализована и в этом блоге (только без возможности выбора вручную).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Доступ для спонсоров&lt;/strong&gt; - если вы вдруг &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;стали спонсором&lt;/a&gt;, то у вас появится доступ&#xA;к дополнительным возможностям с помощью специального &lt;strong&gt;доступа для спонсоров&lt;/strong&gt;.&#xA;Просто нажми на ссылку &amp;ldquo;Стал Спонсором? Заходи здесь!&amp;rdquo; возле кнопки &amp;ldquo;Спонсор&amp;rdquo; и вы будете направлены на страницу авторизации &lt;strong&gt;Patreon&lt;/strong&gt;.&#xA;Если у вас есть хоть один активный спонсорский уровень (tier), то вам откроются все доступные для этого уровня возможности. (&lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;Подробнее об уровнях&amp;hellip;&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Открытый исходный код (Open-source)&lt;/strong&gt; - есть одна вещь о которой меня просят периодически: &amp;ldquo;А как запустить webtor на своём сервере?&amp;rdquo;.&#xA;Я ранее этого не планировал, но сейчас уже определился, что пора начать публиковать исходный код приложения (бэк-энд, фронт-энд и расширение для Google Chrome).&#xA;Эта задача непростая и может потребовать достаточно много времени и усилий.&#xA;Но что-то уже доступно прямо сейчас. &lt;a href=&#34;https://github.com/webtor-io/&#34;&gt;Вот!&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;webtor.io&lt;/a&gt; и &lt;a href=&#34;https://www.patreon.com/bePatron?u=24145874&#34;&gt;поддержите проект&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.2.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.2.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.2.0/</link>
       <pubDate>Wed, 04 Sep 2019 14:30:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.2.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.2.0/</guid>
       <description>&lt;p&gt;В список новых улучшений вошли:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Открыть magnet-ссылку&lt;/strong&gt; - теперь можно открывать magnet-ссылку через кнопку &amp;ldquo;Открыть torrent онлайн&amp;rdquo;.&#xA;Возле кнопки &amp;ldquo;Открыть torrent онлайн&amp;rdquo; есть специальная стрелочка при нажатии на которую можно увидеть список последних проигранных торрентов, а также поле для вставки magnet-ссылки.&#xA;После вставки валидной ссылки автоматически откроется окно с торрентом.&#xA;Список файлов правда может появится не сразу, поскольку поиск самого торрент-файла у пиров занимает некоторое время.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Реальный прогресс загрузки&lt;/strong&gt; - ранее шкала загрузки просто показывала какая доля файла была загружена (количество загруженных байт от общего количества), теперь же по шкале можно также понять какие именно части файла были загружены (начало, конец или середина). Она отражает реальный статус загрузки частей торрент-файла.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Кодировка внешних субтитров&lt;/strong&gt; - ранее возникали проблемы при использовании SRT-субтитров с кодировкой отличной от UTF-8, часть символов, либо все, могли отображаться некорректно.&#xA;Сейчас кодировка подобных субтитров определяется автоматически и субтитры перекодируются в формат WebVTT с кодировкой UTF-8.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Форма обратной связи&lt;/strong&gt; - теперь у вас всегда есть возможность написать о возникшей проблеме, а также просто предложить улучшение через &lt;a href=&#34;https://webtor.io/support&#34;&gt;форму обратной связи&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Спасибо что используете &lt;a href=&#34;https://webtor.io/&#34;&gt;&lt;strong&gt;webtor.io&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новые улучшения в Webtor 1.1.0</title>
-      <link>https://blog.webtor.io/ru/post/new-features-in-webtor-1.1.0/</link>
+      <link>http://localhost:1313/ru/post/new-features-in-webtor-1.1.0/</link>
       <pubDate>Tue, 06 Aug 2019 23:39:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-features-in-webtor-1.1.0/</guid>
+      <guid>http://localhost:1313/ru/post/new-features-in-webtor-1.1.0/</guid>
       <description>&lt;p&gt;В список новых улучшений вошли:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Плеер всегда под рукой&lt;/strong&gt; - с этого момента видео-плеер открывается сразу под выбранным файлом. Больше не надо скролить вверх для того чтобы отыскать плеер.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Скопировать ссылку на поток&lt;/strong&gt; - теперь вы можете скопировать ссылку на поток проигрываемого сейчас видео и вставить её в VLC-плеер или какой-либо другой. Просто перейдите в настройки плеера и найдите там кнопку &amp;ldquo;Скопировать ссылку на поток&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Текущая версия&lt;/strong&gt; - в верхнем левом углу теперь находится номер текущей версии с ссылкой на страницу с описанием изменений (такую как эта).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Уменьшен размер скриптов&lt;/strong&gt; - было проделано много работы в результате которой удалось сократить размер скриптов в 3 раза. Теперь &lt;strong&gt;Webtor&lt;/strong&gt; загружается быстрее после обновлений.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;На этом всё, Друзья!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Новое расширение Webtor.io для Google Chrome 0.1.10</title>
-      <link>https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/</link>
+      <link>http://localhost:1313/ru/post/new-chrome-extension-0.1.10/</link>
       <pubDate>Sat, 03 Aug 2019 00:13:37 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/</guid>
-      <description>&lt;p&gt;Это минорное обновление решает проблему с автоматическим открытием загруженных torrent-файлов на некоторых сайтах (например &lt;a href=&#34;https://blog.webtor.io/ru/post/watch-movies-online-from-rutracker.org/&#34;&gt;rutracker&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Для того чтобы это работало необходимо убедится, что настройка &amp;ldquo;Разрешить открывать локальные файлы по ссылкам&amp;rdquo; включена, для этого:&lt;/p&gt;&#xA;&lt;ol start=&#34;0&#34;&gt;&#xA;&lt;li&gt;Убедитесь что расширение &lt;a href=&#34;https://chrome.google.com/webstore/detail/webtorio-watch-torrents-o/ngkpdaefpmokglfnmienfiaioffjodam&#34;&gt;Webtor.io&lt;/a&gt; у вас уже установлено.&lt;/li&gt;&#xA;&lt;li&gt;Перейдите на страницу раcширений Google Chrome &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/step1.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Найдите расширение Webtor.io в поиске и нажмите на кнопку &amp;ldquo;Подробнее&amp;rdquo; &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/step2.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Пункт &amp;ldquo;Разрешить открывать локальные файлы по ссылкам&amp;rdquo; должен быть активирован &lt;figure&gt;&lt;img src=&#34;https://blog.webtor.io/ru/post/new-chrome-extension-0.1.10/step3.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;После выполнения всех этих шагов у вас больше не будет проблем с открытием загруженных torrent-файлов.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ru/post/new-chrome-extension-0.1.10/</guid>
+      <description>&lt;p&gt;Это минорное обновление решает проблему с автоматическим открытием загруженных torrent-файлов на некоторых сайтах (например &lt;a href=&#34;http://localhost:1313/ru/post/watch-movies-online-from-rutracker.org/&#34;&gt;rutracker&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;Для того чтобы это работало необходимо убедится, что настройка &amp;ldquo;Разрешить открывать локальные файлы по ссылкам&amp;rdquo; включена, для этого:&lt;/p&gt;&#xA;&lt;ol start=&#34;0&#34;&gt;&#xA;&lt;li&gt;Убедитесь что расширение &lt;a href=&#34;https://chrome.google.com/webstore/detail/webtorio-watch-torrents-o/ngkpdaefpmokglfnmienfiaioffjodam&#34;&gt;Webtor.io&lt;/a&gt; у вас уже установлено.&lt;/li&gt;&#xA;&lt;li&gt;Перейдите на страницу раcширений Google Chrome &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ru/post/new-chrome-extension-0.1.10/step1.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Найдите расширение Webtor.io в поиске и нажмите на кнопку &amp;ldquo;Подробнее&amp;rdquo; &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ru/post/new-chrome-extension-0.1.10/step2.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Пункт &amp;ldquo;Разрешить открывать локальные файлы по ссылкам&amp;rdquo; должен быть активирован &lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ru/post/new-chrome-extension-0.1.10/step3.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;После выполнения всех этих шагов у вас больше не будет проблем с открытием загруженных torrent-файлов.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Представляем Webtor 1.0</title>
-      <link>https://blog.webtor.io/ru/post/introducing-webtor-1.0/</link>
+      <link>http://localhost:1313/ru/post/introducing-webtor-1.0/</link>
       <pubDate>Wed, 24 Jul 2019 00:15:00 +0300</pubDate>
-      <guid>https://blog.webtor.io/ru/post/introducing-webtor-1.0/</guid>
+      <guid>http://localhost:1313/ru/post/introducing-webtor-1.0/</guid>
       <description>&lt;p&gt;В этого году было проведено множество улучшений и теперь можно с гордостью пометить текущую версию тэгом 1.0! Ура! &amp;#x1f389;&amp;#x1f389;&amp;#x1f389;&lt;/p&gt;&#xA;&lt;p&gt;Вот собственно список основных изменений:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Поддержка &amp;ldquo;перемотки&amp;rdquo; для транскодированного аудио и видео контента&lt;/strong&gt; - теперь возможно проигрывать mkv-файлы с середины (раньше проигрывание в любом случае начиналось с начала).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Доступ к настройкам конвертации для видеоконтента&lt;/strong&gt; - теперь можно выбрать аудиодорожку и субтитры.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Продолжить просмотр с&amp;hellip;&amp;rdquo;&lt;/strong&gt; - плеер запоминает позицию проигрывания и в следующий раз предлагает продолжить просмотр именно с неё.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Открыть недавний торрент&lt;/strong&gt; -  теперь можно просто нажать на маленькую стрелочку на кнопке &amp;ldquo;Открыть torrent онлайн&amp;rdquo; и откроется список недавно просмотренных торрентов.&#xA;Он также запоминает последнюю открытую папку.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Последний просмотренный контент&lt;/strong&gt; - весь просмотренный контент помечается значком &amp;#x2714;&amp;#xfe0f;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Поделится&amp;rdquo; в социальных сетях&lt;/strong&gt; - теперь вы можете делится ссылкой на контент как вы привыкли это делать на других сайтах. Просто нажмите на иконку вашей любмиой сети&#xA;и поделитесь контентом, который вы смотрите прямо сейчас.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;И наконец я начал вести этот блог! Именно поэтому вы сейчас читаете обо всех улучшениях!&lt;/p&gt;</description>
     </item>
   </channel>

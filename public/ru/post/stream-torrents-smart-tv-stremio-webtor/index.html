@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html
+  lang="ru"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="keywords" content="">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Как стримить торренты на Smart TV через Stremio &#43; Webtor" />
+<meta property="og:site_name" content="webtor.io" />
+<meta property="og:image" content="" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="" />
+<meta property="og:image:height" content="" />
+<meta property="og:url" content="http://localhost:1313/ru/post/stream-torrents-smart-tv-stremio-webtor/" />
+<meta property="og:locale" content="ru" />
+<meta property="article:published_time" content="2026-03-22
+" /> <meta property="article:modified_time" content="2026-03-22
+" />
+
+
+
+
+
+
+    <title>Как стримить торренты на Smart TV через Stremio &#43; Webtor</title>
+    <link rel="canonical" href="http://localhost:1313/ru/post/stream-torrents-smart-tv-stremio-webtor/" />
+
+
+    
+
+
+
+<link rel="stylesheet" href="/css/fonts.ab91c8f22403030f1aa6ec2fc31ce03e96aaa270ec737220cdb222b25316345a.css" />
+<link rel="stylesheet" href="/css/webtor.9048ae8d2b172c3e439164caf4f83d3be128565dc708c3b2f246631058b9b0f5.css" />
+<link rel="stylesheet" href="/css/dracula.8b3496fc29d1dab007a798561f9c0bd61f3579f10f48331b249b2346e43708be.css" />
+
+<script defer src="https://umami.webtor.io/umami" data-website-id="8407716b-fbd8-43d0-95a1-ba7dfd929f59"></script>
+
+    <link rel="shortcut icon" href="https://webtor.io/assets/night/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="https://webtor.io/assets/night/favicon.svg" >
+    <link rel="icon" type="image/png" sizes="16x16" href="https://webtor.io/assets/night/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://webtor.io/assets/night/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="https://webtor.io/assets/night/favicon-48x48.png">
+
+  
+    <link rel="alternate" hreflang="en" href="http://localhost:1313/en/post/stream-torrents-smart-tv-stremio-webtor/" title="English">
+  
+
+  </head>
+
+<body itemscope itemtype="http://schema.org/Article">
+  
+
+
+<nav class="w-navbar">
+  <a href="https://webtor.io" class="w-logo">web<span class="accent">tor</span></a>
+
+  <div class="w-nav-links">
+    <a href="/ru/post" class="w-nav-link active">блог</a>
+    <a href="/ru/series" class="w-nav-link">серии</a>
+  </div>
+
+  <div class="w-lang-switch">
+    
+      
+        <a href="http://localhost:1313/en/post/stream-torrents-smart-tv-stremio-webtor/">EN</a>
+      
+        <a href="http://localhost:1313/ru/post/stream-torrents-smart-tv-stremio-webtor/" class="active">RU</a>
+      
+    
+  </div>
+</nav>
+<div class="w-navbar-spacer"></div>
+
+
+  <main class="w-container">
+    <h1 class="w-article-title" itemprop="name">Как стримить торренты на Smart TV через Stremio &#43; Webtor </h1>
+
+    <div class="w-article-meta">
+      <span class="w-article-date">22 Марта 2026</span>
+      
+        <a href="/ru/series/%d0%be%d1%81%d0%bd%d0%be%d0%b2%d1%8b-%d1%82%d0%be%d1%80%d1%80%d0%b5%d0%bd%d1%82%d0%be%d0%b2" class="w-badge w-badge--pink">Основы торрентов</a>
+      
+    </div>
+
+    <article class="w-prose" itemprop="articleBody">
+      <p>Один из самых частых вопросов, которые мы получаем после запуска <a href="/ru/post/watch-your-torrents-on-tv-with-stremio/">интеграции со Stremio</a>: «Как конкретно это настроить на моём телевизоре?»</p>
+<p>Вопрос справедливый. Умные телевизоры бывают разные — Android TV, Fire Stick, Apple TV, Chromecast — и настройка немного отличается в зависимости от устройства. Это руководство охватывает все варианты.</p>
+<p>К концу статьи у вас будет работающий Stremio на телевизоре с подключённой библиотекой Webtor, готовый стримить торренты в одно нажатие.</p>
+<hr>
+<h2 id="что-такое-stremio">Что такое Stremio?</h2>
+<p>Если вы ещё не слышали, <a href="https://www.stremio.com">Stremio</a> — это бесплатное приложение медиацентра. Представьте себе универсальный интерфейс для вашего контента — он объединяет фильмы, сериалы и другие медиа из разных источников в одном месте.</p>
+<p>Stremio силён своей <strong>системой аддонов</strong>. Аддоны расширяют Stremio новыми источниками контента, и любой может создать свой. Webtor предоставляет персональный аддон, который подключает вашу библиотеку Webtor к Stremio — сохранённые торренты отображаются как медиакаталог с метаданными, постерами и информацией об эпизодах.</p>
+<hr>
+<h2 id="что-понадобится-для-начала">Что понадобится для начала</h2>
+<ul>
+<li><strong>Аккаунт Webtor</strong> (аддон Stremio подключается к вашей персональной библиотеке)</li>
+<li><strong>Аккаунт Stremio</strong> (бесплатный, создайте на <a href="https://www.stremio.com">stremio.com</a>)</li>
+<li>Несколько <strong>торрентов, добавленных в библиотеку Webtor</strong> — фильмы, сериалы, что угодно</li>
+<li><strong>Телевизор или стриминговое устройство</strong>, подключённое к интернету</li>
+</ul>
+<hr>
+<h2 id="установка-stremio-на-ваше-устройство">Установка Stremio на ваше устройство</h2>
+<h3 id="android-tv-sony-philips-xiaomi-nvidia-shield-и-др">Android TV (Sony, Philips, Xiaomi, Nvidia Shield и др.)</h3>
+<p>Android TV поддерживает Stremio нативно.</p>
+<ol>
+<li>Откройте <strong>Google Play Store</strong> на телевизоре</li>
+<li>Найдите <strong>Stremio</strong></li>
+<li>Установите и войдите в свой аккаунт Stremio</li>
+</ol>
+<p>Готово — Stremio работает на Android TV нативно, и впечатления от использования отличные.</p>
+<h3 id="amazon-fire-stick--fire-tv">Amazon Fire Stick / Fire TV</h3>
+<p>Fire Stick работает на модифицированном Android, поэтому Stremio совместим, но недоступен напрямую в Amazon App Store. Нужно установить его вручную.</p>
+<ol>
+<li>На Fire Stick перейдите в <strong>Настройки &gt; Мой Fire TV &gt; Параметры разработчика</strong></li>
+<li>Включите <strong>Приложения из неизвестных источников</strong> (или «Установка неизвестных приложений» на новых моделях)</li>
+<li>Установите приложение <strong>Downloader</strong> из Amazon App Store</li>
+<li>Откройте Downloader и введите URL: <code>https://www.stremio.com/downloads</code></li>
+<li>Скачайте Android APK и установите его</li>
+<li>Откройте Stremio и войдите в аккаунт</li>
+</ol>
+<p>Как вариант, можно использовать <strong>adbLink</strong> с компьютера, чтобы отправить APK на Fire Stick.</p>
+<h3 id="apple-tv">Apple TV</h3>
+<p>Stremio доступен в App Store на Apple TV.</p>
+<ol>
+<li>Откройте <strong>App Store</strong> на Apple TV</li>
+<li>Найдите <strong>Stremio</strong></li>
+<li>Установите и войдите в аккаунт Stremio</li>
+</ol>
+<h3 id="chromecast--google-tv">Chromecast / Google TV</h3>
+<p>Если у вас Chromecast с Google TV (тот, что с пультом), Stremio можно установить прямо из Play Store — следуйте инструкции для Android TV выше.</p>
+<p>Для старых моделей Chromecast без Google TV можно <strong>транслировать с телефона</strong>:</p>
+<ol>
+<li>Установите Stremio на Android-телефон или iPhone</li>
+<li>Начните воспроизведение контента в Stremio</li>
+<li>Используйте кнопку трансляции, чтобы отправить видео на Chromecast</li>
+</ol>
+<hr>
+<h2 id="подключение-библиотеки-webtor-к-stremio">Подключение библиотеки Webtor к Stremio</h2>
+<p>Когда Stremio запущен на телевизоре, следующий шаг — добавление персонального аддона Webtor.</p>
+<h3 id="шаг-1-добавьте-торренты-в-библиотеку">Шаг 1: Добавьте торренты в библиотеку</h3>
+<p>Зайдите на <a href="https://webtor.io">webtor.io</a>, войдите в аккаунт и добавьте торренты в библиотеку. Лучше всего работают фильмы и сериалы — Webtor автоматически пытается определить метаданные. Примечание: для Stremio достаточно добавить в библиотеку — Vault это отдельная функция для долгосрочного облачного кэширования.</p>
+<h3 id="шаг-2-получите-ссылку-на-персональный-аддон">Шаг 2: Получите ссылку на персональный аддон</h3>
+<p>Откройте <a href="https://webtor.io/instructions/stremio">страницу настройки Stremio</a> на сайте Webtor. Вы увидите персонализированный URL аддона, уникальный для вашего аккаунта.</p>
+<h3 id="шаг-3-установите-аддон-в-stremio">Шаг 3: Установите аддон в Stremio</h3>
+<p>Два способа:</p>
+<p><strong>Способ A: С телефона или компьютера</strong>
+Откройте URL аддона в браузере. Появится запрос на открытие Stremio — подтвердите, и аддон установится. Поскольку Stremio синхронизирует аддоны между устройствами, он автоматически появится на телевизоре.</p>
+<p><strong>Способ B: Напрямую на ТВ</strong>
+В Stremio на телевизоре перейдите в раздел <strong>Аддоны</strong>, найдите нужный или вставьте URL в поле поиска аддонов.</p>
+<h3 id="шаг-4-смотрите">Шаг 4: Смотрите</h3>
+<p>Перейдите на главный экран Stremio. Теперь вы должны видеть контент из вашей библиотеки Webtor. Выберите фильм или эпизод — стриминг начнётся мгновенно.</p>
+<hr>
+<h2 id="чего-ожидать">Чего ожидать</h2>
+<ul>
+<li><strong>Автоматические метаданные.</strong> Webtor определяет информацию о фильмах и сериалах из вашего торрент-контента. Вы увидите правильные названия, постеры и списки эпизодов.</li>
+<li><strong>Транскодирование в реальном времени.</strong> Видео конвертируется на лету в формат, который ваше устройство может воспроизвести. Не нужно думать о совместимости MKV vs MP4.</li>
+<li><strong>Поддержка субтитров.</strong> Если торрент содержит файлы субтитров, они конвертируются и доступны в плеере Stremio.</li>
+<li><strong>Перемотка.</strong> Можно перейти к любому моменту видео — как в любом стриминговом сервисе.</li>
+</ul>
+<hr>
+<h2 id="решение-типичных-проблем">Решение типичных проблем</h2>
+<h3 id="stremio-показывает-нет-доступных-потоков">Stremio показывает «Нет доступных потоков»</h3>
+<ul>
+<li>Убедитесь, что торрент добавлен в библиотеку Webtor (а не просто был открыт однажды).</li>
+<li>Проверьте, что подписка Webtor активна.</li>
+<li>Попробуйте удалить и заново добавить аддон.</li>
+</ul>
+<h3 id="видео-часто-буферизуется">Видео часто буферизуется</h3>
+<ul>
+<li>Проверьте интернет-соединение. Для стриминга нужно стабильное подключение — минимум 10 Мбит/с для HD-контента.</li>
+<li>Если у торрента очень мало сидеров, начальная буферизация может быть дольше. Webtor берёт на себя загрузку торрента, но редкий контент требует больше времени на старте.</li>
+</ul>
+<h3 id="аддон-не-появляется-на-тв">Аддон не появляется на ТВ</h3>
+<ul>
+<li>Убедитесь, что используете <strong>один и тот же аккаунт Stremio</strong> на телефоне/компьютере и на телевизоре.</li>
+<li>Stremio синхронизирует аддоны автоматически, но это может занять минуту. Попробуйте перезапустить Stremio на ТВ.</li>
+</ul>
+<h3 id="субтитры-не-отображаются">Субтитры не отображаются</h3>
+<ul>
+<li>Проверьте, содержит ли торрент файлы субтитров (.srt, .ass, .sub).</li>
+<li>В плеере Stremio найдите переключатель субтитров — по умолчанию они могут быть выключены.</li>
+</ul>
+<hr>
+<h2 id="почему-это-важно">Почему это важно</h2>
+<p>Годами типичный процесс просмотра торрентов на телевизоре выглядел мучительно:</p>
+<ol>
+<li>Найти торрент</li>
+<li>Скачать на компьютер</li>
+<li>Перенести на NAS или USB-накопитель</li>
+<li>Настроить Plex или аналогичный медиасервер</li>
+<li>Наконец посмотреть</li>
+</ol>
+<p>С Webtor + Stremio всё сводится к:</p>
+<ol>
+<li>Добавить торрент в библиотеку</li>
+<li>Открыть Stremio на ТВ</li>
+<li>Смотреть</li>
+</ol>
+<p>Никаких NAS, медиасерверов и перемещений файлов. Просто торренты на вашем телевизоре — как любой другой стриминговый сервис.</p>
+<hr>
+<h2 id="заключение">Заключение</h2>
+<p>Настройка Stremio с Webtor занимает около пяти минут, и после этого у вас есть персональный стриминговый сервис, работающий на базе вашей собственной торрент-библиотеки. Работает на Android TV, Fire Stick, Apple TV и Chromecast — по сути, на любом экране в вашем доме.</p>
+<p>Если вы ещё не настроили Stremio, начните здесь:
+<a href="https://webtor.io/instructions/stremio">Инструкция по настройке Stremio на Webtor</a></p>
+<p>А если у вас ещё нет аккаунта Webtor, <a href="https://webtor.io">зарегистрируйтесь на webtor.io</a> — стриминг через Stremio доступен на платных планах (от $2/мес).</p>
+
+    </article>
+
+    
+
+    
+      
+      
+      
+
+      
+        <section class="w-related">
+          <h3 class="w-related__title">Ещё статьи из серии <a href="/ru/series/%d0%be%d1%81%d0%bd%d0%be%d0%b2%d1%8b-%d1%82%d0%be%d1%80%d1%80%d0%b5%d0%bd%d1%82%d0%be%d0%b2">Основы торрентов</a>  </h3>
+          <div class="w-post-list">
+            
+              <a href="http://localhost:1313/ru/post/webtor-vs-seedr-vs-premiumize/" class="w-post-item">
+                <div class="w-post-item__title">Webtor vs Seedr vs Premiumize — сравнение сервисов торрент-стриминга</div>
+                <div class="w-post-item__date">22 Марта 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/how-to-watch-torrents-iphone-ipad/" class="w-post-item">
+                <div class="w-post-item__title">Как смотреть торренты на iPhone и iPad — полное руководство</div>
+                <div class="w-post-item__date">22 Марта 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/vpn-for-torrents/" class="w-post-item">
+                <div class="w-post-item__title">Действительно ли нужен VPN для торрентов?</div>
+                <div class="w-post-item__date">18 Января 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/torrent-clients-iphone/" class="w-post-item">
+                <div class="w-post-item__title">Почему торрент-клиенты плохо работают на iPhone</div>
+                <div class="w-post-item__date">18 Января 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/torrents-blocked-public-wifi/" class="w-post-item">
+                <div class="w-post-item__title">Почему торренты часто блокируются в публичных Wi-Fi</div>
+                <div class="w-post-item__date">18 Января 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/torrent-streaming-vs-downloading/" class="w-post-item">
+                <div class="w-post-item__title">Торрент-стриминг vs скачивание: в чём разница?</div>
+                <div class="w-post-item__date">18 Января 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/torrent-vs-magnet-link/" class="w-post-item">
+                <div class="w-post-item__title">Торрент-файл vs magnet-ссылка: в чём реальная разница?</div>
+                <div class="w-post-item__date">18 Января 2026</div>
+              </a>
+            
+              <a href="http://localhost:1313/ru/post/webtor-vs-webtorrent-vs-utorrent/" class="w-post-item">
+                <div class="w-post-item__title">Webtor.io vs WebTorrent vs μTorrent Web</div>
+                <div class="w-post-item__date">18 Октября 2020</div>
+              </a>
+            
+          </div>
+        </section>
+      
+    
+  </main>
+
+  <footer class="w-footer">
+  <div class="w-footer__inner">
+    <div class="w-footer__left">
+      <a href="https://webtor.io" class="w-logo">web<span class="accent">tor</span></a>
+      <span class="w-footer__copy">&copy; 2026 webtor.io</span>
+    </div>
+    <div class="w-footer__links">
+      <a href="https://github.com/webtor-io" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.reddit.com/r/webtor/" target="_blank" rel="noopener">Reddit</a>
+      <a href="https://webtor.io" target="_blank" rel="noopener">webtor.io</a>
+    </div>
+  </div>
+</footer>
+
+
+<script src="/js/highlight.min.b0d3e28a06df4a4a94ccc739ae0addced2e79de08c029e96f707ad25466ef59c.js"></script>
+
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+
+</body>
+</html>
