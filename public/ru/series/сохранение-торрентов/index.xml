@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Сохранение Торрентов on webtor.io</title>
-    <link>http://localhost:1313/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
+    <link>https://blog.webtor.io/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
     <description>Recent content in Сохранение Торрентов on webtor.io</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 06 Feb 2026 19:10:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.webtor.io/ru/series/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>У торрента нет сидов — что можно сделать?</title>
-      <link>http://localhost:1313/ru/post/torrent-no-seeds/</link>
+      <link>https://blog.webtor.io/ru/post/torrent-no-seeds/</link>
       <pubDate>Fri, 06 Feb 2026 19:10:00 +0300</pubDate>
-      <guid>http://localhost:1313/ru/post/torrent-no-seeds/</guid>
+      <guid>https://blog.webtor.io/ru/post/torrent-no-seeds/</guid>
       <description>&lt;p&gt;Мало что может быть более разочаровывающим, чем найти именно тот торрент, который вам нужен — только чтобы обнаружить, что у него нет сидов.&lt;/p&gt;&#xA;&lt;p&gt;Файл существует, метаданные есть, но ничего не загружается.&lt;br&gt;&#xA;Нет прогресса, нет пиров, нет активности.&lt;/p&gt;&#xA;&lt;p&gt;Эта ситуация распространена, и это не временный сбой. Это естественная часть того, как работают торренты.&lt;/p&gt;&#xA;&lt;p&gt;Чтобы понять, что вы можете сделать, полезно понять, почему торренты исчезают в первую очередь.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;почему-торренты-зависят-от-сидов&#34;&gt;Почему торренты зависят от сидов&lt;/h2&gt;&#xA;&lt;p&gt;Торренты не живут на центральном сервере.&lt;/p&gt;</description>
     </item>
   </channel>

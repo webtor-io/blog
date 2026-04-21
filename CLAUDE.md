@@ -63,3 +63,15 @@ aliases:                              # Optional, URL redirects
 ```
 
 `translationKey` is critical — without it, Hugo won't link translations together.
+
+## Tone of Voice
+
+Blog posts are written for a **non-technical audience** — regular users who stream torrents, not engineers.
+
+- **Simple language** — no jargon, no implementation details (no "nginx-vod", "madvise", "OOM", "range requests", "database leases"). Describe what changed for the user, not how it was built
+- **Short and direct** — short sentences, no filler. Get to the point
+- **Conversational** — talk like a friend sharing good news, not a corporate changelog
+- **Show the benefit** — instead of "increased buffer size from 256K to 4MB", say "4K streams play smoothly now"
+- **Use examples** — when describing features, show what the user would actually type or see (e.g., "just type 'suggest a fresh comedy for tonight'")
+- **No self-congratulation** — don't say "we're excited to announce". Just say what's new
+- **Russian version is not a translation** — it should read naturally in Russian, not like translated English. Use native phrasing and examples

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keeping Torrents Alive on webtor.io</title>
-    <link>http://localhost:1313/en/series/keeping-torrents-alive/</link>
+    <link>https://blog.webtor.io/en/series/keeping-torrents-alive/</link>
     <description>Recent content in Keeping Torrents Alive on webtor.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Feb 2026 19:20:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/series/keeping-torrents-alive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.webtor.io/en/series/keeping-torrents-alive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seedbox vs torrent vault: what&#39;s the difference?</title>
-      <link>http://localhost:1313/en/post/seedbox-vs-torrent-vault/</link>
+      <link>https://blog.webtor.io/en/post/seedbox-vs-torrent-vault/</link>
       <pubDate>Fri, 06 Feb 2026 19:20:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/post/seedbox-vs-torrent-vault/</guid>
+      <guid>https://blog.webtor.io/en/post/seedbox-vs-torrent-vault/</guid>
       <description>&lt;p&gt;When torrents become part of a regular workflow, traditional torrent clients often stop being enough.&lt;/p&gt;&#xA;&lt;p&gt;Users begin looking for more stable ways to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;keep torrents available&lt;/li&gt;&#xA;&lt;li&gt;access content reliably&lt;/li&gt;&#xA;&lt;li&gt;avoid depending on their local devices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Two approaches appear frequently in this context: &lt;strong&gt;seedboxes&lt;/strong&gt; and &lt;strong&gt;torrent vaults&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;While they may seem similar at first glance, they solve different problems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-a-seedbox-is&#34;&gt;What a seedbox is&lt;/h2&gt;&#xA;&lt;p&gt;A seedbox is a remote server designed for torrent downloading and seeding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a personal torrent library</title>
-      <link>http://localhost:1313/en/post/personal-torrent-library/</link>
+      <link>https://blog.webtor.io/en/post/personal-torrent-library/</link>
       <pubDate>Fri, 06 Feb 2026 19:18:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/post/personal-torrent-library/</guid>
+      <guid>https://blog.webtor.io/en/post/personal-torrent-library/</guid>
       <description>&lt;p&gt;For many people, torrents are a temporary tool.&lt;/p&gt;&#xA;&lt;p&gt;You download a file, use it once, and move on.&lt;br&gt;&#xA;But over time, some users begin to treat torrents differently — not as one-time transfers, but as part of a personal collection.&lt;/p&gt;&#xA;&lt;p&gt;A personal torrent library is not just about saving files.&lt;br&gt;&#xA;It&amp;rsquo;s about keeping access to content that matters to you.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-people-start-building-torrent-libraries&#34;&gt;Why people start building torrent libraries&lt;/h2&gt;&#xA;&lt;p&gt;The shift usually happens after a few familiar experiences:&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to keep rare torrents available</title>
-      <link>http://localhost:1313/en/post/keep-rare-torrents-available/</link>
+      <link>https://blog.webtor.io/en/post/keep-rare-torrents-available/</link>
       <pubDate>Fri, 06 Feb 2026 19:16:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/post/keep-rare-torrents-available/</guid>
+      <guid>https://blog.webtor.io/en/post/keep-rare-torrents-available/</guid>
       <description>&lt;p&gt;Rare torrents disappear faster than most people expect.&lt;/p&gt;&#xA;&lt;p&gt;A file that works today may be impossible to download a few weeks later.&lt;br&gt;&#xA;Once seeders leave, the torrent becomes fragile — and sometimes vanishes completely.&lt;/p&gt;&#xA;&lt;p&gt;If you care about keeping specific torrents accessible, relying on chance is rarely enough.&lt;br&gt;&#xA;Availability needs to be intentional.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-rare-torrents-need-special-attention&#34;&gt;Why rare torrents need special attention&lt;/h2&gt;&#xA;&lt;p&gt;Popular torrents survive because many people download and seed them.&lt;/p&gt;&#xA;&lt;p&gt;Rare torrents don&amp;rsquo;t have that advantage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why torrents disappear over time</title>
-      <link>http://localhost:1313/en/post/why-torrents-disappear/</link>
+      <link>https://blog.webtor.io/en/post/why-torrents-disappear/</link>
       <pubDate>Fri, 06 Feb 2026 19:13:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/post/why-torrents-disappear/</guid>
+      <guid>https://blog.webtor.io/en/post/why-torrents-disappear/</guid>
       <description>&lt;p&gt;At first glance, torrents feel permanent.&lt;/p&gt;&#xA;&lt;p&gt;Once a torrent exists, it seems like it should always be available. The metadata is shared, trackers can be copied, and magnet links don&amp;rsquo;t depend on a single server.&lt;/p&gt;&#xA;&lt;p&gt;But in reality, torrents disappear all the time.&lt;/p&gt;&#xA;&lt;p&gt;Not because the technology fails — but because the ecosystem around them changes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;torrents-dont-live-on-servers&#34;&gt;Torrents don&amp;rsquo;t live on servers&lt;/h2&gt;&#xA;&lt;p&gt;Unlike traditional downloads, torrents are not stored in one place.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Torrent has no seeds — what can you do?</title>
-      <link>http://localhost:1313/en/post/torrent-no-seeds/</link>
+      <link>https://blog.webtor.io/en/post/torrent-no-seeds/</link>
       <pubDate>Fri, 06 Feb 2026 19:10:00 +0300</pubDate>
-      <guid>http://localhost:1313/en/post/torrent-no-seeds/</guid>
+      <guid>https://blog.webtor.io/en/post/torrent-no-seeds/</guid>
       <description>&lt;p&gt;Few things are more frustrating than finding the exact torrent you need — only to discover it has no seeds.&lt;/p&gt;&#xA;&lt;p&gt;The file exists, the metadata is there, but nothing downloads.&lt;br&gt;&#xA;No progress, no peers, no activity.&lt;/p&gt;&#xA;&lt;p&gt;This situation is common, and it&amp;rsquo;s not a temporary glitch. It&amp;rsquo;s a natural part of how torrents work.&lt;/p&gt;&#xA;&lt;p&gt;To understand what you can do, it helps to understand why torrents disappear in the first place.&lt;/p&gt;</description>
     </item>
   </channel>
