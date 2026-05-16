@@ -1,5 +1,6 @@
 ---
 title: "Do you really need a VPN for torrents?"
+description: "Do you really need a VPN for torrents? When a VPN actually matters for classic clients, and when streaming-based services make it unnecessary."
 date: 2026-01-18T21:47:00+03:00
 slug: "vpn-for-torrents"
 translationKey: "vpn-for-torrents"

@@ -1,5 +1,6 @@
 ---
 title: "Real-Debrid and Torbox as Streaming Backends"
+description: "Real-Debrid vs Torbox: compare both debrid services and connect either one to Webtor as a streaming backend for Stremio — faster playback, more streams."
 date: 2025-11-06T12:00:00+03:00
 slug: "real-debrid-and-torbox-integration"
 series: "What's new"

@@ -1,5 +1,6 @@
 ---
 title: "Torrent vs magnet link: what's the real difference?"
+description: "Torrent file vs magnet link — what's the real difference? Compare both formats by speed, reliability and workflow, and learn when each one is the better pick."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrent-vs-magnet-link"
 translationKey: "torrent-vs-magnet-link"

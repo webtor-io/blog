@@ -1,5 +1,6 @@
 ---
 title: "Как смотреть торренты на iPhone и iPad — полное руководство"
+description: "Как смотреть торренты на iPhone и iPad в 2026 — без установки приложений из App Store. Пошаговое руководство с реальными рабочими вариантами для iOS."
 date: 2026-03-22T12:00:00+03:00
 slug: "how-to-watch-torrents-iphone-ipad"
 translationKey: "how-to-watch-torrents-iphone-ipad"

@@ -1,5 +1,6 @@
 ---
 title: "Why torrent clients don't work well on iPhone"
+description: "Why torrent clients don't work well on iPhone — iOS sandboxing, background limits and App Store rules explained, plus a working browser-based alternative."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrent-clients-iphone"
 translationKey: "torrent-clients-iphone"

@@ -1,5 +1,6 @@
 ---
 title: "Real-Debrid и Torbox в качестве бэкендов для стриминга"
+description: "Real-Debrid vs Torbox: сравниваем дебрид-сервисы и подключаем любой из них к Webtor как бэкенд для стриминга через Stremio — быстрее, больше потоков."
 date: 2025-11-06T12:00:00+03:00
 slug: "real-debrid-and-torbox-integration"
 series: "Что нового"

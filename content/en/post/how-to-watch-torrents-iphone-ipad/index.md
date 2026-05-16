@@ -1,5 +1,6 @@
 ---
 title: "How to Watch Torrents on iPhone and iPad — Complete Guide"
+description: "Watch torrents on iPhone and iPad in 2026 — no App Store install, no jailbreak required. Step-by-step guide covering the real options for iOS users."
 date: 2026-03-22T12:00:00+03:00
 slug: "how-to-watch-torrents-iphone-ipad"
 translationKey: "how-to-watch-torrents-iphone-ipad"

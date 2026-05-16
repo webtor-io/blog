@@ -1,5 +1,6 @@
 ---
 title: "Webtor.io vs WebTorrent vs μTorrent Web"
+description: "Webtor.io vs WebTorrent vs μTorrent Web: честное сравнение трёх веб-торрент-клиентов — возможности, стриминг и какой из них выбрать под свои задачи."
 date: 2020-10-18T18:09:00+03:00
 slug: "webtor-vs-webtorrent-vs-utorrent"
 series: "Основы торрентов"

@@ -1,8 +1,13 @@
 ---
 title: "Webtor.io vs WebTorrent vs μTorrent Web"
+description: "Webtor.io vs WebTorrent vs μTorrent Web: an honest side-by-side of three browser-based torrent clients — features, streaming and which one to pick."
 date: 2020-10-18T18:09:00+03:00
+slug: "webtor-vs-webtorrent-vs-utorrent"
 translationKey: "webtor-vs-webtorrent-vs-utorrent"
 series: "Torrent Basics"
+aliases:
+  - /en/post/webtor.io-vs-webtorrent-vs-μtorrent-web/
+  - /post/webtor.io-vs-webtorrent-vs-μtorrent-web/
 ---
 Hello! This time I decided to write some comparison of my service and other similar ones. Perhaps many
 moments will seem a little biased to you, but alas, I have been developing this service for a long time and I can be a little subject.

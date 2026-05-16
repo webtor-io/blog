@@ -1,5 +1,6 @@
 ---
 title: "Почему торрент-клиенты плохо работают на iPhone"
+description: "Почему торрент-клиенты плохо работают на iPhone — изоляция iOS, фоновые ограничения и правила App Store, плюс рабочая альтернатива прямо в браузере."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrent-clients-iphone"
 translationKey: "torrent-clients-iphone"
