@@ -1,2 +1,8 @@
 .DS_Store
 .idea
+
+# Hugo build output — the Docker image runs `hugo --minify` itself,
+# so the generated site never needs to be committed.
+/public/
+/resources/
+.hugo_build.lock
