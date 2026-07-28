@@ -1,5 +1,6 @@
 ---
 title: "Как стримить торренты на Smart TV через Stremio + Webtor"
+description: "Как стримить торренты в Stremio и смотреть их на Smart TV — пошагово, через аддон Webtor. Без скачивания и торрент-клиента, работает на Samsung, LG и Android TV."
 date: 2026-03-22T12:00:00+03:00
 slug: "stream-torrents-smart-tv-stremio-webtor"
 translationKey: "stream-torrents-smart-tv-stremio-webtor"
@@ -164,5 +165,7 @@ Stremio доступен в App Store на Apple TV.
 
 Если вы ещё не настроили Stremio, начните здесь:
 [Инструкция по настройке Stremio на Webtor](https://webtor.io/instructions/stremio)
+
+[Про Stremio-аддон Webtor](https://webtor.io/webtor-stremio-addon)
 
 А если у вас ещё нет аккаунта Webtor, [зарегистрируйтесь на webtor.io](https://webtor.io) — стриминг через Stremio доступен на платных планах (от $2/мес).

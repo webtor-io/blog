@@ -1,5 +1,6 @@
 ---
 title: "Watch your torrents on TV – with Stremio!"
+description: "Webtor's personal Stremio addon is live: add a torrent to your library and play it on a TV, phone or tablet — no downloads, no VPN, no torrent client."
 date: 2025-06-25T12:00:00+03:00
 series: "What's new"
 translationKey: "stremio-integration"
@@ -26,6 +27,10 @@ Metadata is detected automatically. Works with both movies and series.
 🛠 Need help? Here’s the setup guide:
 
 [How to connect Webtor to Stremio →](https://webtor.io/instructions/stremio)
+
+[What the Webtor Stremio addon is →](https://webtor.io/webtor-stremio-addon)
+
+[Step-by-step: stream torrents on a Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
 
 🔮 What’s next?
 We have exciting plans for the near future:

@@ -1,5 +1,6 @@
 ---
 title: "How to Stream Torrents on Your Smart TV with Stremio + Webtor"
+description: "How to stream torrents on Stremio and watch them on a Smart TV — step by step with the Webtor addon. No downloads, no torrent client, works on Samsung, LG and Android TV."
 date: 2026-03-22T12:00:00+03:00
 slug: "stream-torrents-smart-tv-stremio-webtor"
 translationKey: "stream-torrents-smart-tv-stremio-webtor"
@@ -164,5 +165,7 @@ Setting up Stremio with Webtor takes about five minutes, and once it's done, you
 
 If you haven't set up Stremio yet, start here:
 [Stremio setup instructions on Webtor](https://webtor.io/instructions/stremio)
+
+[About the Webtor Stremio addon](https://webtor.io/webtor-stremio-addon)
 
 And if you don't have a Webtor account yet, [sign up at webtor.io](https://webtor.io) — streaming through Stremio requires a paid plan (starting at $2/mo).

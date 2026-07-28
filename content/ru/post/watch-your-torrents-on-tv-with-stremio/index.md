@@ -1,5 +1,6 @@
 ---
 title: "Смотрите свои торренты на ТВ — со Stremio!"
+description: "Личный Stremio-аддон Webtor запущен: добавьте торрент в библиотеку и смотрите его на телевизоре, телефоне или планшете — без скачивания, VPN и торрент-клиента."
 date: 2025-06-25T12:00:00+03:00
 slug: "watch-your-torrents-on-tv-with-stremio"
 series: "Что нового"
@@ -27,6 +28,10 @@ translationKey: "stremio-integration"
 🛠 Нужна помощь? Вот руководство по настройке:
 
 [Как подключить Webtor к Stremio →](https://webtor.io/instructions/stremio)
+
+[Что такое Stremio-аддон Webtor →](https://webtor.io/webtor-stremio-addon)
+
+[Пошагово: стриминг торрентов на Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
 
 🔮 Что дальше?
 У нас грандиозные планы на ближайшее будущее:

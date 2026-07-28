@@ -1,5 +1,6 @@
 ---
 title: "Webtor + Torrentio = ⚡"
+description: "Webtor now works together with Torrentio in Stremio — cloud playback for the streams you pick, on any device."
 date: 2025-09-21T12:00:00+03:00
 slug: "webtor-torrentio-stremio"
 series: "What's new"

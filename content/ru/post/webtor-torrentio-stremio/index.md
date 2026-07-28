@@ -1,5 +1,6 @@
 ---
 title: "Webtor + Torrentio = ⚡"
+description: "Webtor теперь работает вместе с Torrentio в Stremio — облачное воспроизведение выбранных потоков на любом устройстве."
 date: 2025-09-21T12:00:00+03:00
 slug: "webtor-torrentio-stremio"
 series: "Что нового"
