@@ -25,3 +25,11 @@ So now you can stream not only your personal library, but also any content from 
 This update turns Webtor into a full Stremio streaming layer.
 
 Try it out and let me know how it works for you 🙌
+
+🛠 Setup guides:
+
+[Step-by-step: stream torrents on a Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
+
+[What the Webtor Stremio addon is →](https://webtor.io/webtor-stremio-addon)
+
+[Using Stremio addons online with Webtor →](https://webtor.io/stremio-addons-online)

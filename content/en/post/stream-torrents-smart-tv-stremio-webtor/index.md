@@ -168,4 +168,6 @@ If you haven't set up Stremio yet, start here:
 
 [About the Webtor Stremio addon](https://webtor.io/webtor-stremio-addon)
 
+[Using Stremio addons online with Webtor](https://webtor.io/stremio-addons-online)
+
 And if you don't have a Webtor account yet, [sign up at webtor.io](https://webtor.io) — streaming through Stremio requires a paid plan (starting at $2/mo).

@@ -168,4 +168,6 @@ Stremio доступен в App Store на Apple TV.
 
 [Про Stremio-аддон Webtor](https://webtor.io/webtor-stremio-addon)
 
+[Stremio-аддоны онлайн вместе с Webtor](https://webtor.io/ru/stremio-addons-online)
+
 А если у вас ещё нет аккаунта Webtor, [зарегистрируйтесь на webtor.io](https://webtor.io) — стриминг через Stremio доступен на платных планах (от $2/мес).

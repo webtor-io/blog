@@ -33,6 +33,8 @@ translationKey: "stremio-integration"
 
 [Пошагово: стриминг торрентов на Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
 
+[Stremio-аддоны онлайн вместе с Webtor →](https://webtor.io/ru/stremio-addons-online)
+
 🔮 Что дальше?
 У нас грандиозные планы на ближайшее будущее:
 

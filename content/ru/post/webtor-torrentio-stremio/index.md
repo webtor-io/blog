@@ -25,3 +25,11 @@ translationKey: "webtor-torrentio-stremio"
 Это обновление превращает Webtor в полноценный уровень стриминга для Stremio.
 
 Попробуйте и дайте мне знать, как это работает для вас 🙌
+
+🛠 Инструкции по настройке:
+
+[Пошагово: стриминг торрентов на Smart TV →](/ru/post/stream-torrents-smart-tv-stremio-webtor)
+
+[Что такое Stremio-аддон Webtor →](https://webtor.io/ru/webtor-stremio-addon)
+
+[Stremio-аддоны онлайн вместе с Webtor →](https://webtor.io/ru/stremio-addons-online)
