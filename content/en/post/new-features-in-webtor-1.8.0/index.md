@@ -1,5 +1,5 @@
 ---
-title: "New features in Webtor 1.8.0"
+title: "Magnet input on the main page and resumable ZIP downloads — Webtor 1.8.0"
 description: "Webtor 1.8.0 adds magnet link input on the main page, resumable ZIP downloads, HLS for all video, and file switching inside the player."
 date: 2020-12-24T00:20:00+03:00
 series: "What's new"

@@ -1,5 +1,5 @@
 ---
-title: "New features in Webtor 1.9.0"
+title: "Instant audio track switching, .ts and .vob support — Webtor 1.9.0"
 description: "Webtor 1.9.0 adds .ts and .vob support, instant audio track switching without restarting playback, and smoother background buffering."
 date: 2021-03-28T21:17:00+03:00
 series: "What's new"

@@ -1,5 +1,5 @@
 ---
-title: "New features in Webtor 1.16.0"
+title: "Faster download starts and a longer-lasting cache — Webtor 1.16.0"
 description: "Webtor 1.16.0 cuts 5-10 seconds off every download start with always-on torrent clients and keeps cached data until disk space runs out."
 date: 2022-12-26T21:34:00+03:00
 series: "What's new"

@@ -1,5 +1,5 @@
 ---
-title: "New features in Webtor 1.4.0"
+title: "Download a whole torrent folder as a ZIP archive — Webtor 1.4.0"
 description: "Webtor 1.4.0 lets you download a whole torrent folder as a ZIP archive with one click and adds a Share button for social networks."
 date: 2019-10-16T21:28:00+03:00
 series: "What's new"
