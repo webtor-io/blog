@@ -1,5 +1,6 @@
 ---
 title: "Fully open source and self-hosting at home — Webtor 1.15.0"
+slug: "new-features-in-webtor-1.15.0"
 description: "Webtor goes fully open source: all components are public and you can now self-host the whole service at home with an installation script."
 date: 2022-04-17T19:23:00+03:00
 series: "What's new"

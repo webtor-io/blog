@@ -1,5 +1,6 @@
 ---
 title: "Zip64 archives over 4GB and Chromecast return — Webtor 1.14.0"
+slug: "new-features-in-webtor-1.14.0"
 description: "Webtor 1.14.0 removes the 4GB ZIP limit with Zip64, brings back Chromecast streaming, and raises speeds for all supporter tiers."
 date: 2021-12-22T22:48:00+03:00
 series: "What's new"

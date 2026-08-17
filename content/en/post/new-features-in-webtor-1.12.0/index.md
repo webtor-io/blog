@@ -1,5 +1,6 @@
 ---
 title: "Background conversion for mobile and preloaded HLS fragments — Webtor 1.12.0"
+slug: "new-features-in-webtor-1.12.0"
 description: "Webtor 1.12.0 converts popular videos to mobile-friendly formats in the background and preloads cached HLS fragments for faster playback."
 date: 2021-11-04T00:05:00+03:00
 series: "What's new"

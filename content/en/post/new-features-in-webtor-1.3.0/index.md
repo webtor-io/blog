@@ -1,5 +1,6 @@
 ---
 title: "Automatic dark/light mode and sponsor access via Patreon — Webtor 1.3.0"
+slug: "new-features-in-webtor-1.3.0"
 description: "Webtor 1.3.0 adds automatic dark/light mode, sponsor access with extra features via Patreon login, and the start of open-sourcing the project."
 date: 2019-09-23T15:24:00+03:00
 series: "What's new"

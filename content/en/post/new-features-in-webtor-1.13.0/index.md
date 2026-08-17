@@ -1,5 +1,6 @@
 ---
 title: "Resumable downloads fixed and drag-and-drop subtitles — Webtor 1.13.0"
+slug: "new-features-in-webtor-1.13.0"
 description: "Webtor 1.13.0 fixes resuming interrupted downloads, keeps torrent files stored forever, and adds drag-and-drop for subtitles in the player."
 date: 2021-12-11T16:38:00+03:00
 series: "What's new"

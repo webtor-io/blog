@@ -1,5 +1,6 @@
 ---
 title: "Is Webtor Anonymous? What Peers and Your ISP Actually See"
+slug: "anonymous-and-secure"
 description: "How Webtor keeps your IP address out of the BitTorrent swarm: only our servers talk to peers while you stream over HTTPS — no VPN, no client install."
 date: 2020-12-22T20:52:00+03:00
 translationKey: "anonymous-and-secure"

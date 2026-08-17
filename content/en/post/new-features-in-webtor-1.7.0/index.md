@@ -1,5 +1,6 @@
 ---
 title: "Player SDK: embed torrent streaming on any site — Webtor 1.7.0"
+slug: "new-features-in-webtor-1.7.0"
 description: "Webtor 1.7.0 ships a Player SDK to embed torrent streaming on any site, better subtitle controls, dark mode by default, and day-long caching."
 date: 2020-05-27T22:59:00+03:00
 series: "What's new"

@@ -1,5 +1,6 @@
 ---
 title: "Clearer download form and archive downloads via Embed SDK — Webtor 1.11.0"
+slug: "new-features-in-webtor-1.11.0"
 description: "Webtor 1.11.0 adds a clearer download form with progress and copyable links, archive downloads via Embed SDK, and smoother 1080p MP4 playback."
 date: 2021-06-29T00:05:00+03:00
 series: "What's new"
