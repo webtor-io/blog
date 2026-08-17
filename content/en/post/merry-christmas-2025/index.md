@@ -1,5 +1,6 @@
 ---
 title: "Merry Christmas & Happy New Year — thank you for this year"
+description: "A Christmas thank-you from Webtor: a recap of the year's features - libraries, WebDAV, Stremio - plus a limited 25% holiday discount on all tiers."
 date: 2025-12-24T12:00:00+03:00
 slug: "merry-christmas-2025"
 series: "What's new"

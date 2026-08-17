@@ -1,5 +1,6 @@
 ---
 title: "Webtor API v1.0.0"
+description: "Webtor API 1.0 lets you download torrent content without a BitTorrent client, stream it instantly as HLS, and fetch subtitles automatically."
 date: 2022-07-08T19:17:00+03:00
 series: "What's new"
 translationKey: "api-v1.0.0"

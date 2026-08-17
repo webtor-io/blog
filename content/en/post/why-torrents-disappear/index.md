@@ -1,5 +1,6 @@
 ---
 title: "Why torrents disappear over time"
+description: "Why torrents die over time: how seeders drop off one by one, what makes a torrent vanish for good, and how to keep rare files available for years."
 date: 2026-02-06T19:13:00+03:00
 slug: "why-torrents-disappear"
 translationKey: "why-torrents-disappear"

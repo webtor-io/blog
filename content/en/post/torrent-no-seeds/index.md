@@ -1,5 +1,6 @@
 ---
 title: "Torrent has no seeds — what can you do?"
+description: "Your torrent has no seeds and won't download? What a dead torrent really means, how to check for hidden peers, and what you can still do to get the file."
 date: 2026-02-06T19:10:00+03:00
 slug: "torrent-no-seeds"
 translationKey: "torrent-no-seeds"

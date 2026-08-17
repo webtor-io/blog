@@ -1,5 +1,6 @@
 ---
 title: "Технологии внутри Webtor.io"
+description: "Как устроен Webtor изнутри: Go и Kubernetes на бэкенде, транскодирование в HLS на лету через FFmpeg и просмотр ещё не докачанных торрентов."
 date: 2019-10-29T21:46:00+03:00
 slug: "technologies-inside-webtor"
 series: "Что внутри"

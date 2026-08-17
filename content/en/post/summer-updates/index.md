@@ -1,5 +1,6 @@
 ---
 title: "Summer Updates"
+description: "Webtor adds Google and Patreon login for easier access to paid benefits, plus a new 25 Gbit/s server that speeds up streaming for paid users."
 date: 2025-08-15T12:00:00+03:00
 slug: "summer-updates"
 series: "What's new"

@@ -1,5 +1,6 @@
 ---
 title: "Как сохранить редкие торренты доступными"
+description: "Как не потерять редкий торрент, когда уходят сидеры: долгосрочная раздача, seedbox и другие способы сохранить доступ к важным файлам надолго."
 date: 2026-02-06T19:16:00+03:00
 slug: "keep-rare-torrents-available"
 translationKey: "keep-rare-torrents-available"

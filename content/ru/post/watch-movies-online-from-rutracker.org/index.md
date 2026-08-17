@@ -1,5 +1,6 @@
 ---
 title: "Смотри фильмы онлайн с rutracker.org"
+description: "Пошаговая инструкция, как смотреть фильмы с rutracker.org онлайн: скачайте torrent-файл, откройте его на Webtor и запустите видео в браузере."
 date: 2019-07-25T20:56:00+03:00
 slug: "watch-movies-online-from-rutracker.org"
 series: "Смотри фильмы онлайн с любого сайта"

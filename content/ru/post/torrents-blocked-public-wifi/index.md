@@ -1,5 +1,6 @@
 ---
 title: "Почему торренты часто блокируются в публичных Wi-Fi"
+description: "Почему торрент-клиенты не работают в Wi-Fi кафе, отелей и аэропортов: как сети блокируют P2P-трафик и почему просмотр через браузер выручает."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrents-blocked-public-wifi"
 translationKey: "torrents-blocked-public-wifi"

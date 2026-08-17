@@ -1,5 +1,6 @@
 ---
 title: "New extension for Google Chrome Webtor.io 0.1.10"
+description: "Chrome extension 0.1.10 fixes automatic opening of downloaded torrent files: enable Allow Access to file URLs in three quick steps."
 date: 2019-08-03T00:13:37+03:00
 series: "What's new"
 translationKey: "chrome-ext-0.1.10"

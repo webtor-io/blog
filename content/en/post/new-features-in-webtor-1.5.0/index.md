@@ -1,5 +1,6 @@
 ---
 title: "New features in Webtor 1.5.0"
+description: "Webtor 1.5.0 automatically loads subtitles in your preferred language from OpenSubtitles and shows them under the player's CC button."
 date: 2019-11-24T01:01:00+03:00
 series: "What's new"
 translationKey: "v1.5.0"

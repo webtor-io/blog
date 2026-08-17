@@ -1,5 +1,6 @@
 ---
 title: "Happy New Year from Webtor.io! 🎉"
+description: "New Year giveaway: the first 100 people to sign up through a special link get one month of free premium access to Webtor torrent streaming."
 date: 2024-12-28T12:00:00+03:00
 slug: "happy-new-year-2024"
 series: "What's new"

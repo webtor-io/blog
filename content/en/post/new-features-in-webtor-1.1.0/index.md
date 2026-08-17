@@ -1,5 +1,6 @@
 ---
 title: "New features in Webtor 1.1.0"
+description: "Webtor 1.1.0 plays video right below the selected file, adds stream URL copying for VLC, and loads up to 3 times faster after updates."
 date: 2019-08-06T23:27:00+03:00
 series: "What's new"
 translationKey: "v1.1.0"

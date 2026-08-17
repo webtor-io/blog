@@ -1,5 +1,6 @@
 ---
 title: "New in Webtor: Personal Library + Big Plans Ahead!"
+description: "Webtor launches Personal Library: save torrents you like to your own space, sort them by name or date, with Stremio streaming coming soon."
 date: 2025-04-26T12:00:00+03:00
 slug: "personal-library-and-big-plans"
 series: "What's new"

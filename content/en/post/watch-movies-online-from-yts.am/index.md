@@ -1,5 +1,6 @@
 ---
 title: "Watch movies online from yts.am"
+description: "A step-by-step guide to streaming movies from yts.am in your browser with Webtor: download the torrent file, open it, and press play."
 date: 2019-07-23T14:30:02+03:00
 series: "Watch movies online from any torrent site"
 ---

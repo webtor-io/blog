@@ -1,5 +1,6 @@
 ---
 title: "Why torrents are often blocked on public Wi-Fi"
+description: "Why torrents won't connect on café, hotel, airport or university Wi-Fi: how networks detect and block BitTorrent — and how to stream torrents anyway."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrents-blocked-public-wifi"
 translationKey: "torrents-blocked-public-wifi"

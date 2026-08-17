@@ -1,5 +1,6 @@
 ---
 title: "Анонимность и Безопасность"
+description: "Почему смотреть торренты через Webtor безопаснее, чем в обычном BitTorrent-клиенте: ваш IP скрыт от пиров, соединение защищено HTTPS, VPN не нужен."
 date: 2020-12-22T19:18:00+03:00
 slug: "anonymous-and-secure"
 translationKey: "anonymous-and-secure"

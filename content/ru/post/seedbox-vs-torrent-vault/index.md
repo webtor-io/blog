@@ -1,5 +1,6 @@
 ---
 title: "Seedbox vs torrent vault: в чём разница?"
+description: "Чем seedbox отличается от torrent vault: первый нужен для скорости и раздачи, второй — чтобы важные торренты оставались доступными без сидов."
 date: 2026-02-06T19:20:00+03:00
 slug: "seedbox-vs-torrent-vault"
 translationKey: "seedbox-vs-torrent-vault"

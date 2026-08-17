@@ -1,5 +1,6 @@
 ---
 title: "Pay With Crypto, Download Only What You Need — and Binge-Watching Fixed in Stremio"
+description: "Webtor now takes crypto payments, lets you download only selected files from a folder, fixes Stremio binge-watching, and adds a full JSON API."
 date: 2026-08-09T12:00:00+03:00
 slug: "crypto-payments-partial-downloads-and-stremio-fixes"
 series: "What's new"

@@ -1,5 +1,6 @@
 ---
 title: "Торрент-стриминг vs скачивание: в чём разница?"
+description: "Чем торрент-стриминг отличается от скачивания: когда удобнее смотреть сразу без ожидания, а когда стоит скачать файл целиком на устройство."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrent-streaming-vs-downloading"
 translationKey: "torrent-streaming-vs-downloading"

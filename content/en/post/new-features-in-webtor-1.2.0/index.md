@@ -1,5 +1,6 @@
 ---
 title: "New features in Webtor 1.2.0"
+description: "Webtor 1.2.0 opens magnet links directly, shows a real piece-by-piece progress bar, and auto-detects encoding of external SRT subtitles."
 date: 2019-09-04T20:02:00+03:00
 series: "What's new"
 translationKey: "v1.2.0"

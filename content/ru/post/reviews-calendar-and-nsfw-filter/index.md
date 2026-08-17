@@ -1,5 +1,6 @@
 ---
 title: "Отзывы, Watchlist, календарь серий — и NSFW скрыт по умолчанию"
+description: "Отзывы зрителей перед просмотром, Watchlist по нажатию сердечка, календарь выхода серий и скрытый по умолчанию NSFW — обновление Discover."
 date: 2026-06-14T12:00:00+03:00
 slug: "reviews-calendar-and-nsfw-filter"
 series: "Что нового"

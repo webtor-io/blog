@@ -1,5 +1,6 @@
 ---
 title: "Torrent streaming vs downloading: what's the difference?"
+description: "Torrent streaming vs downloading explained: how each works, why streaming starts in seconds, and which one to pick for movies, shows and large files."
 date: 2026-01-18T21:47:00+03:00
 slug: "torrent-streaming-vs-downloading"
 translationKey: "torrent-streaming-vs-downloading"

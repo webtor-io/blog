@@ -1,5 +1,6 @@
 ---
 title: "New Player, Continue Watching & Speed Test"
+description: "A rebuilt video player with reliable iOS seek, Continue Watching that resumes your position and auto-plays next episodes, plus a speed test page."
 date: 2026-04-03T18:00:00+03:00
 slug: "new-player-continue-watching-and-speedtest"
 series: "What's new"

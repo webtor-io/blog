@@ -1,5 +1,6 @@
 ---
 title: "Запуск Vault — сохраняйте торренты доступными даже без сидов"
+description: "Vault сохраняет ваши торренты доступными даже без сидов: вкладывайте Vault Points из подписки в важные раздачи — от 50 ГБ на уровне Bronze."
 date: 2026-02-03T19:50:00+03:00
 slug: "vault-is-live"
 translationKey: "vault-is-live"

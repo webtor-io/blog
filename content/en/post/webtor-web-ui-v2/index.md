@@ -1,5 +1,6 @@
 ---
 title: "Meet web-ui version 2!"
+description: "Webtor web-ui v2 adds dark and light themes, email login, clear torrent preparation progress, and scripts that load 5 times faster."
 date: 2024-10-06T15:07:00+03:00
 series: "What's new"
 translationKey: "web-ui-v2"

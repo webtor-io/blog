@@ -1,5 +1,6 @@
 ---
 title: "Web Interface Redesign"
+description: "Webtor's interface redesign adds toast notifications, clearer status icons, smoother playback start, and automatic restart of failed jobs."
 date: 2026-02-17T21:00:00+03:00
 series: "What's new"
 translationKey: "redesign-and-cool-features"

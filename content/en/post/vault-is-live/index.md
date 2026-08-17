@@ -1,5 +1,6 @@
 ---
 title: "Vault is live — keep torrents available even without seeders"
+description: "Vault keeps your torrents available even with zero seeders: invest Vault Points (1 point = 1 GB) from your plan to keep content accessible."
 date: 2026-02-03T19:50:00+03:00
 slug: "vault-is-live"
 translationKey: "vault-is-live"

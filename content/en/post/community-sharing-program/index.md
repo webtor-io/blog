@@ -1,5 +1,6 @@
 ---
 title: "Help Us Grow — 🎁 Get Premium Access as a Thank You"
+description: "Mention Webtor on Reddit, Telegram or your blog and get free premium access: 1 mention earns Bronze, 3 Silver, 5+ Gold for a month."
 date: 2025-07-03T12:00:00+03:00
 slug: "community-sharing-program"
 translationKey: "community-sharing-program"

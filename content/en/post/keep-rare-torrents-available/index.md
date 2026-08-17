@@ -1,5 +1,6 @@
 ---
 title: "How to keep rare torrents available"
+description: "Rare torrents die when the last seeders leave. Learn why it happens and how to keep them accessible, from long-term seeding to Webtor Vault."
 date: 2026-02-06T19:16:00+03:00
 slug: "keep-rare-torrents-available"
 translationKey: "keep-rare-torrents-available"

@@ -1,5 +1,6 @@
 ---
 title: "Technologies inside Webtor.io"
+description: "How Webtor works under the hood: Go microservices on Kubernetes, on-the-fly FFmpeg transcoding to HLS, and streaming before download finishes."
 date: 2019-10-30T21:47:00+03:00
 series: "What's inside"
 translationKey: "technology"

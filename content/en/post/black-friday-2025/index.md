@@ -1,5 +1,6 @@
 ---
 title: "Black Friday Sale — 37% Off on All Plans"
+description: "Black Friday at Webtor: 37% off all plans until December 1. How to grab the year's biggest discount on premium torrent streaming."
 date: 2025-11-26T12:00:00+03:00
 slug: "black-friday-2025"
 translationKey: "black-friday-2025"

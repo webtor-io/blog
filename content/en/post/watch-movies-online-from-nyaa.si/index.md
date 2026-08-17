@@ -1,5 +1,6 @@
 ---
 title: "Watch movies online from nyaa.si"
+description: "A step-by-step guide to streaming anime torrents from nyaa.si in your browser with Webtor - no waiting for downloads, subtitles included."
 date: 2019-07-23T22:26:03+03:00
 series: "Watch movies online from any torrent site"
 ---

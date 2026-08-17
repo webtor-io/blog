@@ -1,5 +1,6 @@
 ---
 title: "New features in Webtor 1.10.0"
+description: "Webtor 1.10.0 adds shareable direct links, player embed codes for your site, transcoding progress display, and mobile external subtitles."
 date: 2021-05-01T21:00:00+03:00
 series: "What's new"
 translationKey: "v1.10.0"

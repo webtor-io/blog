@@ -1,5 +1,6 @@
 ---
 title: "New features in Webtor 1.6.0"
+description: "Webtor 1.6.0 focuses on stability: transcoding reworked for reliable playback and better h264 quality, plus four components now open source."
 date: 2019-12-14T16:52:00+03:00
 series: "What's new"
 translationKey: "v1.6.0"

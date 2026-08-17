@@ -1,5 +1,6 @@
 ---
 title: "Smarter Library With AI Matching"
+description: "Webtor's library now uses AI to identify movies and shows behind cryptic torrent names, match episodes in packs, and split anthology releases."
 date: 2026-05-18T19:00:00+03:00
 slug: "smarter-library-with-ai-matching"
 series: "What's new"

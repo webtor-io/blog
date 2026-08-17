@@ -1,5 +1,6 @@
 ---
 title: "Introducing Webtor 1.0"
+description: "Webtor 1.0 adds seeking in transcoded video, audio track and subtitle selection, resume playback, recent torrents and social sharing."
 date: 2019-07-24T00:15:00+03:00
 series: "What's new"
 translationKey: "v1.0.0"

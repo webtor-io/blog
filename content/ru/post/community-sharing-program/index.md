@@ -1,5 +1,6 @@
 ---
 title: "Помогите нам расти — 🎁 получите Premium-доступ в качестве благодарности"
+description: "Расскажите о Webtor на Reddit, в Telegram или в блоге — и получите бесплатный Premium: от месяца Bronze за одно упоминание до Gold за пять."
 date: 2025-07-03T12:00:00+03:00
 slug: "community-sharing-program"
 translationKey: "community-sharing-program"

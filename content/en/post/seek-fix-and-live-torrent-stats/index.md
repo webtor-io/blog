@@ -1,5 +1,6 @@
 ---
 title: "Seek Is Finally Fixed + Live Torrent Stats"
+description: "Webtor's session-based transcoder makes video seek near-instant, and resource pages now show live torrent status: cache, peers and vault state."
 date: 2026-03-19T18:00:00+03:00
 slug: "seek-fix-and-live-torrent-stats"
 series: "What's new"

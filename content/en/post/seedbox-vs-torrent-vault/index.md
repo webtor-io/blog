@@ -1,5 +1,6 @@
 ---
 title: "Seedbox vs torrent vault: what's the difference?"
+description: "Seedbox vs torrent vault: what each one does, what they cost, when a seedbox is overkill — and when a vault is enough to keep your torrents alive."
 date: 2026-02-06T19:20:00+03:00
 slug: "seedbox-vs-torrent-vault"
 translationKey: "seedbox-vs-torrent-vault"

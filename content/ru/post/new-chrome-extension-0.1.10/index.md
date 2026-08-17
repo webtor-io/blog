@@ -1,5 +1,6 @@
 ---
 title: "Новое расширение Webtor.io для Google Chrome 0.1.10"
+description: "Расширение Webtor для Chrome чинит автоматическое открытие скачанных torrent-файлов: какую настройку включить — пошагово со скриншотами."
 date: 2019-08-03T00:13:37+03:00
 slug: "new-chrome-extension-0.1.10"
 series: "Что нового"

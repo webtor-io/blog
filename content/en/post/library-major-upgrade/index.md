@@ -1,5 +1,6 @@
 ---
 title: "Library just got a major upgrade!"
+description: "Webtor Library now sorts saved torrents into automatic Movies and Series sections, turning long torrent lists into an organized collection."
 date: 2025-05-29T12:00:00+03:00
 slug: "library-major-upgrade"
 series: "What's new"

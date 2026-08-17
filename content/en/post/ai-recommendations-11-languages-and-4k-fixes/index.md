@@ -1,5 +1,6 @@
 ---
 title: "AI Recommendations, 11 Languages & 4K Fixes"
+description: "Webtor adds AI movie recommendations on the Discover page, full support for 11 languages, and fixes that stop 4K streams from freezing."
 date: 2026-04-21T18:00:00+03:00
 slug: "ai-recommendations-11-languages-and-4k-fixes"
 series: "What's new"

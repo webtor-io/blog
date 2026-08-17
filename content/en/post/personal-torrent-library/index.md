@@ -1,5 +1,6 @@
 ---
 title: "Building a personal torrent library"
+description: "How to build a personal torrent library: choose what to keep, organize it, and preserve access to files even after seeders disappear."
 date: 2026-02-06T19:18:00+03:00
 slug: "personal-torrent-library"
 translationKey: "personal-torrent-library"

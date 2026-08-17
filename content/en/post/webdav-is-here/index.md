@@ -1,5 +1,6 @@
 ---
 title: "WebDAV is here!"
+description: "Mount your Webtor library as a network folder over WebDAV: stream or copy files, upload new torrents by drag-and-drop, on desktop and mobile."
 date: 2025-08-25T12:00:00+03:00
 series: "What's new"
 translationKey: "webdav-is-here"

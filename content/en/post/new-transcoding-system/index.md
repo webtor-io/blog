@@ -1,5 +1,6 @@
 ---
 title: "New Transcoding System!"
+description: "Webtor's new transcoding system starts video conversion instantly with no container spin-up delay and caches results until no longer in use."
 date: 2024-12-22T18:32:00+03:00
 series: "What's new"
 translationKey: "new-transcoding-system"

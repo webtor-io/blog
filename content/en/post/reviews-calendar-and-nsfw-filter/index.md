@@ -1,5 +1,6 @@
 ---
 title: "Reviews, a Watchlist, an Episode Calendar — and NSFW Hidden by Default"
+description: "Discover adds viewer reviews, a watchlist with a heart button, an episode calendar for your shows, and hides NSFW content by default."
 date: 2026-06-14T12:00:00+03:00
 slug: "reviews-calendar-and-nsfw-filter"
 series: "What's new"
