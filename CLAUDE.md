@@ -20,6 +20,7 @@ Hugo extended version is required. Verify with `hugo version`.
 - **Static site generator**: Hugo with `hugo-theme-basic` theme (git submodule in `themes/`)
 - **CSS**: Tachyons utility framework + custom dark theme in `static/css/webtor.css`
 - **Deployment**: Docker (nginx:alpine serving `public/`), CI via GitHub Actions pushing to ghcr.io
+- **Crawling**: `static/robots.txt` allows everything and points at `/sitemap.xml`, the sitemap index Hugo builds for the multilingual site (it lists `/en/sitemap.xml` and `/ru/sitemap.xml`)
 - **Analytics**: Umami (privacy-focused), configured in `layouts/partials/head_includes.html`
 
 ### Content Structure
@@ -34,7 +35,7 @@ content/
 
 ### i18n / Translation Linking
 
-Two languages configured in `config.toml`: `en` (weight 1, default) and `ru` (weight 2). English and Russian versions of the same post are linked via the `translationKey` frontmatter field — **both versions must use the same `translationKey` value**. Hugo auto-generates hreflang tags and language switcher links from this.
+Two languages configured in `config.toml`: `en` (weight 1, default) and `ru` (weight 2). English and Russian versions of the same post are linked via the `translationKey` frontmatter field — **both versions must use the same `translationKey` value**. The language switcher and the hreflang tags are built from this: `layouts/partials/header.html` lists every version including the page itself, plus `x-default` pointing at the English one.
 
 ### Taxonomies
 

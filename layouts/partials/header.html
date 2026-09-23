@@ -28,9 +28,15 @@
     <link rel="icon" type="image/png" sizes="16x16" href="https://webtor.io/assets/night/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://webtor.io/assets/night/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="48x48" href="https://webtor.io/assets/night/favicon-48x48.png">
+{{/* hreflang: each language version lists itself and every other version,
+     plus x-default pointing at the default-language version. */}}
 {{ if .IsTranslated }}
-  {{ range .Translations }}
+  {{ $defaultLang := .Sites.Default.Language.Lang }}
+  {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  {{ end }}
+  {{ range where .AllTranslations "Language.Lang" $defaultLang }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
   {{ end }}
 {{ end }}
   </head>
