@@ -37,6 +37,8 @@ content/
 
 Two languages configured in `config.toml`: `en` (weight 1, default) and `ru` (weight 2). English and Russian versions of the same post are linked via the `translationKey` frontmatter field — **both versions must use the same `translationKey` value**. The language switcher and the hreflang tags are built from this: `layouts/partials/header.html` lists every version including the page itself, plus `x-default` pointing at the English one.
 
+Check a pair by reading both posts, not by folder names. Keep the RU folder, its pinned `slug` and the EN folder of the same post on one name. Until 2026-09-23 the RU folders `new-transcoding-system` and `webtor-web-ui-v2` held each other's posts: the `translationKey`s were right, but the slugs pinned in February 2026 followed the folders, so each of the two RU URLs named the other post.
+
 ### Taxonomies
 
 - `series` — groups related posts (e.g., "What's new", "Torrent Basics")
