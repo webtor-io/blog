@@ -1,0 +1,17 @@
+{{- /*
+  Answers one question: should search engines leave this page out of their
+  index? True pages get <meta name="robots" content="noindex, follow"> (see
+  header.html) and are dropped from the sitemap (see layouts/sitemap.xml). The
+  page itself keeps rendering, so the URL, its backlinks and aliases stay alive.
+
+  A post opts in with `noindex: true` in its front matter.
+
+  A taxonomy term page (a series or a tag) has no front matter of its own, so
+  it follows its posts: it is left out when every post in it is left out. Add
+  one indexable post to such a series and the series page comes back by itself.
+*/ -}}
+{{- $noindex := .Params.noindex | default false -}}
+{{- if eq .Kind "term" -}}
+  {{- $noindex = or $noindex (eq (len (where .Pages "Params.noindex" "ne" true)) 0) -}}
+{{- end -}}
+{{- return $noindex -}}

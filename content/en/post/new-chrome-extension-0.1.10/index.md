@@ -8,7 +8,7 @@ titleEmoji: ":tada:"
 aliases:
     - /en/chrome-ext-v0.1.10/
 ---
-This minor update solves annoying problem with automatic opening of downloaded torrent-files on several sites ([yts.am]({{< relref "/post/watch-movies-online-from-yts.am/index.md" >}}) for example).
+This minor update solves annoying problem with automatic opening of downloaded torrent-files on several sites.
 
 To make it working we need to check that "Allow Access to file URLs" option is enabled. Follow these steps:
 

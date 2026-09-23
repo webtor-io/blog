@@ -47,6 +47,12 @@ Permalink pattern: `/post/:slug`
 
 The theme lives in `themes/hugo-theme-basic/`. To customize, place override files in the root `layouts/` directory rather than modifying the theme directly. Currently `layouts/partials/head_includes.html` overrides the theme's version to add Tachyons, custom CSS, Highlight.js, and Umami analytics.
 
+### Keeping a page out of search
+
+`noindex: true` in a post's front matter adds `<meta name="robots" content="noindex, follow">` and drops the page from the sitemap. The URL, its aliases and its backlinks keep working. The rule lives in one place, `layouts/partials/noindex.html`; `layouts/partials/header.html` and `layouts/sitemap.xml` (Hugo's embedded sitemap plus that one filter) both call it, so don't add `sitemap.disable` next to it. Series and tag pages have no front matter of their own: they drop out when every post in them is noindex.
+
+Noindexed today: the four 2019 how-tos "Watch movies online from yts.am / nyaa.si / rutor.org / rutracker.org" and their two series pages (EN, RU). The owner chose noindex over deletion on 2026-09-23 so it stays reversible: remove the `noindex` line to bring a post back. They still show up in the blog's own post lists and RSS. Don't link to them from other posts.
+
 ## Post Frontmatter
 
 ```yaml
@@ -59,6 +65,7 @@ series: "What's new"                  # Optional, groups posts
 titleEmoji: ":rocket:"               # Optional, emoji in title
 aliases:                              # Optional, URL redirects
   - /old-url/
+noindex: true                         # Optional, keeps the page live but out of search
 ---
 ```
 

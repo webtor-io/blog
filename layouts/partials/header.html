@@ -10,6 +10,9 @@
 
     <title>{{ .Title }}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
+{{ if partial "noindex.html" . }}
+    <meta name="robots" content="noindex, follow" />
+{{ end }}
 {{ $title := .Title }}
 {{ with .OutputFormats.Get "RSS" }}
     <link

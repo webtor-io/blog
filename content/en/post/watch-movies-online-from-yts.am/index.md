@@ -3,6 +3,7 @@ title: "Watch movies online from yts.am"
 description: "A step-by-step guide to streaming movies from yts.am in your browser with Webtor: download the torrent file, open it, and press play."
 date: 2019-07-23T14:30:02+03:00
 series: "Watch movies online from any torrent site"
+noindex: true
 ---
 Yts.am (or yts.lt) is specialized in movie releases and has really good catalog to choose from.
 Every single movie has trailer, poster and description. Also it is possible to choose
