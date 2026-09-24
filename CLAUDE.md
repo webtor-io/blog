@@ -70,7 +70,7 @@ aliases:                              # Optional, URL redirects
 
 ## What the blog doesn't publish
 
-No how-tos built around third-party torrent sites or catalogues ("find the movie on site X, grab the .torrent, open it in Webtor"): Webtor plays torrents the reader already has; it is not a way to find content. The four 2019 posts of that kind ("Watch movies online from yts.am / nyaa.si / rutor.org / rutracker.org") and their series were deleted on 2026-09-23 on the owner's decision; their URLs answer 404. Don't bring them back.
+No how-tos built around third-party torrent sites or catalogues ("find the movie on site X, grab the .torrent, open it in Webtor"): Webtor plays torrents the reader already has; it is not a way to find content. The four 2019 posts of that kind ("Watch movies online from yts.am / nyaa.si / rutor.org / rutracker.org") and their series were deleted on 2026-09-23 on the owner's decision; their URLs answer 404. Don't bring them back. The same went on 2026-09-24 for "Webtor + Torrentio = ⚡" (`webtor-torrentio-stremio`): a post named after a torrent-scraping addon that promised "any content … instantly"; the feature it announced is covered by webtor.io/stremio-addons-online and the Smart TV post.
 
 ## Tone of Voice
 
