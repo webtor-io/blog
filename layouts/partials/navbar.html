@@ -2,7 +2,7 @@
 {{ $isSeries := hasPrefix .RelPermalink (printf "/%s/series" .Language.Lang) }}
 
 <nav class="w-navbar">
-  <a href="https://webtor.io" class="w-logo">web<span class="accent">tor</span></a>
+  <a href="https://webtor.io/?utm_source=blog&utm_medium=nav" class="w-logo">web<span class="accent">tor</span></a>
 
   <div class="w-nav-links">
     <a href="{{ "/post" | relLangURL }}" class="w-nav-link{{ if $isBlog }} active{{ end }}">{{ i18n "blog" }}</a>

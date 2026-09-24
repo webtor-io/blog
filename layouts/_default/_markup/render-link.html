@@ -1,0 +1,16 @@
+{{- /* Links from a post to webtor.io say where the visit came from: without
+     utm parameters a reader who clicks through counts as a referral from
+     blog.webtor.io with no post attached. utm_campaign is the post's slug.
+     Links that already carry utm_* and every other host render as Hugo's
+     default link. */ -}}
+{{- $dest := .Destination -}}
+{{- $u := urls.Parse $dest -}}
+{{- if and (in (slice "webtor.io" "www.webtor.io") $u.Host) (not (strings.Contains $u.RawQuery "utm_")) -}}
+  {{- $slug := .Page.Slug | default .Page.File.ContentBaseName -}}
+  {{- $base := index (split $dest "#") 0 -}}
+  {{- $frag := cond (ne $u.Fragment "") (printf "#%s" $u.Fragment) "" -}}
+  {{- $sep := cond (strings.Contains $base "?") "&" "?" -}}
+  {{- $dest = printf "%s%sutm_source=blog&utm_medium=post&utm_campaign=%s%s" $base $sep (urlquery $slug) $frag -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* no trailing newline: the hook's output is inline */ -}}

@@ -22,6 +22,7 @@ Hugo extended version is required. Verify with `hugo version`.
 - **Deployment**: Docker (nginx:alpine serving `public/`), CI via GitHub Actions pushing to ghcr.io
 - **Crawling**: `static/robots.txt` allows everything and points at `/sitemap.xml`, the sitemap index Hugo builds for the multilingual site (it lists `/en/sitemap.xml` and `/ru/sitemap.xml`)
 - **Analytics**: Umami (privacy-focused), configured in `layouts/partials/head_includes.html`
+- **Links to webtor.io carry UTM**: `layouts/_default/_markup/render-link.html` adds `utm_source=blog&utm_medium=post&utm_campaign=<post slug>` to every markdown link to webtor.io without utm of its own; the logo and footer links use `utm_medium=nav` / `footer`. Write plain `https://webtor.io/...` links in posts — the hook tags them
 
 ### Content Structure
 
