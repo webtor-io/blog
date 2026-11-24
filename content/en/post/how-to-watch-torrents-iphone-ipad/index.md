@@ -15,7 +15,7 @@ If you've been struggling with this, you're not alone. This guide covers the rea
 
 ## Why traditional torrent clients don't work on iOS
 
-We've covered this in detail in a [separate post](/post/torrent-clients-iphone), but here's the short version:
+We've covered this in detail in a [separate post](/en/post/torrent-clients-iphone/), but here's the short version:
 
 - **No background downloads.** iOS suspends apps that aren't in the foreground, which kills long-running torrent transfers.
 - **Sandboxed file system.** Apps can't freely write large files or manage partial downloads the way desktop torrent clients do.
@@ -96,7 +96,7 @@ Stremio is a media center app available on Apple TV. With a Webtor account, you 
 2. Install your personal Webtor addon in Stremio
 3. Watch your library directly on Apple TV (streaming requires a paid plan)
 
-Metadata (movie titles, posters, episode info) is detected automatically. We've written a [detailed guide on the Stremio setup](/post/watch-your-torrents-on-tv-with-stremio) and there are [setup instructions](https://webtor.io/instructions/stremio) on the main site.
+Metadata (movie titles, posters, episode info) is detected automatically. We've written a [detailed guide on the Stremio setup](/en/post/watch-your-torrents-on-tv-with-stremio/) and there are [setup instructions](https://webtor.io/instructions/stremio) on the main site.
 
 ---
 

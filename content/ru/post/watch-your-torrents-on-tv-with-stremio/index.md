@@ -31,7 +31,7 @@ translationKey: "stremio-integration"
 
 [Что такое Stremio-аддон Webtor →](https://webtor.io/webtor-stremio-addon)
 
-[Пошагово: стриминг торрентов на Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
+[Пошагово: стриминг торрентов на Smart TV →](/ru/post/stream-torrents-smart-tv-stremio-webtor/)
 
 [Stremio-аддоны онлайн вместе с Webtor →](https://webtor.io/ru/stremio-addons-online)
 
