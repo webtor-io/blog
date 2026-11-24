@@ -30,7 +30,7 @@ Metadata is detected automatically. Works with both movies and series.
 
 [What the Webtor Stremio addon is →](https://webtor.io/webtor-stremio-addon)
 
-[Step-by-step: stream torrents on a Smart TV →](/post/stream-torrents-smart-tv-stremio-webtor)
+[Step-by-step: stream torrents on a Smart TV →](/en/post/stream-torrents-smart-tv-stremio-webtor/)
 
 [Using Stremio addons online with Webtor →](https://webtor.io/stremio-addons-online)
 

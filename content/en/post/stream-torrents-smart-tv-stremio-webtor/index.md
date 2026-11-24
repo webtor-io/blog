@@ -7,7 +7,7 @@ translationKey: "stream-torrents-smart-tv-stremio-webtor"
 series: "Torrent Basics"
 ---
 
-One of the most common requests we've received since launching [Stremio integration](/post/watch-your-torrents-on-tv-with-stremio) is: "How exactly do I set this up on my TV?"
+One of the most common requests we've received since launching [Stremio integration](/en/post/watch-your-torrents-on-tv-with-stremio/) is: "How exactly do I set this up on my TV?"
 
 Fair question. Smart TVs come in many flavors — Android TV, Fire Stick, Apple TV, Chromecast — and the setup varies slightly depending on what you have. This guide covers all of them.
 
